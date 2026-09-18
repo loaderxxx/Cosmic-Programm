@@ -1,42 +1,31 @@
-# Technology Map v0.1
+# Карта технологий v0.1
 
-| Domain | Baseline | Main bottleneck | Research |
+| Область | Базовый уровень | Основной bottleneck | Исследование |
 |---|---|---|---|
-| Launch | reusable systems | cost/cadence/reliability | launch economics |
-| Orbital logistics | rendezvous/refueling concepts | standardization/automation | depot architecture |
-| Power | solar/storage; fission development | mass/thermal/redundancy | hybrid power |
-| Robotics | capable prototypes | autonomy/reliability | autonomous construction |
-| ISRU | early demonstrations | scale/reliability/economics | lunar resource chain |
-| Habitation | ISS heritage | deep-space autonomy/radiation | modular habitats |
-| ECLSS | closed-loop subsystems | closure/reliability | Mars ECLSS |
-| Propulsion | chemical/electric | trip time/power/mass | propulsion portfolio |
-| Manufacturing | early in-space work | feedstock/quality/automation | orbital/lunar manufacturing |
-| AI | rapidly advancing | verification/robustness | trusted autonomy |
-| Communications | mature near-Earth | latency/coverage | delay-tolerant network |
-| Governance | treaty framework | resources/traffic/coordination | legal architecture |
-| Economics | commercial launch ecosystem | sustained demand | industrial economics |
+| Запуски | многоразовые системы | стоимость / частота / надёжность | экономика запусков |
+| Орбитальная логистика | сближение и дозаправка | стандартизация / автоматизация | архитектура депо |
+| Энергетика | солнечная + накопители; ядерная в развитии | масса / тепло / резервирование | гибридная энергетика |
+| Робототехника | рабочие прототипы | автономность / надёжность | автономное строительство |
+| ISRU | ранние демонстрации | масштаб / надёжность / экономика | цепочка лунных ресурсов |
+| Обитание | наследие МКС | автономность / радиация | модульные жилые системы |
+| ECLSS | замкнутые подсистемы | замыкание цикла / надёжность | марсианское жизнеобеспечение |
+| Двигательные системы | химические / электрические | время / энергия / масса | портфель тяги |
+| Производство | ранние орбитальные работы | сырьё / качество / автоматизация | орбитальное и лунное производство |
+| ИИ | быстрое развитие | верификация / устойчивость | доверенная автономность |
+| Связь | зрелая в околоземном пространстве | задержка / покрытие | сети с задержкой |
+| Управление | договорная база | ресурсы / трафик / координация | правовая архитектура |
+| Экономика | коммерческие запуски | устойчивый спрос | индустриальная экономика |
 
-## Required metadata
+## Обязательные параметры
 
-Each technology eventually receives:
-- maturity/TRL
-- evidence
-- mass
-- power
-- lifetime
-- failure modes
-- maintenance burden
-- scalability
-- dependency graph
-- economics
-- next experiment
+Каждая технология со временем получает: зрелость/TRL, доказательства, массу, мощность, срок службы, сценарии отказа, нагрузку обслуживания, масштабируемость, граф зависимостей, экономику и следующий эксперимент.
 
-## Priority rule
+## Правило приоритета
 
-Prioritize technologies that:
-1. unlock multiple missions;
-2. reduce recurring mass from Earth;
-3. reduce human risk;
-4. increase autonomy;
-5. create reusable infrastructure;
-6. remain useful if the destination changes.
+Приоритет получают технологии, которые:
+1. открывают несколько миссий;
+2. уменьшают регулярную массу поставок с Земли;
+3. снижают риск для людей;
+4. повышают автономность;
+5. создают повторно используемую инфраструктуру;
+6. остаются полезными при изменении назначения.
