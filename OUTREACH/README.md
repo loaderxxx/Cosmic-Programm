@@ -1,35 +1,35 @@
-# External Research & Outreach
+# Внешние исследования и контакты
 
-## Mission
+## Миссия
 
-Connect Cosmic Programm with serious researchers, engineers, entrepreneurs, institutions and builders working on difficult or unconventional ideas.
+Связать Cosmic Programm с серьёзными исследователями, инженерами, предпринимателями, организациями и командами, работающими над сложными или нестандартными задачами.
 
-## Pipeline
+## Процесс
 
-DISCOVER → QUALIFY → STUDY → PREPARE → SANITIZE → CONTACT → DISCUSS → LEARN → COLLABORATE → CAPTURE
+**ОБНАРУЖИТЬ → КВАЛИФИЦИРОВАТЬ → ИЗУЧИТЬ → ПОДГОТОВИТЬ → САНИТАРИЗИРОВАТЬ → СВЯЗАТЬСЯ → ОБСУДИТЬ → УЗНАТЬ → СОТРУДНИЧАТЬ → ЗАФИКСИРОВАТЬ**
 
-## Target categories
+## Целевые категории
 
-- space agencies
-- advanced propulsion researchers
-- robotics/autonomy teams
-- space-resource researchers
-- launch/infrastructure companies
-- AI and space researchers
-- universities
-- radical-concept researchers
-- long-horizon technology investors
+- космические агентства
+- исследователи передовой тяги
+- команды робототехники и автономности
+- исследователи космических ресурсов
+- компании запусков и инфраструктуры
+- исследователи ИИ и космоса
+- университеты
+- исследователи радикальных концепций
+- инвесторы долгосрочных технологий
 
-## Outreach package
+## Пакет для контакта
 
-Before contact prepare:
-1. one-page mission
-2. architecture
-3. strongest evidence
-4. explicit hypotheses
-5. key unknowns
-6. specific question
-7. collaboration proposal
-8. proprietary-information boundary
+Перед контактом подготовить:
+1. одностраничное описание миссии
+2. архитектуру
+3. наиболее сильные доказательства
+4. явные гипотезы
+5. ключевые неизвестные
+6. конкретный вопрос
+7. предложение о сотрудничестве
+8. границу проприетарной информации
 
-No outreach may imply endorsement, funding, partnership or personal access that does not exist.
+Внешняя коммуникация не должна подразумевать поддержки, финансирования, партнёрства или личного доступа, которых фактически нет.
