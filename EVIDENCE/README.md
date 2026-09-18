@@ -1,27 +1,27 @@
-# Evidence Interface
+# Доказательная база
 
-This public directory contains only sanitized, public evidence.
+В этой публичной директории размещаются только санитизированные открытые доказательства.
 
-For every important claim store:
-- claim
-- source
-- date
-- source type
-- relevant data point
-- interpretation
-- confidence
-- limitations
-- falsification condition
-- last verified date
+Для каждого важного утверждения фиксировать:
+- утверждение
+- источник
+- дату
+- тип источника
+- релевантную точку данных
+- интерпретацию
+- уверенность
+- ограничения
+- условие фальсификации
+- дату последней проверки
 
-## Source hierarchy
+## Иерархия источников
 
-1. primary government/agency documents
-2. peer-reviewed research
-3. technical standards
-4. institutional technical reports
-5. reputable industry technical documentation
-6. secondary analysis
-7. community discussion
+1. первичные документы государственных органов и космических агентств
+2. рецензируемые исследования
+3. технические стандарты
+4. институциональные технические отчёты
+5. качественная техническая документация индустрии
+6. вторичный анализ
+7. обсуждения сообщества
 
-A citation proves that a source exists; it does not automatically prove our interpretation.
+Наличие цитаты доказывает существование источника, но не автоматически доказывает нашу интерпретацию.
