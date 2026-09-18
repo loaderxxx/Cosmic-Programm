@@ -1,47 +1,48 @@
-# Space Law & Governance Baseline
+# Космическое право и управление — базовый уровень
 
-Status: FACT / RESEARCH BASELINE — NOT LEGAL ADVICE
+Статус: ФАКТ / ИССЛЕДОВАТЕЛЬСКАЯ БАЗА — НЕ ЮРИДИЧЕСКАЯ КОНСУЛЬТАЦИЯ
 
-## Outer Space Treaty
+## Договор о космосе
 
-UNOOSA describes the Outer Space Treaty as the basic framework of international space law. It establishes freedom of exploration/use, non-appropriation, state responsibility for national space activities, liability, peaceful use of celestial bodies and avoidance of harmful contamination.
+UNOOSA рассматривает Договор о космосе как базовую основу международного космического права. Он устанавливает свободу исследования и использования космоса, принцип неприсвоения, ответственность государств за национальную космическую деятельность, ответственность за ущерб, мирное использование небесных тел и предотвращение вредного загрязнения.
 
-## Space resources
+## Космические ресурсы
 
-The legal treatment of space-resource activities remains an active international policy topic. UN materials discuss how resource utilization can be reconciled with the Outer Space Treaty and how legal certainty may evolve as activities become technically feasible.
+Правовой режим деятельности по использованию космических ресурсов остаётся развивающейся международной темой.
 
-## Program rule
+## Правило программы
 
-No Cosmic Programm concept may assume that a resource, territory, orbit, infrastructure location or commercial activity is legally uncontested.
+Ни одна концепция Cosmic Programm не должна исходить из того, что ресурс, территория, орбита, место инфраструктуры или коммерческая деятельность юридически бесспорны.
 
-For every operational concept record:
-JURISDICTION → ACTOR → ACTIVITY → LICENSE/REGISTRATION → LIABILITY → ENVIRONMENTAL/CONTAMINATION → RESOURCE RIGHTS → INTERNATIONAL OBLIGATIONS → UNKNOWN
+Для каждой практической концепции фиксировать:
 
-## Governance principles
+**ЮРИСДИКЦИЯ → УЧАСТНИК → ДЕЯТЕЛЬНОСТЬ → ЛИЦЕНЗИЯ/РЕГИСТРАЦИЯ → ОТВЕТСТВЕННОСТЬ → ЭКОЛОГИЯ/ЗАГРЯЗНЕНИЕ → ПРАВА НА РЕСУРСЫ → МЕЖДУНАРОДНЫЕ ОБЯЗАТЕЛЬСТВА → НЕИЗВЕСТНОЕ**
 
-- peaceful exploration
-- scientific integrity
-- safety
-- environmental stewardship
-- interoperability
-- responsible resource use
-- international consultation where required
-- clear liability/accountability
-- human control over irreversible decisions
+## Принципы управления
 
-## Legal research backlog
+- мирное исследование
+- научная добросовестность
+- безопасность
+- ответственное отношение к окружающей среде
+- совместимость стандартов
+- ответственное использование ресурсов
+- международные консультации там, где они требуются
+- ясная ответственность
+- контроль человека над необратимыми решениями
 
-1. space-resource regimes by jurisdiction
-2. launch licensing
-3. remote sensing
-4. frequency/orbit regulation
-5. nuclear power sources
-6. planetary protection
-7. space traffic management
-8. export controls
-9. international commercial contracts
-10. ownership/IP of off-world products
-11. insurance/liability
-12. settlement governance
+## Юридический backlog
 
-This document must be updated when a concept moves toward real-world activity.
+1. режимы космических ресурсов по юрисдикциям
+2. лицензирование запусков
+3. дистанционное зондирование
+4. регулирование частот и орбит
+5. ядерные источники энергии
+6. планетарная защита
+7. управление космическим движением
+8. экспортный контроль
+9. международные коммерческие контракты
+10. собственность и IP внеземной продукции
+11. страхование и ответственность
+12. управление поселениями
+
+Документ обновляется при приближении концепции к реальной деятельности.
