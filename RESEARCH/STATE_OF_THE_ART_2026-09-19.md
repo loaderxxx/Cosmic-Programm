@@ -1,57 +1,55 @@
-# State of the Art — 2026-09-19
+# Состояние технологий — 19.09.2026
 
-## Executive finding
+## Главный вывод
 
-The current frontier is not one breakthrough spacecraft. It is convergence of reusable transportation, orbital logistics, autonomous robotics, reliable power, ISRU, habitat systems and commercial/institutional ecosystems.
+Современный передний край — это не один прорывной космический аппарат, а соединение многоразового транспорта, орбитальной логистики, автономной робототехники, надёжной энергетики, ISRU, обитаемых систем и коммерческой/институциональной экосистемы.
 
-## Lunar infrastructure
+## Лунная инфраструктура
 
-NASA identifies power/storage, water and oxygen extraction, autonomous excavation, construction and dust mitigation as key lunar surface technology areas.
+Ключевые направления: энергетика и накопление энергии, добыча воды и кислорода, автономные земляные работы, строительство и борьба с лунной пылью.
 
-Implication: the Moon should be treated as both destination and infrastructure proving ground.
+Луну следует рассматривать одновременно как цель и испытательный полигон инфраструктуры.
 
-## Power
+## Энергетика
 
-NASA's Fission Surface Power program is developing nuclear surface power for reliable operation independent of sunlight, with lunar demonstration work intended to support future lunar and Mars operations.
+Развивается ядерная поверхностная энергетика для работы независимо от солнечного освещения.
 
-Research direction: compare solar plus storage, fission and hybrid architectures on mass, reliability, redundancy, thermal rejection, lifetime and logistics.
+Направление исследования: сравнить солнечную энергетику с накопителями, ядерную и гибридную архитектуры по массе, надёжности, резервированию, теплоотводу, сроку службы и логистике.
 
-## Reusable transport
+## Многоразовый транспорт
 
-ESA's Themis program is testing reusable launch-stage technologies. ESA transportation programs also describe orbital logistics hubs, refueling, maintenance, assembly and space tugs.
+Развиваются технологии многоразовых ступеней, орбитальной логистики, дозаправки, обслуживания, сборки и космических буксиров.
 
-Implication: reusable access and in-space logistics are infrastructure multipliers.
+Многоразовый доступ и орбитальная логистика являются мультипликаторами инфраструктуры.
 
 ## ISRU
 
-ESA identifies local production of water, oxygen, propellant and construction materials as important ISRU applications.
+Перспективные направления: локальное производство воды, кислорода, топлива и строительных материалов.
 
-Key unknown: economic break-even and reliability at operational scale.
+Главные неизвестные: экономическая точка безубыточности и надёжность в эксплуатационном масштабе.
 
-## Autonomy and robotics
+## Автономность и робототехника
 
-NASA's lunar infrastructure work includes autonomous excavation and construction.
+Развиваются автономные земляные и строительные системы.
 
-Program hypothesis: pre-deploy robotic infrastructure before humans where this reduces human exposure and increases accumulated site readiness.
+Гипотеза программы: предварительное развёртывание роботизированной инфраструктуры до прибытия людей может снизить риск для людей и повысить готовность объекта.
 
-## Life support
+## Жизнеобеспечение
 
-NASA notes that missions beyond LEO require technologies that minimize launch mass and resupply while increasing reliability and self-sufficiency. ISS ECLSS provides a foundation, but deep-space missions impose stronger requirements.
+Для миссий дальше НОО требуется снижать массу запусков и объём снабжения, одновременно повышая надёжность и самодостаточность.
 
-## Advanced concepts
+## Передовые концепции
 
-NASA NIAC funds early-stage concepts that could radically change future missions. The 2026 portfolio includes unconventional propulsion, solar-sail, sensing and autonomous exploration concepts.
+Ранние программы вроде NASA NIAC исследуют концепции, способные изменить будущие миссии.
 
-Program rule: maintain a radical-concepts portfolio, but separate it from the baseline until evidence improves.
+Правило программы: радикальные концепции изучаются отдельно и не входят в базовую архитектуру до улучшения доказательной базы.
 
-## Legal environment
+## Правовая среда
 
-The Outer Space Treaty establishes freedom of exploration/use, non-appropriation, state responsibility for national activities, liability and contamination-related obligations. UN work on space resources continues to develop the legal understanding of resource activities.
+Договор о космосе формирует базовые принципы свободы исследования и использования космоса, неприсвоения, ответственности государств и предотвращения вредного загрязнения.
 
-## Strategic conclusion
+## Стратегический вопрос
 
-The central research question is:
+**Какая цепочка возможностей наиболее эффективно создаёт самоподдерживающуюся космическую инфраструктуру?**
 
-Which capability chain most efficiently compounds into a self-reinforcing space infrastructure?
-
-The next step is quantitative modeling.
+Следующий шаг — количественное моделирование.
