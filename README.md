@@ -1,27 +1,39 @@
-# Cosmic Programm
+# Cosmic Programm 🚀
 
-## Mission
+## Русская версия — основной вход
 
-Cosmic Programm is a long-horizon, evidence-driven program for developing a coherent pathway from today's capabilities toward durable human and robotic activity beyond Earth.
+**Cosmic Programm** — независимая долгосрочная исследовательская программа о развитии деятельности людей и роботов за пределами Земли.
 
-It is broader than a single mission or spacecraft. It integrates transportation, orbital infrastructure, power, autonomy, robotics, ISRU, habitation, science, economics, governance, safety, AI and long-term resilience.
+Главная идея:
 
-## Method
+**ЗЕМЛЯ → ДОСТУП В КОСМОС → ОРБИТАЛЬНАЯ ИНФРАСТРУКТУРА → ЛУНА → ЭНЕРГИЯ → АВТОНОМНОСТЬ → РЕСУРСЫ → ПРОИЗВОДСТВО → ОБИТАНИЕ → МАРС → СОЛНЕЧНАЯ СИСТЕМА**
 
-VISION → OBJECTIVES → CAPABILITIES → ARCHITECTURE → TECHNOLOGY GAPS → EXPERIMENTS → EVIDENCE → ITERATION → DEPLOYMENT
+Мы не начинаем с одной «волшебной» технологии. Мы исследуем цепочку возможностей, где каждая следующая способность усиливает предыдущие.
 
-Every major statement is classified as FACT, ASSUMPTION, HYPOTHESIS, EXPERIMENT, EVIDENCE, UNKNOWN, INTERPRETATION, FORECAST or DESIRE.
+### Быстрый старт
 
-NASA's current Moon to Mars architecture is a useful reference because it decomposes long-term exploration into evolving capability segments and sub-architectures. Cosmic Programm deliberately explores a wider civilization-scale space. 
+👉 **[Открыть русскую документацию](RU/README.md)**
 
-## Core thesis
+Основные разделы:
+- [Промпт проекта](RU/PROJECT_PROMPT.md)
+- [Манифест](RU/PROJECT_MANIFEST.md)
+- [Архитектура](RU/ARCHITECTURE.md)
+- [Дорожная карта](RU/ROADMAP.md)
+- [Текущее состояние отрасли](RU/RESEARCH/STATE_OF_THE_ART_2026-09-19.md)
+- [Карта технологий](RU/RESEARCH/TECHNOLOGY_MAP.md)
+- [Эксперименты](RU/EXPERIMENTS/EXPERIMENT_FRAMEWORK.md)
+- [Право и управление](RU/RESEARCH/LEGAL_AND_GOVERNANCE.md)
+- [Безопасность](RU/SECURITY.md)
+- [Аудит публикации](RU/PUBLICATION_AUDIT_2026-09-19.md)
 
-A durable cosmic program should not begin by choosing one heroic destination. It should build reusable capability layers whose value compounds:
+### English
 
-ACCESS → POWER → AUTONOMY → RESOURCES → HABITATION → LOGISTICS → INDUSTRY → SCIENCE → EXPANSION
+Оригинальная английская версия сохранена в корневых документах репозитория.
 
-## Status
+## Метод
 
-EXPLORATORY / SYSTEMS R&D / HYPOTHESIS-DRIVEN
+**ВИДЕНИЕ → ЦЕЛИ → ВОЗМОЖНОСТИ → АРХИТЕКТУРА → ТЕХНОЛОГИЧЕСКИЕ БАРЬЕРЫ → ЭКСПЕРИМЕНТЫ → ДОКАЗАТЕЛЬСТВА → ИТЕРАЦИЯ → РЕАЛИЗАЦИЯ**
 
-Initial baseline: 2026-09-19.
+Статус: **EXPLORATORY / SYSTEMS R&D / HYPOTHESIS-DRIVEN**
+
+Начальный базовый уровень: 2026-09-19.
