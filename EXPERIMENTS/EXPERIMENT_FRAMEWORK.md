@@ -1,54 +1,37 @@
-# Experiment Framework
+# Система экспериментов
 
-## Purpose
+## Цель
 
-Prevent Cosmic Programm from becoming a collection of attractive speculation.
+Не допустить превращения Cosmic Programm в набор красивых, но непроверенных спекуляций.
 
-## Standard loop
+## Стандартный цикл
 
-METHOD → HYPOTHESIS → TEST → MEASURE → RESULT → ALTERNATIVE EXPLANATIONS → REPLICATION → DECISION
+**МЕТОД → ГИПОТЕЗА → ТЕСТ → ИЗМЕРЕНИЕ → РЕЗУЛЬТАТ → АЛЬТЕРНАТИВНЫЕ ОБЪЯСНЕНИЯ → ПОВТОР → РЕШЕНИЕ**
 
-## First portfolio
+## Первый портфель
 
-E01 — Capability graph
-Build a dependency graph from Earth launch to lunar industry and Mars operations.
-Measure: critical nodes and single points of failure.
+**E01 — Граф возможностей:** зависимости от земных запусков до лунной промышленности и Марса. Измерение: критические узлы и единственные точки отказа.
 
-E02 — Lunar power trade
-Compare solar/storage, fission and hybrid systems.
-Measure: delivered energy per system mass, redundancy, lifetime, thermal burden and logistics mass.
+**E02 — Энергетика Луны:** сравнить солнечную/накопительную, ядерную и гибридную системы по энергии/массе, резервированию, сроку службы, теплоотводу и логистике.
 
-E03 — Autonomous construction
-Simulate robotic site preparation and habitat construction.
-Measure: human-hours avoided, mass moved, autonomy and recovery.
+**E03 — Автономное строительство:** симулировать подготовку площадки и строительство роботами. Измерение: сэкономленные человеко-часы, перемещённая масса, автономность и восстановление после отказов.
 
-E04 — ISRU chain
-Model local resource → processing → storage → useful product.
-Measure: energy/kg, equipment mass, throughput, reliability and replacement logistics.
+**E04 — Цепочка ISRU:** местный ресурс → переработка → хранение → полезный продукт. Измерение: энергия/кг, масса оборудования, производительность, надёжность и логистика замены.
 
-E05 — Logistics network
-Model Earth → LEO → lunar orbit → surface → Mars.
-Measure: recurring Earth mass, cadence, depot utilization and time.
+**E05 — Логистическая сеть:** Земля → НОО → лунная орбита → поверхность → Марс. Измерение: регулярная масса с Земли, частота, загрузка депо и время.
 
-E06 — Mars power
-Stress-test assumptions behind nuclear-primary Mars surface power.
+**E06 — Энергетика Марса:** стресс-тест предположений о ядерной основе поверхностной энергетики.
 
-E07 — Propulsion portfolio
-Compare chemical, electric, nuclear-electric, nuclear-thermal and speculative concepts.
-Measure: delta-v, trip time, power, propellant, mass and maturity.
+**E07 — Портфель тяги:** сравнить химическую, электрическую, ядерно-электрическую, ядерно-тепловую и спекулятивную тягу по ΔV, времени, мощности, топливу, массе и зрелости.
 
-E08 — AI autonomy
-Test planning, perception and fault diagnosis in simulated deep-space operations.
-Measure: completion, intervention rate, unsafe actions and recovery.
+**E08 — Автономность ИИ:** проверить планирование, восприятие и диагностику отказов в моделируемых дальних миссиях.
 
-E09 — Economic compounding
-Model whether reusable logistics + ISRU + manufacturing reduce marginal mission cost.
+**E09 — Экономическое накопление:** проверить, снижают ли многоразовая логистика, ISRU и производство предельную стоимость миссии.
 
-E10 — 90-day architecture backtest
-Attempt to falsify the entire current architecture.
+**E10 — Backtest архитектуры на 90 дней:** попытаться опровергнуть всю текущую архитектуру.
 
-## Promotion rule
+## Правило продвижения
 
-HYPOTHESIS → EXPERIMENT → EVIDENCE → ARCHITECTURE CANDIDATE → BASELINE
+**ГИПОТЕЗА → ЭКСПЕРИМЕНТ → ДОКАЗАТЕЛЬСТВО → КАНДИДАТ В АРХИТЕКТУРУ → БАЗОВЫЙ ЭЛЕМЕНТ**
 
-Promotion requires reproducibility, quantified uncertainty, known limitations and compatibility with the wider system.
+Для продвижения нужны воспроизводимость, количественная неопределённость, известные ограничения и совместимость с системой в целом.
