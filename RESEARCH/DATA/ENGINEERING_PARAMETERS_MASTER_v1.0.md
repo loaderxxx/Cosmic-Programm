@@ -1,34 +1,34 @@
-# Engineering Parameters Master v1.0
+# Сводная база инженерных параметров v1.0
 
-Updated: 2026-09-19
+Обновлено: 2026-09-19
 
-Normalized public engineering-data layer. Values are separated into flight/operational, design target, study value, estimate, or unknown. Unknown is preferred to invented precision.
+Нормализованный публичный инженерный слой. Значения разделяются на: лётные/эксплуатационные, целевые, исследовательские, оценочные и неизвестные. Неизвестное предпочтительнее выдуманной точности.
 
-## Launch systems
+## Системы выведения
 
-| System | Configuration | Public parameters | Propulsion | Reuse |
+| Система | Конфигурация | Публичные параметры | Двигатели | Многоразовость |
 |---|---|---|---|---|
-| NASA SLS | Block 1 | 322 ft / 98.1 m; >27 t to deep space; 8.8 million lbf max thrust | 4 RS-25 + 2 five-segment SRBs; ICPS | Expendable |
-| NASA SLS | Block 1B | 38 t to deep space incl. Orion/crew | Core + RS-25 + boosters + EUS | Expendable |
-| SpaceX Falcon 9 | operational | 70 m; 3.7 m; 549,054 kg; 22,800 kg LEO published value | 9 Merlin; LOX/RP-1 | First-stage reuse |
-| SpaceX Starship | published architecture | 124 m; 9 m; 100+ t payload target; Starship 1,600 t propellant; Super Heavy 3,650 t | Methane/LOX; Raptor | Fully reusable architecture |
-| Blue Origin New Glenn | published architecture | >98 m; 7 m fairing; 45 t LEO / >13 t GTO | 7 BE-4 + 2 BE-3U | Reusable first stage |
-| ESA Ariane 6 | Ariane 62/64 | ~10.3 / 21.6 t LEO; ~4.5 / 11.5 t GTO | Vulcain 2.1 + P120C | Expendable |
+| NASA SLS | Block 1 | 322 фута / 98,1 м; >27 т на траекторию дальнего космоса; 8,8 млн фунтов максимальной тяги | 4 RS-25 + 2 пятисегментных ТТУ; ICPS | Одноразовая |
+| NASA SLS | Block 1B | 38 т в дальний космос с Orion/экипажем | Центральная ступень + RS-25 + ускорители + EUS | Одноразовая |
+| SpaceX Falcon 9 | эксплуатационная | 70 м; 3,7 м; 549 054 кг; опубликовано 22 800 кг на НОО | 9 Merlin; LOX/RP-1 | Возврат первой ступени |
+| SpaceX Starship | опубликованная архитектура | 124 м; 9 м; целевая полезная нагрузка 100+ т; Starship 1600 т топлива; Super Heavy 3650 т | Метан/кислород; Raptor | Полностью многоразовая архитектура |
+| Blue Origin New Glenn | опубликованная архитектура | >98 м; обтекатель 7 м; 45 т на НОО / >13 т на ГПО | 7 BE-4 + 2 BE-3U | Многоразовая первая ступень |
+| ESA Ariane 6 | Ariane 62/64 | ~10,3 / 21,6 т на НОО; ~4,5 / 11,5 т на ГПО | Vulcain 2.1 + P120C | Одноразовая |
 
-## Crew / deep-space spacecraft
+## Пилотируемые и дальнекосмические аппараты
 
-| System | Role | Public baseline |
+| Система | Роль | Публичная база |
 |---|---|---|
-| Orion | Crew transport / return | 4 crew; up to 21 days; ~78,000 lb gross liftoff mass; crew module + European service module + launch abort system |
-| Gateway | Cislunar infrastructure | Modular lunar-orbit architecture for habitation, logistics, science, communications and staging; configuration evolves |
-| HLS | Lunar surface transport | Commercial lander architecture integrated with Orion/Artemis; provider-specific design |
+| Orion | Транспортировка экипажа / возвращение | 4 человека; до 21 дня; ~78 000 фунтов стартовой массы; командный модуль + европейский служебный модуль + система аварийного спасения |
+| Gateway | Инфраструктура окололунного пространства | Модульная архитектура для обитаемости, логистики, науки, связи и промежуточных операций; конфигурация развивается |
+| HLS | Лунный посадочный транспорт | Коммерческая архитектура посадочного аппарата, интегрированная с Orion/Artemis; конструкция зависит от поставщика |
 
-## Qualification and verification
+## Квалификация и верификация
 
-Recurring programme activities include component qualification, subsystem tests, structural tests, propulsion hot-fire, avionics/software HIL, thermal-vacuum, acoustic/vibration, aerodynamic testing where applicable, integrated vehicle tests, wet-dress/countdown rehearsal, flight testing and post-flight data review.
+Типовая цепочка включает квалификацию компонентов, испытания подсистем, конструкционные испытания, огневые испытания двигателей, HIL-испытания авионики/ПО, термовакуум, вибрацию/акустические воздействия, аэродинамические испытания при необходимости, комплексные испытания, репетиции заправки/обратного отсчёта, лётные испытания и анализ послеполётных данных.
 
-## Data schema for future entries
+## Схема будущих данных
 
-system; subsystem; parameter; value; unit; status; source organization; document; page/section; date; confidence; mission relevance.
+система; подсистема; параметр; значение; единица; статус; организация-источник; документ; страница/раздел; дата; доверие; применимость к миссии.
 
-The public database deliberately distinguishes measured/operational values from targets and studies.
+Публичная база намеренно отделяет измеренные/эксплуатационные значения от целей и исследовательских значений.
