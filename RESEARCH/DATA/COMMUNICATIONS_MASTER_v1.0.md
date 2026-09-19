@@ -1,34 +1,34 @@
-# Communications Master v1.0
+# Сводная база связи v1.0
 
-## Link-budget chain
+## Цепочка расчёта радиолинии
 
-Each mission should document:
+Каждая миссия должна документировать:
 
-transmit power → antenna gain → path loss → pointing loss → polarization/implementation loss → atmospheric/space losses where applicable → receiver gain/noise → Eb/N0 or equivalent margin → achievable data rate.
+мощность передатчика → усиление антенны → потери на трассе → потери наведения → поляризационные/реализационные потери → атмосферные/космические потери при необходимости → усиление/шум приёмника → Eb/N0 или эквивалентный запас → достижимая скорость передачи данных.
 
-## Mission data products
+## Типы данных миссии
 
-Separate:
-- housekeeping telemetry;
-- engineering telemetry;
-- command traffic;
-- payload science data;
-- navigation/ranging data;
-- contingency communications.
+Разделять:
+- служебную телеметрию;
+- инженерную телеметрию;
+- команды;
+- научные данные полезной нагрузки;
+- навигационные/дальномерные данные;
+- аварийную связь.
 
-## Ground architecture
+## Наземная архитектура
 
-Define:
-- spacecraft radios;
-- antennae;
-- ground stations;
-- network routing;
-- mission control;
-- data archive;
-- time synchronization;
-- command authorization;
-- degraded-mode communications.
+Определить:
+- бортовые радиостанции;
+- антенны;
+- наземные станции;
+- маршрутизацию сети;
+- центр управления миссией;
+- архив данных;
+- синхронизацию времени;
+- авторизацию команд;
+- связь в деградированном режиме.
 
-## Evidence rule
+## Правило доказательности
 
-Data-rate numbers are meaningless without frequency band, modulation/coding, range, antenna assumptions and link margin. The public repository therefore records the assumptions with each communications figure.
+Цифра скорости передачи данных бессмысленна без диапазона частот, модуляции/кодирования, дальности, параметров антенн и запаса радиолинии. Поэтому публичная база хранит эти предположения вместе с каждой цифрой связи.
