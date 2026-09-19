@@ -1,39 +1,39 @@
-# Cosmic Programm System Requirements v1.0
+# Системные требования Cosmic Programm v1.0
 
-Status: preliminary architecture-derived requirements candidates.
+Статус: предварительные требования, выведенные из архитектуры.
 
-## SYS-001 Traceability
-Every flight requirement shall trace to a mission objective, function and verification method.
+## SYS-001 Трассируемость
+Каждое лётное требование должно быть связано с целью миссии, функцией и методом верификации.
 
-## SYS-002 Evidence
-Every quantitative requirement shall identify its source or engineering derivation.
+## SYS-002 Доказательность
+Каждое количественное требование должно иметь источник или инженерный вывод.
 
-## SYS-003 Modular payload
-First-generation mission architecture shall support replaceable payload modules without redesigning the complete spacecraft.
+## SYS-003 Модульная полезная нагрузка
+Архитектура первого поколения должна поддерживать заменяемые модули полезной нагрузки без переделки всего космического аппарата.
 
-## SYS-004 Communications
-Provide defined command, telemetry and payload-data paths with documented interfaces and link-budget assumptions.
+## SYS-004 Связь
+Должны существовать определённые каналы команд, телеметрии и данных полезной нагрузки с документированными интерфейсами и предположениями радиолинии.
 
-## SYS-005 Autonomous recovery
-Implement defined fault-detection, safe-state and recovery behavior for mission-critical failures.
+## SYS-005 Автономное восстановление
+Должны быть реализованы обнаружение отказов, переход в безопасное состояние и восстановление для критических отказов.
 
-## SYS-006 Power
-Maintain an explicit generation, storage, distribution and load-shedding budget.
+## SYS-006 Энергия
+Должен существовать явный бюджет генерации, накопления, распределения и отключения второстепенных нагрузок.
 
-## SYS-007 Thermal
-Define environment, operating range, heat rejection concept and survival mode.
+## SYS-007 Тепловой режим
+Должны быть определены среда, рабочий диапазон, схема отвода тепла и режим выживания.
 
-## SYS-008 Attitude/navigation
-Define attitude knowledge/control accuracy, sensors, actuators and navigation sources.
+## SYS-008 Ориентация и навигация
+Должны быть определены точность знания/управления ориентацией, датчики, исполнительные органы и источники навигации.
 
-## SYS-009 Verification
-Each requirement shall have verification by analysis, inspection, test, demonstration or flight result.
+## SYS-009 Верификация
+Каждое требование должно проверяться анализом, инспекцией, испытанием, демонстрацией или лётным результатом.
 
-## SYS-010 Knowledge reuse
-Every mission shall produce engineering data reusable by subsequent missions.
+## SYS-010 Повторное использование знаний
+Каждая миссия должна производить инженерные данные, пригодные для следующих миссий.
 
-## SYS-011 External interfaces
-Launch and ground-service interfaces shall be documented separately from internal spacecraft interfaces.
+## SYS-011 Внешние интерфейсы
+Интерфейсы носителя и наземного обслуживания должны документироваться отдельно от внутренних интерфейсов космического аппарата.
 
-## SYS-012 Public evidence
-Mature non-confidential technical evidence shall be published with targets, assumptions and unknowns clearly labelled.
+## SYS-012 Публичные доказательства
+Зрелые неконфиденциальные технические данные должны публиковаться с явной маркировкой целей, предположений и неизвестных.
