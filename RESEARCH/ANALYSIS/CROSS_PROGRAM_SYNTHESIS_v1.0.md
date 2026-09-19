@@ -1,43 +1,43 @@
-# Cross-Program Technical Synthesis v1.0
+# Межпрограммный технический синтез v1.0
 
-## Executive finding
+## Главный вывод
 
-A space programme is an integrated capability stack: access to orbit, spacecraft, power, communications, navigation, autonomy, payloads, logistics, operations, verification and ground infrastructure.
+Космическая программа — это интегрированный стек возможностей: доступ в космос, космические аппараты, энергия, связь, навигация, автономность, полезная нагрузка, логистика, эксплуатация, верификация и наземная инфраструктура.
 
-NASA decomposes exploration into capabilities and tracks architecture-driven technology/data gaps. SpaceX publishes reusable transportation plus payload-interface information. ESA exposes operational and payload constraints through technical user documentation. Blue Origin combines heavy-lift volume with reusable first-stage architecture.
+NASA декомпозирует исследование Луны и Марса на возможности и отслеживает технологические и информационные пробелы архитектуры. SpaceX публикует данные о многоразовой транспортной системе и интерфейсах полезной нагрузки. ESA раскрывает эксплуатационные ограничения через техническую документацию. Blue Origin сочетает тяжёлую ракету с многоразовой первой ступенью.
 
-## Recurring engineering patterns
+## Повторяющиеся инженерные закономерности
 
-1. Capability decomposition before hardware selection.
-2. Explicit interfaces between vehicles, payloads and ground systems.
-3. Qualification and integrated testing as part of architecture development.
-4. Logistics treated as a system rather than a launch event.
-5. Increasing autonomy as mission distance and operational complexity grow.
-6. Reuse and cadence treated as programme-level capabilities.
+1. Сначала декомпозиция возможностей, затем выбор аппаратуры.
+2. Явные интерфейсы между носителем, полезной нагрузкой и наземной системой.
+3. Квалификация и комплексные испытания как часть разработки архитектуры.
+4. Логистика рассматривается как система, а не как отдельный запуск.
+5. По мере роста расстояния и сложности растёт роль автономности.
+6. Многоразовость и темп запусков становятся возможностями всей программы.
 
-## Divergent choices
+## Различия архитектур
 
-SLS uses an expendable deep-space heavy-lift architecture. Falcon 9 demonstrates operational first-stage reuse. Starship publishes a fully reusable two-stage architecture. Ariane 6 uses modular launch configurations. New Glenn combines heavy lift with reusable first-stage architecture. NASA's lunar architecture distributes functions among launch, crew transport, lunar-orbit infrastructure and commercial landers.
+SLS использует одноразовую тяжёлую архитектуру для дальнего космоса. Falcon 9 демонстрирует эксплуатационную многоразовость первой ступени. Starship публикуется как полностью многоразовая двухступенчатая архитектура. Ariane 6 использует модульные конфигурации. New Glenn сочетает тяжёлый вывод с многоразовой первой ступенью. Лунная архитектура NASA распределяет функции между носителем, кораблём экипажа, окололунной инфраструктурой и коммерческими посадочными аппаратами.
 
-These are descriptive differences, not a ranking.
+Это описательные различия, а не рейтинг.
 
-## Cosmic implication
+## Следствие для Cosmic Programm
 
-Initially evaluate commodity launch services, rideshare, standard buses and mature external infrastructure as BUY/PARTNER candidates. Focus internal engineering learning on mission architecture, payloads, autonomy, data, interfaces, qualification, operations and resource intelligence.
+На первом этапе целесообразно рассматривать коммерческие услуги запуска, rideshare, стандартные платформы и зрелую внешнюю инфраструктуру как кандидатов на ПОКУПАТЬ/ПАРТНЕРСТВО. Внутреннее инженерное обучение сосредоточить на архитектуре миссий, полезных нагрузках, автономности, данных, интерфейсах, квалификации, эксплуатации и разведке ресурсов.
 
-## Technical gaps to close
+## Технические пробелы
 
-1. Mission A orbit and environment.
-2. Payload mass/power/data budget.
-3. Fault-detection and recovery.
-4. Communications architecture and link budget.
-5. Radiation and thermal environment.
-6. Attitude determination/control.
-7. Propulsion need versus propulsion-free architecture.
-8. Ground segment.
-9. Verification and acceptance criteria.
-10. Supplier and launcher interfaces.
+1. Орбита и среда миссии A.
+2. Бюджет массы/мощности/данных полезной нагрузки.
+3. Обнаружение и восстановление отказов.
+4. Архитектура связи и радиолиния.
+5. Радиационная и тепловая среда.
+6. Определение и управление ориентацией.
+7. Необходимость двигательной установки против бездвигательной архитектуры.
+8. Наземный сегмент.
+9. Верификация и критерии приёмки.
+10. Интерфейсы поставщиков и носителя.
 
-## Evidence chain
+## Цепочка доказательности
 
-external evidence -> capability need -> mission function -> requirement -> verification method.
+внешнее доказательство → потребность в возможности → функция миссии → требование → метод верификации.
