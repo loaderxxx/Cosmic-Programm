@@ -27,3 +27,7 @@ EXPLORATORY / SYSTEMS R&D / HYPOTHESIS-DRIVEN
 Начальный базовый уровень: 2026-09-19.
 
 > Внутренняя методология, приватные алгоритмы и защищённые инструкции хранятся отдельно в закрытом Private Core.
+
+## Intellectual property / AI use
+
+This repository does not grant a general licence for automated AI/ML ingestion, training, fine-tuning, distillation or competitive reuse of original material. See [AI_USE_POLICY.md](AI_USE_POLICY.md) and [LICENSE.md](LICENSE.md).
