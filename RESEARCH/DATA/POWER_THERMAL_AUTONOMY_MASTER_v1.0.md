@@ -1,44 +1,44 @@
-# Power, Thermal and Autonomy Master v1.0
+# Сводная база энергетики, тепловых режимов и автономности v1.0
 
-## Power
+## Энергия
 
-Every mission shall maintain:
-- generation budget;
-- battery/storage budget;
-- peak and average loads;
-- eclipse survival;
-- distribution losses;
-- load shedding;
-- safe-mode power;
-- end-of-life degradation margin.
+Каждая миссия должна иметь:
+- бюджет генерации;
+- бюджет аккумуляторов/накопления;
+- пиковые и средние нагрузки;
+- выживание во время затмений;
+- потери распределения;
+- отключение второстепенных нагрузок;
+- энергопотребление безопасного режима;
+- запас на деградацию к концу срока службы.
 
-## Thermal
+## Тепловой режим
 
-Every mission shall document:
-- hot/cold cases;
-- internal dissipation;
-- external heat inputs;
-- radiative surfaces;
-- conductive paths;
-- heaters;
-- survival configuration;
-- thermal-vacuum verification.
+Каждая миссия должна документировать:
+- горячие/холодные случаи;
+- внутреннее тепловыделение;
+- внешние тепловые потоки;
+- излучающие поверхности;
+- проводящие пути;
+- нагреватели;
+- конфигурацию выживания;
+- термовакуумную верификацию.
 
-## Autonomy
+## Автономность
 
-The public architecture treats autonomy as a layered capability:
+Публичная архитектура рассматривает автономность как многоуровневую возможность:
 
-1. health monitoring;
-2. fault detection;
-3. fault isolation;
-4. safe-state transition;
-5. recovery;
-6. navigation and state estimation;
-7. autonomous sequencing;
-8. mission-level decision support.
+1. контроль состояния;
+2. обнаружение отказов;
+3. локализация отказа;
+4. переход в безопасное состояние;
+5. восстановление;
+6. навигация и оценка состояния;
+7. автономное выполнение последовательностей;
+8. поддержка решений на уровне миссии.
 
-Autonomy must have explicit failure cases and test evidence. A claim that a system is 'autonomous' is not sufficient engineering evidence.
+Автономность должна иметь явные сценарии отказов и испытательные доказательства. Само утверждение «система автономная» инженерным доказательством не является.
 
-## Cosmic first-generation focus
+## Фокус первого поколения Cosmic
 
-The orbital demonstrator should generate real telemetry and fault-injection data for these three domains before lunar deployment.
+Орбитальный демонстратор должен получить реальные телеметрические данные и данные инъекции отказов по этим трём направлениям до перехода к лунным миссиям.
