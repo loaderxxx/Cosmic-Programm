@@ -185,3 +185,14 @@
 **После этого:** миссии A/B/C и их экспериментальные результаты.
 
 Главный принцип: каждое новое утверждение должно иметь происхождение, уровень доказательности и понятный путь к верификации.
+
+
+## 13. Новые глобальные исследовательские треки
+- [Сводный синтез всего репозитория](../RESEARCH/REPOSITORY_MASTER_SYNTHESIS_v1.0.md)
+- [Лунная энергетика и ядерные источники](../RESEARCH/DATA/LUNAR_POWER_NUCLEAR_MASTER_v1.0.md)
+- [Криогенное хранение и передача](../RESEARCH/DATA/CRYOGENIC_STORAGE_TRANSFER_MASTER_v1.0.md)
+- [Орбитальные топливные депо и дозаправка](../RESEARCH/DATA/ORBITAL_DEPOT_REFUELING_MASTER_v1.0.md)
+- [Лунная PNT и ретрансляция](../RESEARCH/DATA/LUNAR_PNT_RELAY_MASTER_v1.0.md)
+- [Марсианский EDL](../RESEARCH/DATA/MARS_EDL_MASTER_v1.0.md)
+- [Жизнеобеспечение и EVA](../RESEARCH/DATA/LIFE_SUPPORT_EVA_MASTER_v1.0.md)
+- [Орбитальное обслуживание и производство](../RESEARCH/DATA/SPACE_SERVICING_MANUFACTURING_MASTER_v1.0.md)
