@@ -1,35 +1,35 @@
-# Cosmic Programm Technical Roadmap v1.0
+# Техническая дорожная карта Cosmic Programm v1.0
 
-## Phase 0 — Knowledge and architecture
-External programme database; source registry; normalized parameters; capability matrix; technology-gap map; public architecture.
+## Этап 0 — Знания и архитектура
+База внешних программ; реестр источников; нормализованные параметры; матрица возможностей; карта технологических пробелов; публичная архитектура.
 
-## Phase 1 — Orbital demonstrator
-Demonstrate spacecraft autonomy, communications, power, payload integration and mission operations in orbit.
+## Этап 1 — Орбитальный демонстратор
+Демонстрация автономности космического аппарата, связи, энергетики, интеграции полезной нагрузки и управления миссией на орбите.
 
-Outputs: flight-computer/autonomy stack, command/telemetry architecture, payload interface, fault-management data, ground operations and qualification workflow.
+Результаты: бортовой компьютер/контур автономности, архитектура команд и телеметрии, интерфейс полезной нагрузки, данные управления отказами, наземная эксплуатация и процесс квалификации.
 
-## Phase 2 — Lunar resource scout
-Demonstrate autonomous lunar sensing and resource-relevant data acquisition.
+## Этап 2 — Лунный разведчик ресурсов
+Демонстрация автономного лунного зондирования и получения данных, относящихся к ресурсам.
 
-Outputs: lunar navigation, terrain/illumination characterization, thermal survival, communications architecture and resource-data products.
+Результаты: лунная навигация, характеристика рельефа/освещённости, тепловая устойчивость, архитектура связи и продукты ресурсных данных.
 
-## Phase 3 — Lunar infrastructure pathfinder
-Deploy a persistent modular node combining power, communications, computation and payload interfaces.
+## Этап 3 — Лунный инфраструктурный демонстратор
+Развёртывание долговременного модульного узла, объединяющего энергию, связь, вычисления и интерфейсы полезных нагрузок.
 
-Outputs: long-duration surface operations, modular utility interface, autonomous health management and surface data relay.
+Результаты: длительная поверхностная эксплуатация, модульный коммунальный интерфейс, автономное управление состоянием и ретрансляция поверхностных данных.
 
-## Phase 4 — Repeat logistics
-Move from demonstrations to repeatable mission operations: standardized interfaces, procurement, launch integration, mission control, spares and repeatable qualification.
+## Этап 4 — Повторяемая логистика
+Переход от демонстраций к повторяемым миссиям: стандартизированные интерфейсы, закупки, интеграция с носителем, управление миссией, запасные части и повторяемая квалификация.
 
-## Phase 5 — Resource processing pilot
-Experimentally validate a selected resource-processing chain. No resource technology is frozen until Phase 2 evidence justifies it.
+## Этап 5 — Пилот переработки ресурсов
+Экспериментальная проверка выбранной цепочки переработки ресурсов. Конкретная технология не фиксируется до получения достаточных данных этапа 2.
 
-## Phase 6 — Persistent lunar utility network
-Combine multiple nodes into an interoperable surface capability.
+## Этап 6 — Постоянная лунная коммунальная сеть
+Объединение нескольких узлов в совместимую поверхностную инфраструктуру.
 
-## Phase 7 — Mars precursors
-Transfer validated autonomy, power, communications, logistics and resource-intelligence capabilities to Mars environments.
+## Этап 7 — Предварительные марсианские миссии
+Перенос проверенных возможностей автономности, энергетики, связи, логистики и разведки ресурсов в марсианские условия.
 
-## Programme invariant
+## Инвариант программы
 
-Every phase must create a capability, dataset or interface that reduces uncertainty for a later phase.
+Каждый этап должен создавать возможность, набор данных или интерфейс, уменьшающий неопределённость следующего этапа.
