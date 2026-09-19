@@ -14,6 +14,8 @@
 
 ## 2. Архитектура программы
 
+- [Матрица готовности возможностей](../PROGRAM/ARCHITECTURE/CAPABILITY_READINESS_MATRIX_v1.0.md)
+
 - [Концепция космической программы](../PROGRAM/SPACE_PROGRAM_CONCEPT_v0.1.md)
 - [Архитектура космической программы v1.0](../PROGRAM/SPACE_PROGRAM_ARCHITECTURE_v1.0.md)
 - [Матрица возможностей](../PROGRAM/ARCHITECTURE/CAPABILITY_MATRIX_v1.0.md)
@@ -34,6 +36,11 @@
 
 ## 4. Инженерный слой
 
+- [Конструктивная и механическая система](../PROGRAM/ENGINEERING/STRUCTURAL_MECHANICAL_FRAMEWORK_v1.0.md)
+- [Бортовое программное обеспечение](../PROGRAM/ENGINEERING/FLIGHT_SOFTWARE_FRAMEWORK_v1.0.md)
+- [EMC/EMI](../PROGRAM/ENGINEERING/EMC_EMI_FRAMEWORK_v1.0.md)
+- [Надёжность и FDIR](../PROGRAM/ENGINEERING/RELIABILITY_FDIR_FRAMEWORK_v1.0.md)
+
 - [ADCS и навигация](../PROGRAM/ENGINEERING/ADCS_NAVIGATION_FRAMEWORK_v1.0.md)
 - [Тепловой и радиационный анализ](../PROGRAM/ENGINEERING/THERMAL_RADIATION_FRAMEWORK_v1.0.md)
 - [Наземный сегмент](../PROGRAM/ENGINEERING/GROUND_SEGMENT_ARCHITECTURE_v1.0.md)
@@ -43,8 +50,11 @@
 - [Каркас бюджета радиолинии](../PROGRAM/ENGINEERING/LINK_BUDGET_FRAMEWORK_v1.0.md)
 - [Реестр программных и инженерных рисков](../PROGRAM/RISK/PROGRAM_RISK_REGISTER_v1.0.md)
 - [CONOPS миссии A](../PROGRAM/MISSION_A/MISSION_A_CONOPS_v1.0.md)
+- [Программа испытаний миссии A](../PROGRAM/MISSION_A/MISSION_A_TEST_CAMPAIGN_v1.0.md)
 - [CONOPS миссии B](../PROGRAM/MISSION_B/MISSION_B_CONOPS_v1.0.md)
+- [Модель ресурсных данных миссии B](../PROGRAM/MISSION_B/LUNAR_RESOURCE_DATA_MODEL_v1.0.md)
 - [CONOPS миссии C](../PROGRAM/MISSION_C/MISSION_C_CONOPS_v1.0.md)
+- [Модель инфраструктурного сервиса миссии C](../PROGRAM/MISSION_C/INFRASTRUCTURE_SERVICE_MODEL_v1.0.md)
 - [Сквозной план V&V](../PROGRAM/VERIFICATION/END_TO_END_V_AND_V_PLAN_v1.0.md)
 - [Каркас экономической модели](../PROGRAM/ECONOMICS/PROGRAM_COST_MODEL_FRAMEWORK_v1.0.md)
 - [Матрица поставщиков и интерфейсов](../PROGRAM/SUPPLIERS/SUPPLIER_INTERFACE_MATRIX_v1.0.md)
