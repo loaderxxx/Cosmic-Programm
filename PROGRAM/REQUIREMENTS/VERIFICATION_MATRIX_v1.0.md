@@ -1,19 +1,19 @@
-# Verification Matrix v1.0
+# Матрица верификации v1.0
 
-| Area | Verification | Evidence |
+| Область | Метод верификации | Доказательство |
 |---|---|---|
-| Structure | analysis + inspection + qualification test | loads, margins, test report |
-| Thermal | analysis + thermal-vacuum | thermal model correlation |
-| Power | analysis + functional test | generation/storage/load budget |
-| Communications | analysis + RF test | link budget, BER/data-rate evidence |
-| Attitude control | analysis + HIL/system test | pointing/stability data |
-| Navigation | simulation + test + flight | navigation error budget |
-| Autonomy | software test + HIL + fault injection | recovery results |
-| Payload interface | inspection + mechanical/electrical test | ICD compliance |
-| Software | unit/integration/system tests | requirements coverage |
-| Ground segment | end-to-end demonstration | command/telemetry/data flow |
-| Launch integration | fit check + interface test | launcher ICD compliance |
-| Operations | simulation + rehearsal | procedures and contingency evidence |
-| Flight performance | telemetry + post-flight analysis | measured vs predicted |
+| Конструкция | анализ + инспекция + квалификационные испытания | нагрузки, запасы прочности, отчёт испытаний |
+| Тепловой режим | анализ + термовакуум | корреляция тепловой модели |
+| Энергия | анализ + функциональное испытание | бюджет генерации/накопления/нагрузок |
+| Связь | анализ + радиочастотное испытание | радиолиния, BER/скорость передачи |
+| Управление ориентацией | анализ + HIL/системное испытание | данные точности и стабильности |
+| Навигация | моделирование + испытания + полёт | бюджет навигационной ошибки |
+| Автономность | ПО-тесты + HIL + инъекция отказов | результаты восстановления |
+| Интерфейс полезной нагрузки | инспекция + механические/электрические испытания | соответствие ICD |
+| ПО | модульные/интеграционные/системные тесты | покрытие требований |
+| Наземный сегмент | сквозная демонстрация | поток команд/телеметрии/данных |
+| Интеграция с носителем | проверка сопряжения + испытание интерфейса | соответствие ICD носителя |
+| Эксплуатация | моделирование + репетиция | процедуры и аварийные сценарии |
+| Лётные характеристики | телеметрия + послеполётный анализ | измеренное против расчётного |
 
-Requirement closure requires objective evidence appropriate to its verification method.
+Закрытие требования требует объективного доказательства, соответствующего выбранному методу верификации.
