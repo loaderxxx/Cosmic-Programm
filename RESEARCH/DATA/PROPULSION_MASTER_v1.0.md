@@ -1,35 +1,35 @@
-# Propulsion Master v1.0
+# Сводная база двигательных установок v1.0
 
-## Public engineering baseline
+## Публичная инженерная база
 
 ### NASA RS-25 / SLS
-SLS Block 1 uses four RS-25 engines in its core stage plus two five-segment solid rocket boosters. NASA states a Block 1 lunar payload capability of 27 metric tonnes. citeturn0search3
+SLS Block 1 использует четыре двигателя RS-25 в центральной ступени и два пятисегментных твердотопливных ускорителя. NASA указывает полезную нагрузку Block 1 в лунное пространство 27 метрических тонн.
 
 ### ESA Vulcain 2.1
-Vulcain 2.1 uses liquid oxygen and liquid hydrogen. ESA publishes 1371 kN thrust, 468 s operation, more than 327 kg/s propellant consumption, and a hydrogen turbopump operating at 33,000 rpm and 15 MW. ESA also documents qualification hot-fire testing and subsystem-level combined testing. citeturn0search0turn0search2
+Vulcain 2.1 использует жидкий кислород и жидкий водород. ESA публикует тягу 1371 кН, продолжительность работы 468 с, расход более 327 кг/с и турбонасос водорода со скоростью 33 000 об/мин и мощностью 15 МВт. ESA также документирует квалификационные огневые испытания и комплексные испытания подсистем.
 
 ### Blue Origin BE-4
-BE-4 is an oxygen-rich staged-combustion LNG engine. Blue Origin publishes 2,846 kN sea-level thrust and deep throttling, and describes full-scale testing and full-rate production. New Glenn uses seven BE-4 engines on its reusable first stage. citeturn0search9turn0search1
+BE-4 — двигатель на сжиженном природном газе с кислородным обогащением и ступенчатым сгоранием. Blue Origin публикует тягу 2846 кН на уровне моря и возможность глубокого дросселирования. New Glenn использует семь BE-4 на первой ступени.
 
 ### SpaceX Raptor / Starship
-The public Starship User Guide describes a two-stage reusable system using subcooled methane and oxygen and provides preliminary payload interfaces and environments. Exact flight configuration values should be versioned rather than treated as permanent constants. citeturn0search48turn0search49
+Публичное руководство Starship описывает двухступенчатую многоразовую систему на переохлаждённых метане и кислороде и содержит предварительные сведения об интерфейсах и средах полезной нагрузки. Значения конкретной лётной конфигурации должны версионироваться, а не считаться постоянными.
 
-## Engineering lessons
+## Инженерные выводы
 
-1. Propulsion performance is only one dimension; thermal, turbomachinery, ignition, controls, manufacturing and qualification are equally important.
-2. Propellant choice affects tankage, pressurization, thermal management, ground systems and reusability.
-3. Engine test tempo is a programme capability.
-4. Qualification evidence should be recorded alongside headline thrust numbers.
+1. Производительность двигателя — только одна характеристика; столь же важны тепловые режимы, турбомашины, зажигание, управление, производство и квалификация.
+2. Выбор топлива влияет на баки, наддув, тепловое управление, наземную инфраструктуру и многоразовость.
+3. Темп испытаний двигателей является возможностью всей программы.
+4. Доказательства квалификации нужно хранить вместе с основными показателями тяги.
 
-## Cosmic data to acquire next
+## Что собрать дальше
 
-- engine mass and dimensions;
-- thrust-vs-altitude and throttle range;
-- chamber pressure / mixture ratio where publicly documented;
-- restart capability;
-- duty cycle;
-- qualification duration and number of tests;
-- turbomachinery operating points;
-- thermal management;
-- manufacturing method;
-- inspection and acceptance tests.
+- масса и габариты двигателя;
+- зависимость тяги от высоты и диапазон дросселирования;
+- давление в камере / соотношение компонентов при наличии публичных данных;
+- возможность повторного запуска;
+- рабочий цикл;
+- длительность и количество квалификационных испытаний;
+- рабочие точки турбомашин;
+- тепловое управление;
+- технология производства;
+- инспекции и приёмочные испытания.
