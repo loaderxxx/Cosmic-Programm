@@ -1,47 +1,50 @@
-# Interfaces Master v1.0
+# Сводная база интерфейсов v1.0
 
-Interfaces are treated as first-class engineering objects.
+Интерфейсы рассматриваются как самостоятельные инженерные объекты.
 
-## Launch vehicle ↔ spacecraft
-Track:
-- payload envelope;
-- mass and center-of-gravity constraints;
-- mechanical attachment;
-- electrical power;
-- telemetry/command;
-- separation system;
-- acoustic/vibration/shock;
-- acceleration;
-- thermal environment;
-- hazardous operations;
-- contamination;
-- access and integration timeline.
+## Носитель ↔ космический аппарат
 
-SpaceX's Starship User Guide explicitly provides preliminary volume, mechanical interface and payload-environment information. citeturn0search48
+Отслеживать:
+- габарит полезной нагрузки;
+- массу и ограничения центра тяжести;
+- механическое крепление;
+- электропитание;
+- телеметрию/команды;
+- систему отделения;
+- акустику/вибрацию/удар;
+- ускорение;
+- тепловую среду;
+- опасные операции;
+- загрязнение;
+- график доступа и интеграции.
 
-## Spacecraft ↔ payload
-Track:
-- structural mounting;
-- electrical voltage/current;
-- data protocol;
-- command authority;
-- time synchronization;
-- thermal coupling;
-- electromagnetic compatibility;
-- payload safety inhibits;
-- software/firmware boundaries.
+Руководство Starship содержит предварительные сведения об объёме, механическом интерфейсе и средах полезной нагрузки.
 
-## Ground ↔ spacecraft
-Track:
-- command path;
-- telemetry;
-- ranging/navigation;
-- authentication;
-- time;
-- ground-station coverage;
-- mission-control procedures;
-- contingency communications.
+## Космический аппарат ↔ полезная нагрузка
 
-## Design rule
+Отслеживать:
+- силовое крепление;
+- электрическое напряжение/ток;
+- протокол данных;
+- полномочия командования;
+- синхронизацию времени;
+- тепловую связь;
+- электромагнитную совместимость;
+- блокировки безопасности полезной нагрузки;
+- границы ПО/прошивки.
 
-An interface is not complete until both sides can independently implement and verify it from an Interface Control Document (ICD) or equivalent specification.
+## Земля ↔ космический аппарат
+
+Отслеживать:
+- канал команд;
+- телеметрию;
+- дальность/навигацию;
+- аутентификацию;
+- время;
+- покрытие наземными станциями;
+- процедуры управления миссией;
+- резервную связь.
+
+## Правило проектирования
+
+Интерфейс не считается завершённым, пока обе стороны не могут независимо реализовать и проверить его по документу управления интерфейсом (ICD) или эквивалентной спецификации.
