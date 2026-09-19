@@ -1,31 +1,29 @@
-# Test and Qualification Master v1.0
+# Сводная база испытаний и квалификации v1.0
 
-## Qualification stack
+## Стек квалификации
 
-### Component
-Material/process verification, functional tests, environmental screening.
+### Компонент
+Проверка материалов/процессов, функциональные испытания, экологический скрининг.
 
-### Subsystem
-Functional performance, electrical compatibility, thermal and mechanical tests.
+### Подсистема
+Функциональные характеристики, электрическая совместимость, тепловые и механические испытания.
 
-### Integrated system
-End-to-end command/telemetry, software, autonomy, power and fault-response tests.
+### Интегрированная система
+Сквозные испытания команд/телеметрии, ПО, автономности, энергетики и реакции на отказы.
 
-### Environmental
-Thermal-vacuum, vibration, acoustic, shock, radiation where applicable, electromagnetic compatibility.
+### Внешняя среда
+Термовакуум, вибрация, акустика, удар, радиация при необходимости, электромагнитная совместимость.
 
-### Operational rehearsal
-Ground-segment simulation, countdown rehearsal, contingency procedures and mission-operations exercises.
+### Репетиция эксплуатации
+Моделирование наземного сегмента, репетиция обратного отсчёта, аварийные процедуры и тренировки управления миссией.
 
-### Flight
-Measured telemetry versus predicted models, anomaly investigation and post-flight model update.
+### Полёт
+Сопоставление реальной телеметрии с прогнозами, расследование аномалий и обновление моделей по результатам полёта.
 
-NASA's SLS reference programme explicitly describes integrated-system testing, while ESA's Ariane 6 engine programme documents static firing and qualification campaigns before combined tests. citeturn0search5turn0search2
+## Философия верификации
 
-## Verification philosophy
+Испытание — не только финальный допуск. Данные испытаний меняют модель, а обновлённая модель меняет следующую итерацию конструкции.
 
-Test is not only a final gate. Test data changes the model, and the updated model changes the next design iteration.
+## Требование Cosmic
 
-## Cosmic requirement
-
-Every major subsystem introduced into flight should have a documented verification plan before hardware is declared flight-ready.
+Каждая существенная подсистема, впервые вводимая в полёт, должна иметь документированный план верификации до объявления аппаратуры готовой к полёту.
