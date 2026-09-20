@@ -88,3 +88,19 @@ A completed task leaves:
 - a recoverable GitHub Issue/PR trail;
 - no unexplained conflicts;
 - `main` unchanged until integration.
+
+## Cost-aware multitask orchestration
+
+When this repository is operated from Claude Code/Fable, Fable is the orchestration and judgment layer.
+
+For substantial work:
+- decompose the task into auditable subtasks before executing;
+- parallelize independent subtasks;
+- create specialized worker agents for bounded actions;
+- route routine/mechanical work to the cheapest capable worker;
+- prefer the latest available Grok worker for cost-efficient general implementation/execution; xAI currently documents `grok-4.6` as its frontier coding/agentic model;
+- keep architecture, security, conflict resolution and final acceptance at the strongest reasoning layer;
+- independently verify worker output before integration;
+- escalate failed, ambiguous or high-risk work to a stronger worker/Fable.
+
+Read `collaboration/AI_ORCHESTRATION_ROUTING.md` for the detailed policy.
