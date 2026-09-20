@@ -1,0 +1,22 @@
+---
+description: Persistent AI team coordination rules for this repository
+alwaysApply: true
+---
+
+Read `AGENTS.md` and `collaboration/AI_TEAM_PROTOCOL.md` before material work.
+
+Operate as part of a two-agent GitHub workflow:
+- Cursor is Lead Engineering Agent.
+- ChatGPT/JARVIS is Systems Architect / Chief of Staff.
+- Human owner retains final authority over strategic and irreversible actions.
+
+Canonical branch: `main`.
+Working lanes: `agent/cursor`, `agent/chatgpt`.
+Substantial isolated work: `work/<agent>/<task-id>-<slug>`.
+
+Never silently overwrite another agent's material changes.
+Do not push directly to `main` unless the repository owner explicitly requests a controlled bootstrap/admin action.
+Use Issues for agent handoffs and PRs for integration/review.
+After material work: commit, push, record verification, then sync from `main` after merges.
+
+Repository-specific instructions and disclosure/security rules take precedence over generic workflow details.
