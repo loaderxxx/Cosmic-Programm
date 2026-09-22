@@ -23,6 +23,8 @@ SpaceX рассматривается как внешний benchmark и ист�
 - [Глубокий анализ применения AI v0.2](AI_DEEP_ANALYSIS_v0.2.md)
 - [Историческая версия AI v0.1](AI_DEEP_ANALYSIS_v0.1.md)
 - [SpaceX AI — 20 идей, которые стоит унести с собой](AI_20_PAGE_READER_v0.1.md)
+- [Audio Block 01 — 30-minute script](AI_AUDIO_30_MIN_SCRIPT_v0.1.md)
+- [Audio Block 02 — next 10-minute script](AI_AUDIO_10_MIN_BLOCK_02_v0.1.md)
 
 ### Читательская версия
 - [SpaceX — 20 идей, которые стоит унести с собой](20_PAGE_READER_v0.1.md)
