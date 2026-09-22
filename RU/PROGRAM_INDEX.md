@@ -119,6 +119,7 @@
 
 - [Индекс глобальных космических программ](../RESEARCH/GLOBAL_SPACE_PROGRAMS_INDEX.md)
 - [SpaceX — публичный исследовательский журнал и результаты сессий](../RESEARCH/EXTERNAL_PROGRAMS/SPACEX/README.md)
+  - [Глубокий анализ и ветки SpaceX](../RESEARCH/EXTERNAL_PROGRAMS/SPACEX/DEEP_ANALYSIS_v0.2.md)
 - [Глобальная техническая база космических программ](../RESEARCH/GLOBAL_SPACE_PROGRAMS_TECHNICAL_BASELINE_2026-09-19.md)
 - [NASA Artemis / Moon to Mars](../RESEARCH/PROGRAMS/NASA_ARTEMIS_MOON_TO_MARS.md)
 - [SpaceX](../RESEARCH/PROGRAMS/SPACEX.md)
