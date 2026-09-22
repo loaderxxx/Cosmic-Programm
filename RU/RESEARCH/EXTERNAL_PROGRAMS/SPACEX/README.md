@@ -20,7 +20,8 @@ SpaceX рассматривается как внешний benchmark и ист�
 - [Первичный анализ](PRELIMINARY_ANALYSIS_2026-09-22.md)
 
 ### 🤖 AI в SpaceX
-- [Глубокий анализ применения AI](AI_DEEP_ANALYSIS_v0.1.md)
+- [Глубокий анализ применения AI v0.2](AI_DEEP_ANALYSIS_v0.2.md)
+- [Историческая версия AI v0.1](AI_DEEP_ANALYSIS_v0.1.md)
 - [SpaceX AI — 20 идей, которые стоит унести с собой](AI_20_PAGE_READER_v0.1.md)
 
 ### Читательская версия
