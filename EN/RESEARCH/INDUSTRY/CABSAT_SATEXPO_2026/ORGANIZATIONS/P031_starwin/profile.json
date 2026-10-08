@@ -1,0 +1,28 @@
+{
+  "schema": "COSMOSYNTH_OPEN_INDUSTRY_PROFILE_V1",
+  "record": "P031",
+  "organization": "StarWin",
+  "checked_at": "2026-10-08",
+  "sector": "Satellite antennas",
+  "event_scope": "SATEXPO_LINKED_OR_MENTIONED",
+  "event_participation_interpretation": "Listed by a secondary 2026 event index or industry event report; organizer-level booth evidence not yet obtained.",
+  "evidence_grade": "PRODUCT_PRIMARY_SOURCE",
+  "claims_from_primary": true,
+  "capability_claims": [
+    "Flat-panel antenna terminals",
+    "Portable flyaway antennas",
+    "Ka/Ku electronically steered terminals",
+    "Mobile VSAT antennas"
+  ],
+  "capability_classifications": [
+    "TERMINAL_ANTENNA"
+  ],
+  "related_documented_organizations": [],
+  "public_sources": [
+    "https://www.prgmtc.tech/event-scout/events/satexpo-middle-east-2026",
+    "https://www.chinastarwin.com/"
+  ],
+  "private_contacts_included": false,
+  "affiliation_with_cosmosynth": "none established",
+  "exhibition_product_display_verified": false
+}

@@ -1,0 +1,33 @@
+{
+  "schema": "COSMOSYNTH_OPEN_INDUSTRY_PROFILE_V1",
+  "record": "P016",
+  "organization": "INTEGRASYS",
+  "checked_at": "2026-10-08",
+  "sector": "Satellite network software",
+  "event_scope": "SATEXPO_LINKED_OR_MENTIONED",
+  "event_participation_interpretation": "Brand/logo shown on SATExpo 2026 organizer site; corporate identity/booth details may need verification.",
+  "evidence_grade": "PRODUCT_PRIMARY_SOURCE",
+  "claims_from_primary": true,
+  "capability_claims": [
+    "BeamBudget link budgeting",
+    "BestPath multi-orbit selection",
+    "Satmotion commissioning software",
+    "Digital IF and spectrum/carrier monitoring"
+  ],
+  "capability_classifications": [
+    "LINK_BUDGET",
+    "NETWORK_ORCHESTRATION",
+    "DIGITAL_IF",
+    "CYBER_MONITORING"
+  ],
+  "related_documented_organizations": [],
+  "public_sources": [
+    "https://www.satexpome.com/",
+    "https://www.integrasys-space.com/products",
+    "https://www.integrasys-space.com/link-budget-calculation-tool",
+    "https://www.integrasys-space.com/post/integrasys-releases-the-first-multi-vendor-difi-signal-analysis-virtualized-system"
+  ],
+  "private_contacts_included": false,
+  "affiliation_with_cosmosynth": "none established",
+  "exhibition_product_display_verified": false
+}

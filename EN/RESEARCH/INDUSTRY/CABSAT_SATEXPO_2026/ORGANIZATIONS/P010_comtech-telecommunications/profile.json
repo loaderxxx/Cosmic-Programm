@@ -1,0 +1,29 @@
+{
+  "schema": "COSMOSYNTH_OPEN_INDUSTRY_PROFILE_V1",
+  "record": "P010",
+  "organization": "Comtech Telecommunications",
+  "checked_at": "2026-10-08",
+  "sector": "Ground satcom / networks",
+  "event_scope": "SATEXPO_LINKED_OR_MENTIONED",
+  "event_participation_interpretation": "Named in the SATExpo 2026 organizer exhibitor directory; booth and personal contacts not independently verified here.",
+  "evidence_grade": "PRODUCT_PRIMARY_SOURCE",
+  "claims_from_primary": true,
+  "capability_claims": [
+    "CDM and SLM satellite modem families",
+    "DVB and high-speed trunking modem products",
+    "Modem redundancy switch systems",
+    "Ground communications hardware"
+  ],
+  "capability_classifications": [
+    "VSAT_BASEBAND",
+    "NETWORK_INTEGRATION"
+  ],
+  "related_documented_organizations": [],
+  "public_sources": [
+    "https://exhibitors.satexpome.com/satexpo-2026/Exhibitor",
+    "https://comtech.com/capability/satellite-modems/"
+  ],
+  "private_contacts_included": false,
+  "affiliation_with_cosmosynth": "none established",
+  "exhibition_product_display_verified": false
+}

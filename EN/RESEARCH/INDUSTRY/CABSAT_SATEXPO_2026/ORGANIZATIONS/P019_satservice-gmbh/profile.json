@@ -1,0 +1,53 @@
+{
+  "schema": "COSMOSYNTH_OPEN_INDUSTRY_PROFILE_V1",
+  "record": "P019",
+  "organization": "SatService GmbH",
+  "checked_at": "2026-10-08",
+  "sector": "Ground station integrator",
+  "event_scope": "SATEXPO_LINKED_OR_MENTIONED",
+  "event_participation_interpretation": "Brand/logo shown on SATExpo 2026 organizer site; corporate identity/booth details may need verification.",
+  "evidence_grade": "PRODUCT_PRIMARY_SOURCE",
+  "claims_from_primary": true,
+  "capability_claims": [
+    "sat-nms antenna control and tracking",
+    "sat-nms M&C/NMS systems",
+    "Ground station turnkey integration",
+    "Beacon receivers, L-band routing and redundancy"
+  ],
+  "capability_classifications": [
+    "GROUND_STATION",
+    "SYSTEMS_ENGINEERING"
+  ],
+  "related_documented_organizations": [
+    {
+      "record": "P006",
+      "kind": "CORPORATE_OWNERSHIP",
+      "status": "FACT",
+      "source": "https://www.calian.com/news-media/calian-group-expands-european-satellite-business-with-acquisition-of-germany-based-satservice/",
+      "date": "2019-04-01"
+    },
+    {
+      "record": "P022",
+      "kind": "VENDOR_DISTRIBUTOR_LIST",
+      "status": "SOURCE_CLAIM",
+      "source": "https://satservicegmbh.de/",
+      "date": "SOURCE_CURRENT_AS_OF_2026_10_08"
+    },
+    {
+      "record": "P020",
+      "kind": "VENDOR_PROJECT_REFERENCE",
+      "status": "SOURCE_CLAIM",
+      "source": "https://satservicegmbh.de/projects.html",
+      "date": "SOURCE_CURRENT_AS_OF_2026_10_08"
+    }
+  ],
+  "public_sources": [
+    "https://www.satexpome.com/",
+    "https://satservicegmbh.de/products.html",
+    "https://satservicegmbh.de/about/calian.html",
+    "https://www.calian.com/news-media/calian-group-expands-european-satellite-business-with-acquisition-of-germany-based-satservice/"
+  ],
+  "private_contacts_included": false,
+  "affiliation_with_cosmosynth": "none established",
+  "exhibition_product_display_verified": false
+}

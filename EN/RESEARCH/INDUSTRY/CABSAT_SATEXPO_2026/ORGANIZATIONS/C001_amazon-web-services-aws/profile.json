@@ -1,0 +1,30 @@
+{
+  "schema": "COSMOSYNTH_OPEN_INDUSTRY_PROFILE_V1",
+  "record": "C001",
+  "organization": "Amazon Web Services (AWS)",
+  "checked_at": "2026-10-08",
+  "sector": "Cloud and Ground Station as a Service",
+  "event_scope": "CABSAT",
+  "event_participation_interpretation": "Linked to the CABSAT 2026 catalogue/featured-brand listing, not automatically an SATExpo exhibitor and not evidence this particular space technology was displayed.",
+  "evidence_grade": "PRODUCT_PRIMARY_SOURCE",
+  "claims_from_primary": true,
+  "capability_claims": [
+    "AWS Ground Station API and managed contacts",
+    "Digital Twin scheduling & error-handling test",
+    "EventBridge contact events",
+    "RF dataflow services in production mode"
+  ],
+  "capability_classifications": [
+    "GROUND_STATION",
+    "GROUND_CLOUD"
+  ],
+  "related_documented_organizations": [],
+  "public_sources": [
+    "https://cabsat.com/2026-exhibitor-opportunities",
+    "https://docs.aws.amazon.com/ground-station/latest/ug/digital-twin.html",
+    "https://aws.amazon.com/documentation-overview/ground-station/"
+  ],
+  "private_contacts_included": false,
+  "affiliation_with_cosmosynth": "none established",
+  "exhibition_product_display_verified": false
+}

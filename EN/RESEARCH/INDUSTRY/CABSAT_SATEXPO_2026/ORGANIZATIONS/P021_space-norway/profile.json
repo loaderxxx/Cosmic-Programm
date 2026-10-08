@@ -1,0 +1,28 @@
+{
+  "schema": "COSMOSYNTH_OPEN_INDUSTRY_PROFILE_V1",
+  "record": "P021",
+  "organization": "Space Norway",
+  "checked_at": "2026-10-08",
+  "sector": "Space connectivity",
+  "event_scope": "SATEXPO_LINKED_OR_MENTIONED",
+  "event_participation_interpretation": "Brand/logo shown on SATExpo 2026 organizer site; corporate identity/booth details may need verification.",
+  "evidence_grade": "PRODUCT_PRIMARY_SOURCE",
+  "claims_from_primary": true,
+  "capability_claims": [
+    "Arctic broadband mission ASBM 1/2",
+    "HEO high-latitude coverage",
+    "Hosted government/commercial payloads",
+    "National satellite infrastructure operations"
+  ],
+  "capability_classifications": [
+    "SATELLITE_OPERATOR"
+  ],
+  "related_documented_organizations": [],
+  "public_sources": [
+    "https://www.satexpome.com/",
+    "https://spacenorway.com/satellite-connectivity-solutions/vsat-data-services/arctic-satellite-broadband-mission/"
+  ],
+  "private_contacts_included": false,
+  "affiliation_with_cosmosynth": "none established",
+  "exhibition_product_display_verified": false
+}

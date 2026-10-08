@@ -1,0 +1,29 @@
+{
+  "schema": "COSMOSYNTH_OPEN_INDUSTRY_PROFILE_V1",
+  "record": "C002",
+  "organization": "Vislink",
+  "checked_at": "2026-10-08",
+  "sector": "Satellite uplink and portable SATCOM",
+  "event_scope": "CABSAT",
+  "event_participation_interpretation": "Linked to the CABSAT 2026 catalogue/featured-brand listing, not automatically an SATExpo exhibitor and not evidence this particular space technology was displayed.",
+  "evidence_grade": "PRODUCT_PRIMARY_SOURCE",
+  "claims_from_primary": true,
+  "capability_claims": [
+    "Portable Satcom for live video/data",
+    "Airborne video links",
+    "RF and mission-critical wireless systems",
+    "Remote field video production technologies"
+  ],
+  "capability_classifications": [
+    "TERMINAL_ANTENNA",
+    "NETWORK_INTEGRATION"
+  ],
+  "related_documented_organizations": [],
+  "public_sources": [
+    "https://cabsat.com/",
+    "https://www.vislink.com/products/"
+  ],
+  "private_contacts_included": false,
+  "affiliation_with_cosmosynth": "none established",
+  "exhibition_product_display_verified": false
+}

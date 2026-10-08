@@ -1,0 +1,26 @@
+{
+  "schema": "COSMOSYNTH_OPEN_INDUSTRY_PROFILE_V1",
+  "record": "C004",
+  "organization": "ALDENA",
+  "checked_at": "2026-10-08",
+  "sector": "Broadcast RF components, adjacent-only",
+  "event_scope": "CABSAT",
+  "event_participation_interpretation": "Linked to the CABSAT 2026 catalogue/featured-brand listing, not automatically an SATExpo exhibitor and not evidence this particular space technology was displayed.",
+  "evidence_grade": "EVENT_PROFILE_ONLY",
+  "claims_from_primary": false,
+  "capability_claims": [
+    "Broadcast RF antennas and signal components (adjacent)",
+    "No space-qualified line demonstrated"
+  ],
+  "capability_classifications": [
+    "RF_HARDWARE"
+  ],
+  "related_documented_organizations": [],
+  "public_sources": [
+    "https://cabsat.com/2026-exhibitor-opportunities",
+    "https://cabsat.com/2026-exhibitor-opportunities"
+  ],
+  "private_contacts_included": false,
+  "affiliation_with_cosmosynth": "none established",
+  "exhibition_product_display_verified": false
+}

@@ -1,0 +1,29 @@
+{
+  "schema": "COSMOSYNTH_OPEN_INDUSTRY_PROFILE_V1",
+  "record": "P043",
+  "organization": "Hughes",
+  "checked_at": "2026-10-08",
+  "sector": "Satellite broadband / VSAT",
+  "event_scope": "SATEXPO_LINKED_OR_MENTIONED",
+  "event_participation_interpretation": "Named in a dated event report; its own exhibition booth has not been established.",
+  "evidence_grade": "PRODUCT_PRIMARY_SOURCE",
+  "claims_from_primary": true,
+  "capability_claims": [
+    "JUPITER VSAT hub and terminals",
+    "OSS/BSS and cloud-enabled management",
+    "Satellite broadband network engineering",
+    "Enterprise/mobility/cellular backhaul services"
+  ],
+  "capability_classifications": [
+    "VSAT_BASEBAND",
+    "NETWORK_INTEGRATION"
+  ],
+  "related_documented_organizations": [],
+  "public_sources": [
+    "https://www.wam.ae/en/article/c2l97ce-dubai-hosts-cabsat-2026-and-satexpo-2026",
+    "https://www.hughes.com/what-we-offer/satellite-ground-systems/jupiter-system"
+  ],
+  "private_contacts_included": false,
+  "affiliation_with_cosmosynth": "none established",
+  "exhibition_product_display_verified": false
+}

@@ -1,0 +1,28 @@
+{
+  "schema": "COSMOSYNTH_OPEN_INDUSTRY_PROFILE_V1",
+  "record": "P044",
+  "organization": "Space Communication Technologies (OmanSat)",
+  "checked_at": "2026-10-08",
+  "sector": "National satcom / Oman",
+  "event_scope": "SATEXPO_LINKED_OR_MENTIONED",
+  "event_participation_interpretation": "Named in a dated event report; its own exhibition booth has not been established.",
+  "evidence_grade": "PRODUCT_PRIMARY_SOURCE",
+  "claims_from_primary": true,
+  "capability_claims": [
+    "Oman national satellite communications programme",
+    "OmanSat-1 OneSat selection announced 2025",
+    "National satellite/ground infrastructure development",
+    "Oman Lens EO/AI partnership announced June 2026"
+  ],
+  "capability_classifications": [
+    "NETWORK_INTEGRATION"
+  ],
+  "related_documented_organizations": [],
+  "public_sources": [
+    "https://www.wam.ae/en/article/c2l97ce-dubai-hosts-cabsat-2026-and-satexpo-2026",
+    "https://omansat.com/"
+  ],
+  "private_contacts_included": false,
+  "affiliation_with_cosmosynth": "none established",
+  "exhibition_product_display_verified": false
+}

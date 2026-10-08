@@ -1,0 +1,46 @@
+{
+  "schema": "COSMOSYNTH_OPEN_INDUSTRY_PROFILE_V1",
+  "record": "P022",
+  "organization": "ST Engineering iDirect",
+  "checked_at": "2026-10-08",
+  "sector": "VSAT ground networks",
+  "event_scope": "SATEXPO_LINKED_OR_MENTIONED",
+  "event_participation_interpretation": "Brand/logo shown on SATExpo 2026 organizer site; corporate identity/booth details may need verification.",
+  "evidence_grade": "PRODUCT_PRIMARY_SOURCE",
+  "claims_from_primary": true,
+  "capability_claims": [
+    "Dialog VSAT platform",
+    "Evolution IP satellite network",
+    "DVB-S2/S2X modem ecosystem",
+    "NMS and satellite service-provider integration"
+  ],
+  "capability_classifications": [
+    "NETWORK_ORCHESTRATION",
+    "VSAT_BASEBAND"
+  ],
+  "related_documented_organizations": [
+    {
+      "record": "P029",
+      "kind": "VENDOR_CUSTOMER_LIST",
+      "status": "SOURCE_CLAIM",
+      "source": "https://www.linksatec.com/node/112",
+      "date": "SOURCE_UNDATED"
+    },
+    {
+      "record": "P019",
+      "kind": "VENDOR_DISTRIBUTOR_LIST",
+      "status": "SOURCE_CLAIM",
+      "source": "https://satservicegmbh.de/",
+      "date": "SOURCE_CURRENT_AS_OF_2026_10_08"
+    }
+  ],
+  "public_sources": [
+    "https://www.satexpome.com/",
+    "https://www.idirect.net/technology/dialog/",
+    "https://www.idirect.net/technology/evolution/",
+    "https://www.stengg.com/en/newsroom/news-releases/st-engineering-idirect-streamlines-site-installation-process-for-intelsat-flexenterprise-customers/"
+  ],
+  "private_contacts_included": false,
+  "affiliation_with_cosmosynth": "none established",
+  "exhibition_product_display_verified": false
+}

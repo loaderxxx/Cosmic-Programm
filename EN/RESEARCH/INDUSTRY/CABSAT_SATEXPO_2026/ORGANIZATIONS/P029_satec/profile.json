@@ -1,0 +1,58 @@
+{
+  "schema": "COSMOSYNTH_OPEN_INDUSTRY_PROFILE_V1",
+  "record": "P029",
+  "organization": "SATEC",
+  "checked_at": "2026-10-08",
+  "sector": "Phased-array terminals",
+  "event_scope": "SATEXPO_LINKED_OR_MENTIONED",
+  "event_participation_interpretation": "Listed by a secondary 2026 event index or industry event report; organizer-level booth evidence not yet obtained.",
+  "evidence_grade": "PRODUCT_PRIMARY_SOURCE",
+  "claims_from_primary": true,
+  "capability_claims": [
+    "Ka-band phased array terminal",
+    "Flyaway and manpack terminals",
+    "Maritime, UAV and drive-away SATCOM",
+    "Custom antenna systems"
+  ],
+  "capability_classifications": [
+    "TERMINAL_ANTENNA"
+  ],
+  "related_documented_organizations": [
+    {
+      "record": "P022",
+      "kind": "VENDOR_CUSTOMER_LIST",
+      "status": "SOURCE_CLAIM",
+      "source": "https://www.linksatec.com/node/112",
+      "date": "SOURCE_UNDATED"
+    },
+    {
+      "record": "P035",
+      "kind": "VENDOR_CUSTOMER_LIST",
+      "status": "SOURCE_CLAIM",
+      "source": "https://www.linksatec.com/node/112",
+      "date": "SOURCE_UNDATED"
+    },
+    {
+      "record": "P012",
+      "kind": "VENDOR_CUSTOMER_LIST",
+      "status": "SOURCE_CLAIM",
+      "source": "https://www.linksatec.com/node/112",
+      "date": "SOURCE_UNDATED"
+    },
+    {
+      "record": "P008",
+      "kind": "VENDOR_CUSTOMER_LIST",
+      "status": "SOURCE_CLAIM",
+      "source": "https://www.linksatec.com/node/112",
+      "date": "SOURCE_UNDATED"
+    }
+  ],
+  "public_sources": [
+    "https://www.prgmtc.tech/event-scout/events/satexpo-middle-east-2026",
+    "https://www.linksatec.com/node/113",
+    "https://www.linksatec.com/node/112"
+  ],
+  "private_contacts_included": false,
+  "affiliation_with_cosmosynth": "none established",
+  "exhibition_product_display_verified": false
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "COSMOSYNTH_OPEN_INDUSTRY_PROFILE_V1",
+  "record": "P003",
+  "organization": "AsiaSat",
+  "checked_at": "2026-10-08",
+  "sector": "Operator / teleport",
+  "event_scope": "SATEXPO_LINKED_OR_MENTIONED",
+  "event_participation_interpretation": "Named in the SATExpo 2026 organizer exhibitor directory; booth and personal contacts not independently verified here.",
+  "evidence_grade": "PRODUCT_PRIMARY_SOURCE",
+  "claims_from_primary": true,
+  "capability_claims": [
+    "GEO fleet operations",
+    "C/Ku/Ka teleport systems",
+    "TT&C and uplink/downlink operations",
+    "Managed data and media services"
+  ],
+  "capability_classifications": [
+    "GROUND_STATION",
+    "SATELLITE_OPERATOR",
+    "NETWORK_INTEGRATION"
+  ],
+  "related_documented_organizations": [],
+  "public_sources": [
+    "https://exhibitors.satexpome.com/satexpo-2026/Exhibitor",
+    "https://www.asiasat.com/services/teleport",
+    "https://www.asiasat.com/aboutus"
+  ],
+  "private_contacts_included": false,
+  "affiliation_with_cosmosynth": "none established",
+  "exhibition_product_display_verified": false
+}
