@@ -9,7 +9,7 @@ Our goals are to **identify credible evidence, map relationships between capabil
 
 ## Start here
 1. **[UAE Space Programme](RESEARCH/EXTERNAL_PROGRAMS/UAE_SPACE_PROGRAM/README.md)** — national architecture, missions, commercial ecosystem, organizations, evidence and open questions. [Source register](RESEARCH/EXTERNAL_PROGRAMS/UAE_SPACE_PROGRAM/SOURCE_REGISTER.md) · [mission register](RESEARCH/EXTERNAL_PROGRAMS/UAE_SPACE_PROGRAM/MISSION_REGISTER_v0.1.md) · [actor register](RESEARCH/EXTERNAL_PROGRAMS/UAE_SPACE_PROGRAM/ACTOR_REGISTER_v0.1.md).
-2. **[SpaceX systems research](RESEARCH/EXTERNAL_PROGRAMS/SPACEX/README.md)** — engineering integration, manufacturing, mission operations, economics, governance and reusable insights.
+2. **[SpaceX systems research](RESEARCH/EXTERNAL_PROGRAMS/SPACEX/README.md)** — [Arabic research chapters](../AR/RESEARCH/EXTERNAL_PROGRAMS/SPACEX/README.md) — engineering integration, manufacturing, mission operations, economics, governance and reusable insights.
 3. **[Project architecture](../PROGRAM/SPACE_PROGRAM_ARCHITECTURE_v1.0.md)** · **[technical roadmap](../PROGRAM/ROADMAP/TECHNICAL_ROADMAP_v1.0.md)** · **[verification framework](../PROGRAM/REQUIREMENTS/VERIFICATION_MATRIX_v1.0.md)**.
 4. **[Research pipeline](../RESEARCH/ANALYSIS_PIPELINE_v1.0.md)** and [technical knowledge map](../RESEARCH/PUBLIC_TECHNICAL_KNOWLEDGE_MAP.md).
 
