@@ -85,3 +85,7 @@ Start with an entity profile, review its source links, examine confirmed industr
 ## Clear independence statement
 
 **COSMOSYNTH / Cosmic Programm is an independent exploratory research programme.** Inclusion does not imply a meeting at CABSAT/SATExpo, supplier selection, contractual relationship, support from any named company or from the UAE Space Agency. Brand names belong to their respective owners. Source links are public; no private contacts, nonpublic terms or vendor logos were imported into the atlas.
+
+## Cross-company system configurations
+
+[Eight source-aware system-layer combinations](SYSTEM_LAYER_COMBINATIONS.md) show the difference between a mission platform, a satellite operator, a ground-station integrator, a VSAT hub, RF/Digital IF hardware and data systems. These are **illustrative architectures, not existing joint products or COSMOSYNTH partnerships**.
