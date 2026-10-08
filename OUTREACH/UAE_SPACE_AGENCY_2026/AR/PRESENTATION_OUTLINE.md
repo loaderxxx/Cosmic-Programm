@@ -36,7 +36,7 @@
 
 ## الشريحة 4 — أمثلة على مخرجات البحث
 - [مسار بحثي منشور حول SpaceX](https://github.com/loaderxxx/Cosmic-Programm/tree/main/RU/RESEARCH/EXTERNAL_PROGRAMS/SPACEX) يدرس الترابط بين القدرات والهندسة والاقتصاد والتشغيل.
-- [بحث أولي في البرنامج الفضائي الإماراتي](https://github.com/loaderxxx/Cosmic-Programm/tree/ar/uae-space-program-2026) يضم سجلات الجهات والمهمات والمصادر بلغات متعددة.
+- [بحث أولي في البرنامج الفضائي الإماراتي](https://github.com/loaderxxx/Cosmic-Programm/tree/main/AR/RESEARCH/EXTERNAL_PROGRAMS/UAE_SPACE_PROGRAM) يضم سجلات الجهات والمهمات والمصادر بلغات متعددة.
 - [تحليل منظومي أولي آخر للبرنامج الإماراتي](https://github.com/loaderxxx/Cosmic-Programm/tree/work/chatgpt/uae-space-program-20261008) قيد العمل والمراجعة.
 
 هذه مواد بحثية قابلة للفحص، وليست دراسات رسمية للوكالة أو برهاناً على تشغيل تقنية فضائية.
