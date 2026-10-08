@@ -16,9 +16,9 @@ Prepare a short, evidence-led introduction to COSMOSYNTH as an independent space
 ## Message
 COSMOSYNTH turns lawful public information into structured, source-traceable intelligence: research registers, comparative analyses, capability and stakeholder maps, research gaps and bounded pilot concepts. Speed is an operating goal, **not** a verified benchmark; accuracy and completeness require quality gates.
 
-## Reusable research evidence (separate, unmerged working branches)
+## Reusable research evidence (canonical and working research branches)
 - [Public SpaceX research on main](../../RU/RESEARCH/EXTERNAL_PROGRAMS/SPACEX/README.md): independently compiled preliminary systems research.
-- [UAE public research, EN/RU/AR branch](https://github.com/loaderxxx/Cosmic-Programm/tree/ar/uae-space-program-2026): early actor, mission and source registers.
+- [UAE public research on main, EN/RU/AR](https://github.com/loaderxxx/Cosmic-Programm/tree/main/EN/RESEARCH/EXTERNAL_PROGRAMS/UAE_SPACE_PROGRAM): early actor, mission and source registers, now integrated into canonical main.
 - [UAE technical research working branch](https://github.com/loaderxxx/Cosmic-Programm/tree/work/chatgpt/uae-space-program-20261008): preliminary system-of-systems baseline, not canonical main.
 
 ## Collaboration boundary
