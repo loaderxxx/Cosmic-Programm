@@ -34,3 +34,18 @@ A concept advances through:
 HYPOTHESIS → EXPERIMENT → EVIDENCE → ARCHITECTURE CANDIDATE → BASELINE
 
 not through enthusiasm alone.
+
+## D-005 — Trilingual research with English canonical branch
+
+Date: 2026-10-08
+Status: OWNER-APPROVED POLICY / repository integration through PR
+
+Decision: from the first research step, maintain substantive English, Russian and Arabic editions in parallel. English is the priority and canonical GitHub `main`; dedicated Git branches `lang/ru` and `lang/ar` hold the localized editions.
+
+Rationale: internationally usable English primary record plus Russian and Arabic research access with one auditable evidence chain, rather than delayed uncontrolled translations.
+
+Evidence: direct owner instruction of 2026-10-08; implementation specification in [LANGUAGE_POLICY.md](LANGUAGE_POLICY.md).
+
+Uncertainty: historical `RU/` and `AR/` directories are not yet fully migrated and many technical documents are not yet available in every language. Branch existence is not full translation.
+
+Next action: review and integrate this language policy, then migrate historical localized links only after a separate non-breaking audit. Review condition: repeated material source divergence or changed owner instruction.
