@@ -1,3 +1,9 @@
+# MANDATORY FIRST STEP — EN / RU / AR RESEARCH
+
+**Before any research task:** open linked English, Russian and Arabic research records in the same work cycle. **English is authoritative in `main`; Russian is maintained in `lang/ru`; Arabic is maintained in `lang/ar`.** Research and verification begin across all three languages, not as optional post-hoc translation. Track the same research ID, sources, facts, estimates and uncertainties in each edition. Missing or unreviewed language work must be marked `PENDING` / `TRANSLATION_REVIEW`, never presented as complete. See [LANGUAGE_POLICY.md](LANGUAGE_POLICY.md).
+
+---
+
 # AI TEAM BOOTSTRAP
 
 This repository participates in the owner's GitHub-based AI collaboration system.
