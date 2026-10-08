@@ -37,7 +37,7 @@ Space-sector decisions span institutions, missions, suppliers, regulations, data
 ## Slide 4 — Evidence of the research workflow
 **Existing public work:**
 - A structured [SpaceX research track](https://github.com/loaderxxx/Cosmic-Programm/tree/main/RU/RESEARCH/EXTERNAL_PROGRAMS/SPACEX), which treats programmes as interacting technical and economic systems.
-- Preliminary [UAE space-programme research](https://github.com/loaderxxx/Cosmic-Programm/tree/ar/uae-space-program-2026), including actor, mission and source registers across three languages.
+- Preliminary [UAE space-programme research](https://github.com/loaderxxx/Cosmic-Programm/tree/main/EN/RESEARCH/EXTERNAL_PROGRAMS/UAE_SPACE_PROGRAM), including actor, mission and source registers across three languages.
 - Separate in-progress [UAE systems baseline](https://github.com/loaderxxx/Cosmic-Programm/tree/work/chatgpt/uae-space-program-20261008).
 
 **Evidence standard:** these are inspectable research artifacts, **not** independently audited consulting delivery metrics, official UAE studies or successful in-space technology demonstrations.
