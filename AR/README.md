@@ -9,7 +9,7 @@
 
 ## ابدأ من هنا
 1. **[برنامج الإمارات الفضائي](RESEARCH/EXTERNAL_PROGRAMS/UAE_SPACE_PROGRAM/README.md)** — المؤسسات الوطنية والمهمات والصناعة والبحث والاقتصاد والمصادر والأسئلة المفتوحة. [سجل المصادر](../EN/RESEARCH/EXTERNAL_PROGRAMS/UAE_SPACE_PROGRAM/SOURCE_REGISTER.md) · [سجل المهمات](../EN/RESEARCH/EXTERNAL_PROGRAMS/UAE_SPACE_PROGRAM/MISSION_REGISTER_v0.1.md) · [سجل المؤسسات](../EN/RESEARCH/EXTERNAL_PROGRAMS/UAE_SPACE_PROGRAM/ACTOR_REGISTER_v0.1.md) (تتوفر السجلات التفصيلية حالياً بالإنجليزية).
-2. **[دراسة SpaceX المنظومية](../EN/RESEARCH/EXTERNAL_PROGRAMS/SPACEX/README.md)** — هندسة الأنظمة والتصنيع والعمليات والاقتصاد والمخاطر (المواد التفصيلية حالياً بالإنجليزية والروسية).
+2. **[دراسة SpaceX المنظومية بالعربية](RESEARCH/EXTERNAL_PROGRAMS/SPACEX/README.md)** — تسعة فصول عربية عن هندسة الأنظمة والتصنيع والعمليات والاقتصاد والمخاطر؛ الملحقات الأخرى بحاجة إلى ترجمة.
 3. **[هندسة البرنامج](../PROGRAM/SPACE_PROGRAM_ARCHITECTURE_v1.0.md)** · [خارطة الطريق التقنية](../PROGRAM/ROADMAP/TECHNICAL_ROADMAP_v1.0.md) · [مصفوفة التحقق](../PROGRAM/REQUIREMENTS/VERIFICATION_MATRIX_v1.0.md).
 4. **[منهج تحليل الوثائق](../RESEARCH/ANALYSIS_PIPELINE_v1.0.md)**.
 
