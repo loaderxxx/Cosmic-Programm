@@ -8,7 +8,7 @@ COSMOSYNTH / Cosmic Programm — **независимая исследовате
 **Цель:** собирать проверяемые данные, выявлять связи технологий, организаций и миссий, превращать гипотезы в проверяемые инженерные задачи и эксперименты.
 
 ## С чего начать
-1. **[Космическая программа ОАЭ](RESEARCH/EXTERNAL_PROGRAMS/UAE_SPACE_PROGRAM/README.md)** — государственные институты, миссии, научная и коммерческая экосистема, источники, открытые вопросы. [Реестр первоисточников (EN)](../EN/RESEARCH/EXTERNAL_PROGRAMS/UAE_SPACE_PROGRAM/SOURCE_REGISTER.md).
+1. **[Космическая программа ОАЭ](RESEARCH/EXTERNAL_PROGRAMS/UAE_SPACE_PROGRAM/README.md)** — государственные институты, миссии, научная и коммерческая экосистема, источники, открытые вопросы. [Реестр первоисточников](RESEARCH/EXTERNAL_PROGRAMS/UAE_SPACE_PROGRAM/SOURCE_REGISTER.md) · [Реестр миссий](RESEARCH/EXTERNAL_PROGRAMS/UAE_SPACE_PROGRAM/MISSION_REGISTER_v0.1.md) · [Реестр организаций](RESEARCH/EXTERNAL_PROGRAMS/UAE_SPACE_PROGRAM/ACTOR_REGISTER_v0.1.md).
 2. **[Системный анализ SpaceX](RESEARCH/EXTERNAL_PROGRAMS/SPACEX/README.md)** — архитектура, вертикальная интеграция, эксплуатация, экономика, риски, применимость методов.
 3. **[Карта программы](PROGRAM_INDEX.md)** · [архитектура](../PROGRAM/SPACE_PROGRAM_ARCHITECTURE_v1.0.md) · [дорожная карта](../PROGRAM/ROADMAP/TECHNICAL_ROADMAP_v1.0.md) · [матрица верификации](../PROGRAM/REQUIREMENTS/VERIFICATION_MATRIX_v1.0.md).
 4. **[Методика анализа технической документации](../RESEARCH/ANALYSIS_PIPELINE_v1.0.md)**.
