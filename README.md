@@ -1,236 +1,31 @@
-# Cosmic Programm 🚀
+# COSMOSYNTH / Cosmic Programm — Independent Space Systems Research
 
-## 👋 Добро пожаловать в публичную Космическую программу
+**Welcome.** COSMOSYNTH is an independent, evidence-driven research initiative exploring space systems, national space programmes, enabling technologies, mission architecture, economics, governance, and practical research-to-engineering workflows.
 
-**Cosmic Programm** — независимая долгосрочная исследовательская программа о развитии деятельности людей и роботов за пределами Земли.
+### Select a language / Выберите язык / اختر اللغة
 
-Этот репозиторий — **публичный слой программы**. Здесь можно посмотреть, как возникает исследование, какие документы мы изучаем, какие результаты получаем и как из отдельных разговоров складывается долговременная инженерно-исследовательская база.
+| English | Русский | العربية |
+|---|---|---|
+| **[English research portal](EN/README.md)** | **[Русский исследовательский портал](RU/README.md)** | **[البوابة البحثية العربية](AR/README.md)** |
 
-**English public research:** [EN/README.md](EN/README.md)
+## Featured programme: UAE Space Ecosystem
+We independently study the UAE Space Agency, Mohammed bin Rashid Space Centre, national missions, universities, industry and international partnerships as a connected space ecosystem.
 
-## 🌌 С чего всё начинается
+**[Read in English](EN/RESEARCH/EXTERNAL_PROGRAMS/UAE_SPACE_PROGRAM/README.md) · [Читать по-русски](RU/RESEARCH/EXTERNAL_PROGRAMS/UAE_SPACE_PROGRAM/README.md) · [اقرأ بالعربية](AR/RESEARCH/EXTERNAL_PROGRAMS/UAE_SPACE_PROGRAM/README.md)**
 
-Мы не начинаем с вопроса «какую ракету построить».
+## Research library
+- **SpaceX systems study:** [English](EN/RESEARCH/EXTERNAL_PROGRAMS/SPACEX/README.md) · [Русский](RU/RESEARCH/EXTERNAL_PROGRAMS/SPACEX/README.md)
+- **Space engineering and technology:** [technical research index](RESEARCH/GLOBAL_SPACE_PROGRAMS_INDEX.md) · [engineering knowledge map](RESEARCH/PUBLIC_TECHNICAL_KNOWLEDGE_MAP.md)
+- **Our research process:** [analysis pipeline](RESEARCH/ANALYSIS_PIPELINE_v1.0.md) · [project manifest](PROJECT_MANIFEST.md)
 
-Мы исследуем цепочку:
+## Our method
+**QUESTION → PRIMARY SOURCES → VERIFICATION → SYSTEM ANALYSIS → COMPARISON → HYPOTHESIS → ENGINEERING REQUIREMENTS → TEST → EVIDENCE.**
 
-**ЗЕМЛЯ → ДОСТУП В КОСМОС → ОРБИТАЛЬНАЯ ИНФРАСТРУКТУРА → ЛУНА → РОБОТЫ → ЭНЕРГИЯ → РЕСУРСЫ → ПРОИЗВОДСТВО → ОБИТАНИЕ → МАРС → СОЛНЕЧНАЯ СИСТЕМА**
+We keep documented facts, source claims, interpretations, estimates, hypotheses and unresolved questions distinct. External programmes are independent research benchmarks—not implied endorsements.
 
-Метод:
+## Status and transparency
+**EXPLORATORY / SYSTEMS RESEARCH / INDEPENDENT.** COSMOSYNTH does not claim official affiliation, funding, commissioned missions or endorsement from the UAE Space Agency, MBRSC, SpaceX, NASA, ESA or other institutions.
 
-**ИДЕЯ → ГИПОТЕЗА → ИССЛЕДОВАНИЕ → ДОКАЗАТЕЛЬСТВО → ВОЗМОЖНОСТЬ → ИНЖЕНЕРНАЯ МОДЕЛЬ → ЭКСПЕРИМЕНТ → ВАЛИДИРОВАННОЕ ЗНАНИЕ → АРХИТЕКТУРА**
+This public repository excludes private contacts, protected intellectual property, nonpublic strategy and credentials. See [Public / Private policy](PRIVATE_CORE_POLICY.md), [AI use policy](AI_USE_POLICY.md), [licensing](LICENSE.md).
 
----
-
-## 🔭 Новый публичный этап: исследование SpaceX
-
-22 сентября 2026 года мы начали отдельный исследовательский трек по **SpaceX**.
-
-Идея проста: не делать обычный реферат о SpaceX, а разобрать её как **систему**, включающую:
-
-- инженерную разработку;
-- производство;
-- испытания;
-- запуск и эксплуатацию;
-- многоразовое использование;
-- наземную инфраструктуру;
-- Starlink;
-- экономику;
-- масштабирование;
-- регуляторный контур.
-
-Этот этап начался непосредственно в диалоге с AI-помощником.
-
-### ⏱️ Скорость запуска
-
-**Первый публичный контур исследования был собран примерно за три минуты прямо в рабочем диалоге.**
-
-Сначала появилась исследовательская задача, затем был сделан быстрый первичный анализ, после чего результаты, журнал диалога и навигация были сохранены в публичном репозитории.
-
-Это хороший пример самого подхода Cosmic Programm:
-
-**разговор → исследование → структура знаний → публичный результат.**
-
-> Время «около трёх минут» — рабочая оценка продолжительности запуска этого этапа по ходу текущей сессии, а не отдельная серверная метрика.
-
----
-
-## 📂 Где что находится
-
-### RU/RESEARCH/EXTERNAL_PROGRAMS/SPACEX/
-
-Это отдельная публичная папка исследования SpaceX.
-
-### README.md
-
-Главная страница трека.
-
-Здесь объясняется:
-- зачем мы изучаем SpaceX;
-- какие правила публикации используются;
-- что считается фактом, интерпретацией и открытым вопросом.
-
-### SESSION_LOG_2026-09-22.md
-
-**Публичный журнал диалога**, который привёл к запуску исследования.
-
-Здесь сохраняется ход публичной работы:
-- исходная задача;
-- контекст;
-- сформулированные исследовательские вопросы;
-- результаты текущего этапа;
-- следующие шаги.
-
-### PRELIMINARY_ANALYSIS_2026-09-22.md
-
-**Первичный системный анализ SpaceX v0.1.**
-
-Это не финальный отчёт.
-
-Документ нужен как стартовая база для дальнейшего разговора и содержит:
-- рабочую системную модель SpaceX;
-- ключевые элементы архитектуры;
-- наблюдаемые принципы;
-- наши интерпретации;
-- открытые вопросы;
-- направления дальнейшего исследования.
-
----
-
-## 🧭 Основная карта Cosmic Programm
-
-### Проект
-
-- [Промпт проекта](RU/PROJECT_PROMPT.md)
-- [Манифест](RU/PROJECT_MANIFEST.md)
-- [Публичная архитектура](RU/ARCHITECTURE.md)
-- [Дорожная карта](RU/ROADMAP.md)
-- [Главный индекс программы](RU/PROGRAM_INDEX.md)
-
-### Исследования
-
-- [Текущее состояние отрасли](RU/RESEARCH/STATE_OF_THE_ART_2026-09-19.md)
-- [Карта технологий](RU/RESEARCH/TECHNOLOGY_MAP.md)
-- [Публичная карта технических знаний](RU/RESEARCH/PUBLIC_TECHNICAL_KNOWLEDGE_MAP.md)
-- [Межпрограммный технический синтез](RU/RESEARCH/ANALYSIS/CROSS_PROGRAM_SYNTHESIS_v1.0.md)
-
-### Внешние космические программы
-
-- [NASA Artemis / Moon to Mars](RU/RESEARCH/PROGRAMS/NASA_ARTEMIS_MOON_TO_MARS.md)
-- [SpaceX — основной публичный исследовательский трек этого этапа](RU/RESEARCH/EXTERNAL_PROGRAMS/SPACEX/README.md)
-- [ESA Terrae Novae](RU/RESEARCH/PROGRAMS/ESA_TERRAE_NOVAE.md)
-- [CNSA / Китай](RU/RESEARCH/PROGRAMS/CNSA_CHINA.md)
-- [JAXA](RU/RESEARCH/PROGRAMS/JAXA.md)
-- [ISRO / Gaganyaan](RU/RESEARCH/PROGRAMS/ISRO_GAGANYAAN.md)
-- [Роскосмос](RU/RESEARCH/PROGRAMS/ROSCOSMOS.md)
-
-### Техническая документация
-
-- [Индекс документации](RU/RESEARCH/DOCUMENTATION/README.md)
-- [Индекс документов SpaceX](RU/RESEARCH/DOCUMENTATION/SPACEX_TECHNICAL_DOCUMENT_INDEX_v1.0.md)
-- [Индекс документов NASA](RU/RESEARCH/DOCUMENTATION/NASA_TECHNICAL_DOCUMENT_INDEX_v1.0.md)
-- [Индекс документов Blue Origin](RU/RESEARCH/DOCUMENTATION/BLUE_ORIGIN_TECHNICAL_DOCUMENT_INDEX_v1.0.md)
-
-### Эксперименты и доказательства
-
-- [Эксперименты](RU/EXPERIMENTS/EXPERIMENT_FRAMEWORK.md)
-- [Каталог экспериментов](RU/EXPERIMENTS/README.md)
-- [Система доказательств](RU/EVIDENCE/README.md)
-
-### Право и безопасность
-
-- [Право и управление](RU/RESEARCH/LEGAL_AND_GOVERNANCE.md)
-- [Безопасность](RU/SECURITY.md)
-
----
-
-## 🧠 Как пользоваться репозиторием
-
-### Для нового читателя
-
-Начните с:
-
-**этого README → [главного индекса](RU/PROGRAM_INDEX.md) → нужного исследовательского трека.**
-
-### Для подписчика
-
-Можно открыть отдельную папку внешнего исследования и читать материалы сверху вниз:
-
-**README → журнал диалогов → результаты исследования → дальнейшие обновления.**
-
-### Для исследователя
-
-Следует проверять:
-- источник;
-- дату;
-- конфигурацию;
-- уровень доказательности;
-- различие между фактом и нашей интерпретацией;
-- что ещё остаётся неизвестным.
-
----
-
-## 🔐 Что остаётся закрытым
-
-Публичный репозиторий содержит **публикуемые результаты работы**.
-
-Не публикуются:
-
-- приватные промпты;
-- внутренние алгоритмы;
-- защищённая AI-оркестрация;
-- приватные контакты;
-- credentials, API keys и секреты;
-- чувствительные детали инфраструктуры;
-- материалы Private Core;
-- непрошедшие публикационный контроль IP-детали.
-
-Граница:
-
-**PUBLIC CORE → то, что можно публиковать**
-
-**PRIVATE CORE → то, что требует защиты**
-
----
-
-## 📚 Откуда взялась программа
-
-Cosmic Programm развивается как долговременная исследовательская система.
-
-Внешние программы — **NASA, SpaceX, ESA, CNSA и другие** — используются как источники, benchmarks и доказательная база.
-
-Они не становятся автоматически архитектурой Cosmic Programm.
-
-Главный принцип:
-
-> **Исследовать чужие системы, понимать их сильные и слабые стороны, извлекать переносимые принципы и строить собственную проверяемую архитектуру.**
-
----
-
-## 🚀 Что происходит дальше
-
-Исследование SpaceX продолжается.
-
-Дальше мы будем постепенно переходить от первичного анализа к более глубоким слоям:
-
-**SPACEX → CAPABILITY → ARCHITECTURE → INTERFACE → ECONOMICS → TEST → EVIDENCE → TRANSFER TO COSMIC PROGRAMM**
-
-То есть задача — не написать ещё один текст о SpaceX.
-
-Задача — понять, **какие механизмы делают сложную космическую систему масштабируемой, проверяемой и способной накапливать инженерное преимущество**, а затем проверить, что из этого применимо к Cosmic Programm.
-
----
-
-## 📌 Статус
-
-**EXPLORATORY / SYSTEMS R&D / HYPOTHESIS-DRIVEN**
-
-Начальный базовый уровень: **2026-09-19**.
-
-Публичный SpaceX-трек: **2026-09-22 / PRELIMINARY RESEARCH**.
-
-> Cosmic Programm — независимый исследовательский проект. Он не представляет NASA, ESA, SpaceX или другую организацию и не заявляет об их одобрении.
-
-## Intellectual property / AI use
-
-This repository does not grant a general licence for automated AI/ML ingestion, training, fine-tuning, distillation or competitive reuse of original material. See [AI_USE_POLICY.md](AI_USE_POLICY.md) and [LICENSE.md](LICENSE.md).
+**Translation status:** The language portals and UAE programme introductions are available in all three languages. Broader technical research is under translation; a link to an original-language document does not indicate a completed translation.
