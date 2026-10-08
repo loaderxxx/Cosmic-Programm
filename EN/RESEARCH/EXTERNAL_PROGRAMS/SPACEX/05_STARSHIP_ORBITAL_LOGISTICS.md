@@ -3,63 +3,104 @@
 Date: **2026-09-22**  
 Version: **v0.1**
 
-## Why Starship is more than a larger rocket
+> Complete translation of `RU/RESEARCH/EXTERNAL_PROGRAMS/SPACEX/05_STARSHIP_ORBITAL_LOGISTICS.md`; source blob `e3cfd297d472536c2c3c1a343855f74aac4d61c6`; snapshot `16073db5465c9bf0827f952a229bcded44dbd983`. Translation date: 2026-10-08. The source's historical maturity assessment is retained; this translation does not certify current flight or demonstration status. Independent human language review is pending.
 
-The public Starship architecture describes a reusable two-stage transportation system for Earth orbit and future Moon/Mars missions.
+## 1. Why Starship is not simply “a bigger rocket”
 
-For HLS, NASA documentation adds a more complex logistics chain:
-- lander;
+The Starship User's Guide presents the system as a two-stage reusable transportation system for Earth-orbit, Moon and Mars missions.
+
+For HLS, NASA documents a separate, complex architecture involving:
+- a Starship lander;
 - tanker launches;
-- propellant aggregation/storage;
-- cryogenic transfer;
-- rendezvous/docking;
-- lunar operations.
+- a storage depot;
+- propellant transfer;
+- rendezvous and docking;
+- lunar-orbit operations.
 
-## Paradigm shift
+## 2. A change in the system paradigm
 
-Falcon simplification:
+Falcon model:
 
-**Earth → orbit → payload**
+**Earth → orbit → payload.**
 
-Starship HLS:
+Starship HLS model:
 
-**Earth → repeated tanker operations → orbital propellant aggregation → transfer → lander → lunar orbit → surface**
+**Earth → many tanker operations → orbital propellant aggregation → lander → lunar orbit → surface.**
 
-This is an **orbital logistics capability**.
+The key product therefore becomes:
 
-## Hidden dependency
+**orbital logistics capability.**
 
-At the top level:
+## 3. The most important problem
 
-**lunar lander**
+NASA OIG notes that vehicle-to-vehicle cryogenic transfer for HLS is one of the most significant technical challenges and that this operation had not previously been demonstrated between vehicles.
+
+This means:
+
+**The Starship architecture depends on a new infrastructure capability, not only a new vehicle capability.**
+
+## 4. Hidden dependency
+
+At first glance:
+**lander capability**
 
 At system level:
+**propellant production/launch → tanker cadence → depot → transfer → thermal control → navigation → rendezvous → verification → mission.**
 
-**launch → tanker cadence → depot/storage → thermal control → rendezvous → transfer → measurement → propulsion → landing**
+This is a classic example of a dependency graph.
 
-A small subsystem can become a critical path for the entire architecture.
+## 5. Why this matters for Cosmic Programm
 
-## Cosmic Programm implication
+For lunar infrastructure, it is not enough to ask:
 
-Do not ask only:
+**“Can we land a spacecraft?”**
 
-**“Can we land an instrument?”**
+We must ask:
 
-Ask:
+**“What needs to exist before landing, during operations, and for the next spacecraft?”**
 
-**“What must exist before, during and after the landing so that the next mission becomes easier?”**
+This turns a capability into an infrastructure graph.
 
-That turns a mission into an infrastructure graph.
+## 6. Architectural implication
 
-## Maturity boundary
+The first lunar node may be worthwhile not because it performs one mission, but because it creates:
+- communications;
+- navigation;
+- power;
+- landing knowledge;
+- surface operations;
+- logistics interfaces.
 
-Falcon operational reuse and Starship integrated orbital-logistics maturity are separate evidence categories.
+This directly aligns with our infrastructure model.
+
+## 7. Preliminary maturity assessment
+
+We must distinguish:
+
+**Falcon operational reuse**
+
+from
+
+**Starship full integrated reuse + orbital propellant logistics.**
+
+The latter is substantially less mature and should not inherit confidence from the former.
 
 ## Open questions
 
-- demonstrated propellant transfer;
-- depot thermal performance;
-- tanker turnaround;
-- rendezvous reliability;
-- campaign mass and cost;
-- HLS reuse.
+- Actual Starship flight rate.
+- Demonstrated propellant transfer.
+- Depot thermal management.
+- Tanker turnaround.
+- Orbital rendezvous reliability.
+- Cumulative mass and cost of the tanker campaign.
+- Landing and reuse of HLS hardware.
+
+## Sources
+
+SpaceX Starship User's Guide:
+https://www.spacex.com/media/starship_users_guide_v1.pdf
+
+NASA OIG HLS Audit:
+https://oig.nasa.gov/audits/nasas-management-of-the-human-landing-system-contracts/
+
+[Russian source](../../../../RU/RESEARCH/EXTERNAL_PROGRAMS/SPACEX/05_STARSHIP_ORBITAL_LOGISTICS.md) · [Arabic translation](../../../../AR/RESEARCH/EXTERNAL_PROGRAMS/SPACEX/05_STARSHIP_ORBITAL_LOGISTICS.md)

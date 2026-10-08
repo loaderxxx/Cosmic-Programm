@@ -3,69 +3,122 @@
 Date: **2026-09-22**  
 Version: **v0.1**
 
-## Regulation is part of the architecture
+> Complete translation of `RU/RESEARCH/EXTERNAL_PROGRAMS/SPACEX/08_RISK_REGULATION_GOVERNANCE.md`; source blob `716ce9b5c39c8ce084aa719e173ff5dd1bffcaa7`; snapshot `16073db5465c9bf0827f952a229bcded44dbd983`. Translation date: 2026-10-08. This preserves a dated research text, not current legal advice or a new regulatory audit. Independent human language review is pending.
 
-A rocket capability is not operational without:
+## 1. Why regulation is part of the architecture
+
+A rocket system cannot be considered an operational capability without:
 - launch licensing;
 - environmental review;
 - range and airspace coordination;
 - safety processes;
-- customer requirements;
+- government-customer requirements;
 - mission authorization.
 
-FAA processes therefore affect engineering schedule and system architecture.
+The FAA explicitly states that new Starship/Super Heavy operations require the appropriate permit or licence and environmental review.
 
-## NASA provider autonomy + oversight
+Consequently:
 
-NASA’s HLS model combines substantial provider responsibility with agency insight/oversight.
+**REGULATION → SYSTEM ARCHITECTURE**
 
-A useful abstraction is:
+rather than simply legal support.
+
+## 2. NASA insight and oversight
+
+In 2026, NASA OIG describes the HLS model as a tailored approach that gives providers substantial freedom in project management while retaining agency insight and oversight.
+
+This is an interesting governance architecture:
+
+**provider autonomy + external assurance.**
+
+## 3. Where this model works
+
+It is useful when:
+- the provider owns the design;
+- the provider can iterate rapidly;
+- the customer defines mission requirements;
+- an external body maintains safety and contract oversight.
+
+It resembles the separation:
 
 **HOW TO BUILD → provider**
 
-**WHAT MUST BE ACHIEVED AND MADE SAFE → customer/regulator**
+**WHAT MUST BE SAFE / ACHIEVED → customer/regulator**
 
-## Autonomy must be paired with evidence
+## 4. Why autonomy has a cost
 
-High engineering autonomy can accelerate change.
+NASA OIG also shows that high-risk technology can remain immature despite programmatic progress.
 
-It does not eliminate:
-- technology risk;
-- integration risk;
-- schedule risk;
-- crew-safety constraints;
-- verification requirements.
+For example:
+- cryogenic transfer;
+- pad turnaround;
+- integrated HLS maturity;
+- crew safety and verification.
 
-## Dependency stacking
+Therefore:
 
-Starship HLS illustrates a chain such as:
+**Autonomy must be paired with evidence visibility.**
 
-**vehicle + tanker + depot + transfer + launch cadence + flight testing + crew integration**
+## 5. Cosmic Programm
 
-As dependencies increase, system risk can rise faster than component count.
+Our programme can use:
 
-## Cosmic Programm transfer
-
-A possible governance pattern is:
-
-**engineering autonomy**
-
+**ENGINEERING AUTONOMY**
 +
-
-**strict evidence / V&V**
-
+**STRICT EVIDENCE / V&V**
 +
-
-**publication gates**
-
+**PUBLICATION GATE**
 +
+**HUMAN APPROVAL FOR HIGH-CONSEQUENCE DECISIONS**
 
-**human approval for high-consequence decisions**
+This is already part of our bootstrap architecture.
+
+## 6. Risk taxonomy
+
+For a SpaceX-style system analysis:
+
+- technical;
+- integration;
+- operations;
+- cadence;
+- manufacturing;
+- regulatory;
+- safety;
+- supply chain;
+- economics;
+- programme dependency.
+
+## 7. A particular risk: dependency stacking
+
+Starship HLS illustrates the chain:
+
+vehicle
++ tanker
++ depot
++ transfer
++ pad cadence
++ flight test
++ crew integration.
+
+Every new capability creates new dependencies.
+
+Consequently:
+
+**Architecture complexity grows faster than component count.**
+
+## Open questions
+
+- How much does regulatory latency affect launch cadence?
+- Which requirements are most critical to the schedule?
+- How are hazards closed before crewed operations?
+- Which dependencies truly lie on the critical path?
 
 ## Sources
 
-FAA SpaceX Starship  
+FAA:
 https://www.faa.gov/space/stakeholder_engagement/spacex_starship
 
-NASA OIG HLS  
+NASA OIG HLS Audit:
 https://oig.nasa.gov/audits/nasas-management-of-the-human-landing-system-contracts/
+
+[Russian source](../../../../RU/RESEARCH/EXTERNAL_PROGRAMS/SPACEX/08_RISK_REGULATION_GOVERNANCE.md) · [Arabic translation](../../../../AR/RESEARCH/EXTERNAL_PROGRAMS/SPACEX/08_RISK_REGULATION_GOVERNANCE.md)

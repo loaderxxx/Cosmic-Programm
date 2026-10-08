@@ -1,63 +1,103 @@
-# SpaceX — Starlink as a Demand and Infrastructure Flywheel
+# SpaceX — Starlink as a Demand / Infrastructure Flywheel
 
 Date: **2026-09-22**  
 Version: **v0.1**
 
-## Central hypothesis
+> Complete translation of `RU/RESEARCH/EXTERNAL_PROGRAMS/SPACEX/04_STARLINK_FLYWHEEL.md`; source blob `e394874a70da53636811d19d8146dd677b112c15`; snapshot `16073db5465c9bf0827f952a229bcded44dbd983`. Translation date: 2026-10-08. Source-date statements and uncertainty are preserved; translation is not independent factual revalidation. Independent human language review is pending.
 
-Starlink should be studied as an internal source of recurring demand and scaling pressure for the space segment of SpaceX.
+## 1. Main hypothesis
 
-This does **not** imply that Starlink automatically “finances everything.”
+Starlink should be analysed as an **internal source of demand and scaling** for the space segment of SpaceX.
 
-## System loop
+This does not automatically mean that Starlink “finances everything”.
 
-**customer demand → satellite manufacturing → launch demand → launch cadence → operational learning → constellation refresh → service expansion → more demand**
+## 2. System relationships
 
-SpaceX describes Starlink as a large-scale LEO connectivity platform supported by vertically integrated launch and satellite-manufacturing capabilities.
+Working chain:
 
-## Why an internal customer matters
+**CUSTOMER DEMAND**
+→ satellite manufacturing
+→ launch demand
+→ launch cadence
+→ operational learning
+→ constellation refresh
+→ service expansion
+→ more demand.
 
-A conventional launch company has:
+In its prospectus, SpaceX describes Starlink as a global LEO connectivity platform supported by vertically integrated launch and satellite-manufacturing capabilities.
 
-**customer → contract → launch**
+## 3. Why an internal customer matters
 
-An integrated system can have:
+In a conventional launch company:
 
-**internal product roadmap → known spacecraft architecture → recurring launch demand → manufacturing plan → operations**
+customer → contract → launch.
 
-That can reduce some uncertainty between production and launch.
+In an integrated system:
 
-## Standardization
+internal product roadmap → known satellite architecture → predictable launch demand → manufacturing plan → launch operations.
 
-High volume is most valuable when architectures are repeatable.
+This reduces some uncertainty between production and launch.
 
-Repeated spacecraft and operations enable:
-- manufacturing learning;
-- repeated test procedures;
-- fleet-level reliability evidence;
-- process standardization.
+## 4. Standardization
 
-## Network effect
+High volume makes sense only with standardization.
 
-Starlink connects:
-**satellite → launch → network → end customer**
+Identical or similar satellite architectures make it possible to:
+- improve manufacturing;
+- repeat tests;
+- repeat deployment;
+- collect fleet-level reliability evidence.
 
-The integration can generate operational data, utilization and planning control.
+## 5. Network effect
 
-## Cosmic Programm question
+Starlink creates a downstream service.
 
-A downstream service may be useful when it creates predictable demand for an upstream infrastructure capability.
+SpaceX therefore controls more links in the chain:
 
-The transferable principle is not “build an internet constellation.”
+**satellite → launch → network → end customer.**
 
-It is:
+This may provide:
+- operational data;
+- planning control;
+- internal demand;
+- product integration.
 
-> **Find a recurring use that keeps the infrastructure learning and operating.**
+But it also creates concentration of business risk.
 
-## Source
+## 6. Starlink V3 as an example of platform iteration
 
-SpaceX 2026 corporate disclosures  
-https://ir.spacex.com/
+SpaceX publicly describes Starlink V3 as the next generation of satellites, with substantial increases in throughput and power, intended to scale the constellation together with Starship's payload capacity.
 
-Starlink version 3  
+This is a useful example of:
+
+**vehicle capacity ↔ satellite architecture ↔ network capability**
+
+In other words, payload design and the launch system can evolve jointly.
+
+## 7. Limitation
+
+We must not assume that downstream ownership is necessary for every space programme.
+
+The criterion is:
+
+**Does the downstream product create enough predictable demand to justify upstream vertical integration?**
+
+## 8. Cosmic Programm
+
+In our architecture, the equivalent of Starlink need not be “satellite internet”. It could be any real recurring service that:
+- requires space infrastructure;
+- creates repeated demand;
+- generates operational data;
+- pays for subsequent iterations.
+
+This is a central question for the future economics of Cosmic Programm.
+
+## Sources
+
+SpaceX 2026 EU Prospectus:
+https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf
+
+Starlink V3:
 https://starlink.com/updates/starlink-version-3-satellites
+
+[Russian source](../../../../RU/RESEARCH/EXTERNAL_PROGRAMS/SPACEX/04_STARLINK_FLYWHEEL.md) · [Arabic translation](../../../../AR/RESEARCH/EXTERNAL_PROGRAMS/SPACEX/04_STARLINK_FLYWHEEL.md)

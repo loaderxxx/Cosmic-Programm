@@ -1,34 +1,33 @@
-# SpaceX — Economics and Business Model as Part of the System
+# SpaceX — Economics and the Business Model as Part of the System
 
 Date: **2026-09-22**  
 Version: **v0.1**
 
-## Start with lifecycle economics
+> Complete translation of `RU/RESEARCH/EXTERNAL_PROGRAMS/SPACEX/07_ECONOMICS_BUSINESS_MODEL.md`; source blob `21d1414c5f8f644f607e89330f136c3d040f66e4`; snapshot `16073db5465c9bf0827f952a229bcded44dbd983`. Translation date: 2026-10-08. Historical source claims are retained; translation is not an independent financial or factual audit. Independent human language review is pending.
 
-The useful economic object is not:
+## 1. Do not start with the price of the rocket
 
-**“How much does the rocket cost?”**
+The economic object of analysis is:
 
-It is:
+**the complete system for creating and delivering a useful capability.**
 
-**“What does it cost to deliver a useful capability over the full lifecycle?”**
-
-Relevant categories:
+The analysis must account for:
 - R&D;
 - manufacturing;
 - facilities;
-- integration;
 - launch;
 - recovery;
-- inspection;
 - refurbishment;
-- personnel;
+- workforce;
+- insurance;
 - regulation;
-- infrastructure;
-- payload;
-- downstream service.
+- customer integration;
+- satellite and network infrastructure;
+- cost of capital.
 
-## Three-sided working model
+## 2. Three-sided model
+
+Working model:
 
 ### Upstream
 Rocket / spacecraft / infrastructure
@@ -37,42 +36,76 @@ Rocket / spacecraft / infrastructure
 Launch / deployment / operations
 
 ### Downstream
-Connectivity / satellite services / recurring customer products
+Connectivity / satellite service / other recurring customer products
 
-System advantage can arise from integration across the three.
+An advantage may emerge at their intersection.
 
-## Internal demand
+## 3. Why internal demand changes the economics
 
-A recurring internal customer can improve utilization and reduce demand uncertainty.
+If one SpaceX product regularly consumes another SpaceX product, a more predictable utilization model emerges.
 
 Example:
 
-**Starlink demand → launches → reuse → operational data → manufacturing learning**
+**Starlink demand → Falcon launches → booster reuse → launch data → manufacturing/operations learning.**
 
-The exact consolidated economics still require deeper financial analysis.
+However, the economic balance requires actual cost and revenue data.
 
-## Government customer
+## 4. Government customers
 
-Government procurement can:
-- establish requirements;
-- fund milestones;
-- create acceptance tests;
-- reduce some market risk;
-- provide a real operational customer.
+NASA and US government contracts have additional effects:
 
-But money is not the same as technical maturity.
+- they fund milestones;
+- they define requirements;
+- they create a validation environment;
+- they reduce market risk for specific capabilities.
 
-## Cosmic Programm principle
+NASA Commercial Crew uses a model in which providers own the transportation systems and NASA buys transportation services.
 
-Before scaling expensive infrastructure, search for:
+This allows government procurement to be analysed as a mechanism for capability creation, not merely a customer relationship.
 
-**recurring demand for the capability.**
+## 5. Cosmic Programm principle
 
-## Open questions
+When designing our programme, we should look for:
 
-- Falcon unit economics;
-- economics of booster reuse;
-- Starlink segment economics;
-- capital allocation;
-- marginal launch cost;
-- Starship economics once operational.
+**recurring demand for a capability**
+
+before scaling expensive infrastructure.
+
+It is not necessary to build the downstream business ourselves.
+
+But there must be an economic reason for the system to be used repeatedly.
+
+## 6. The most important question
+
+**Which capability creates the next revenue/demand loop?**
+
+Possible examples:
+- communication;
+- data;
+- remote sensing;
+- logistics;
+- robotic service;
+- scientific payload hosting;
+- power;
+- infrastructure support.
+
+## 7. Open questions
+
+- Falcon unit economics by mission class.
+- Economics of booster reuse.
+- Starlink segment profitability.
+- Capital allocation between segments.
+- Marginal cost of an additional launch.
+- Economics of Starship once operational.
+
+## Sources
+
+SpaceX Falcon User's Guide 2025.
+SpaceX 2026 EU Prospectus.
+NASA OIG Commercial Crew / HLS reports.
+
+https://www.spacex.com/assets/media/falcon-users-guide-2025-05-09.pdf
+https://content.spacex.com/
+https://oig.nasa.gov/
+
+[Russian source](../../../../RU/RESEARCH/EXTERNAL_PROGRAMS/SPACEX/07_ECONOMICS_BUSINESS_MODEL.md) · [Arabic translation](../../../../AR/RESEARCH/EXTERNAL_PROGRAMS/SPACEX/07_ECONOMICS_BUSINESS_MODEL.md)

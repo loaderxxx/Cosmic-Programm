@@ -4,42 +4,54 @@ Date: **2026-09-22**
 Version: **v0.1**  
 Status: **PUBLIC RESEARCH / HYPOTHESIS**
 
-## Rule
+> Complete translation of `RU/RESEARCH/EXTERNAL_PROGRAMS/SPACEX/09_TRANSFER_TO_COSMIC_PROGRAMM.md`; source blob `c859adefc902684c8de055abe5f7bbb179beab06`; snapshot `16073db5465c9bf0827f952a229bcded44dbd983`. Translation date: 2026-10-08. Hypotheses remain hypotheses; translation does not establish validated engineering performance. Independent human language review is pending.
+
+## Important rule
 
 We do not copy SpaceX.
 
-We study SpaceX as an external benchmark and extract mechanisms that may transfer into our own capability-centric architecture.
+SpaceX is used as an external benchmark.
 
-## 1. Short feedback loops
+The goal is to identify mechanisms that can be adapted to our own capability-centric architecture.
+
+## 1. Principle: a short feedback loop
 
 SpaceX publicly describes tight feedback loops between design, production and quality.
 
-Transfer:
+### Transfer
+
+For Cosmic Programm:
 
 **idea → model → prototype → test → evidence → change → next prototype**
 
-## 2. Capability over vehicle
+Avoid spending months on work without a physical or computational test of the key assumption.
 
-Plan around:
+## 2. Principle: capability over vehicle
+
+SpaceX can be analysed in terms of capabilities, not only rocket names.
+
+### Transfer
+
+Our planning units:
 - autonomous operation;
 - orbital logistics;
 - lunar communications;
 - power;
 - robotics;
 - resource measurement;
-- infrastructure services.
+- infrastructure service.
 
-Hardware remains an implementation mechanism.
+## 3. Principle: throughput
 
-## 3. Throughput
-
-The important question is not only whether a mission can happen once.
+What matters is not the ability to perform a mission once.
 
 It is:
 
-**Can we repeat the capability N times within a defined period and lifecycle cost?**
+**the ability to repeat it N times within a defined period.**
 
-Add:
+### Transfer
+
+Supplement every future capability with:
 - cadence;
 - recovery;
 - maintenance;
@@ -47,66 +59,96 @@ Add:
 - next-unit cost;
 - evidence accumulated per cycle.
 
-## 4. Critical-interface ownership
+## 4. Principle: ownership of critical interfaces
 
-Do not build everything internally.
+We do not need to build everything ourselves.
 
-Control the interfaces that dominate:
+We need to control the interfaces that determine:
 - speed;
 - safety;
 - IP;
 - reliability;
 - change latency.
 
-Use interface criticality in Build/Buy/Partner decisions.
+### Transfer
 
-## 5. Infrastructure compounding
+Develop the Build/Buy matrix on the basis of interface criticality.
 
-Ask:
+## 5. Principle: infrastructure compounding
 
-**What does the second node get because the first node already exists?**
+The first node should increase the value of the next node.
 
-## 6. Recurring demand
+### Transfer
 
-A recurring service or internal use can keep infrastructure operating and learning.
+For Mission C, ask:
 
-The transferable idea is the demand loop, not a specific downstream business.
+**What does the second node receive free of charge, more cheaply or faster because of the first?**
 
-## 7. Living technical documents
+## 6. Principle: recurring demand
 
-Requirements, architecture, interfaces, budgets, risk registers and experiment plans should evolve with evidence and preserve provenance.
+Starlink illustrates the value of a downstream demand engine.
 
-## 8. Autonomy + oversight
+### Transfer
 
-A useful model for AI-assisted engineering is:
+For every capability, look for:
+- a recurring customer;
+- recurring internal use;
+- recurring scientific use;
+- repeated generation of operational data.
 
-**reversible autonomy inside defined scope**
+## 7. Principle: living documents
 
+The Falcon User's Guide explicitly describes continuous revision as data accumulates.
+
+### Transfer
+
+Our:
+- requirements;
+- architecture;
+- interfaces;
+- budgets;
+- risk registers;
+- experiment plans
+
+must be versioned together with the evidence.
+
+## 8. Principle: autonomy + oversight
+
+The NASA HLS contracting model shows that provider autonomy can be combined with independent insight and oversight.
+
+### Transfer
+
+For AI-assisted engineering:
+
+**AI autonomy inside reversible scope**
 +
-
 **human approval at high-consequence gates**
-
 +
+**evidence traceability.**
 
-**traceable evidence**
+## 9. What we do NOT transfer automatically
 
-## What we should not copy automatically
-
-- extreme vertical integration as a goal;
-- specific vehicle geometry;
-- corporate structure;
+We do not copy:
+- extreme vertical integration as an end in itself;
+- specific vehicle geometries;
+- a specific corporate structure;
 - dependence on Starlink;
-- capital strategy;
+- SpaceX's capital strategy;
 - unvalidated Starship assumptions.
 
-## Current design rule
+## 10. Preliminary Cosmic Programm design rule
 
-> **Build the smallest system that creates the shortest measurable feedback loop on critical capabilities.**
+Working rule of the second analytical layer:
 
-## Next experiment
+> **Build not the largest possible system, but the system with the shortest measurable feedback loop for critical capabilities.**
+
+## 11. Next experiment
+
+Cosmic Programm could establish:
 
 **COSMIC ITERATION LOOP v0.1**
 
+For each capability:
 1. requirement;
 2. hypothesis;
 3. cheapest falsifying test;
@@ -116,8 +158,12 @@ A useful model for AI-assisted engineering is:
 7. decision;
 8. next version.
 
-## Core question
+## 12. Key question
 
-If one principle had to be tested first, it would be:
+If only one SpaceX principle were retained for Cosmic Programm, this research currently points neither to “a reusable rocket” nor to “vertical integration”, but to:
 
-> **Reduce the time between a decision and a verifiable reality, without weakening evidence quality.**
+**systematically reducing the time between a decision and a verifiable reality.**
+
+This is a research hypothesis that still needs to be tested against other external programmes.
+
+[Russian source](../../../../RU/RESEARCH/EXTERNAL_PROGRAMS/SPACEX/09_TRANSFER_TO_COSMIC_PROGRAMM.md) · [Arabic translation](../../../../AR/RESEARCH/EXTERNAL_PROGRAMS/SPACEX/09_TRANSFER_TO_COSMIC_PROGRAMM.md)
