@@ -29,4 +29,4 @@
 
 **Область незавершённой миграции:** это языковая ветка, созданная на базе существующего репозитория. Ряд унаследованных документов пока написан на английском. Наличие ветки не подтверждает полный перевод архивного корпуса.
 
-[Состояние локализации](LANGUAGE_STATUS.md) · [Английская политика](https://github.com/loaderxxx/Cosmic-Programm/blob/work/chatgpt/20261008-trilingual-policy/LANGUAGE_POLICY.md)
+[Состояние локализации](LANGUAGE_STATUS.md) · [Английская политика](https://github.com/loaderxxx/Cosmic-Programm/blob/main/LANGUAGE_POLICY.md)
