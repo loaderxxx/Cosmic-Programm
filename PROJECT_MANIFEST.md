@@ -7,6 +7,10 @@ Repository: loaderxxx/Cosmic-Programm
 Visibility: Public
 Version: 0.1
 
+## Language policy (owner decision, 2026-10-08)
+
+Research is initiated in **English, Russian and Arabic together**; English is the canonical priority. The GitHub default branch `main` is the English reference; `lang/ru` contains Russian editions; `lang/ar` contains Arabic editions. Every study carries the same research ID, source register, verification labels and traceable version. Historical `RU/` and `AR/` documents in `main` remain available until a reviewed link-safe migration. See [LANGUAGE_POLICY.md](LANGUAGE_POLICY.md). This policy does not weaken the Public/Private boundary.
+
 ## Purpose
 
 Develop a long-horizon, evidence-driven cosmic program integrating engineering, science, economics, governance and human factors.
