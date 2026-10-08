@@ -1,0 +1,20 @@
+{
+  "schema": "COSMOSYNTH_ATLAS_ENTRY_V1",
+  "research_id": "CS-ATLAS-ENTRY-20261008",
+  "edition": "2026-10-08.v1",
+  "canonical_language": "en",
+  "language_branches": {"en": "main", "ru": "lang/ru", "ar": "lang/ar"},
+  "source_main_commit": "ada31c531f393d29ecf2cfd04002411df3ef7355",
+  "industry_source_commit": "75066d88bbcc96eb63f6242df48cbcf5eac9fc67",
+  "industry_source_root": "https://github.com/loaderxxx/Cosmic-Programm/blob/75066d88bbcc96eb63f6242df48cbcf5eac9fc67/EN/RESEARCH/INDUSTRY/CABSAT_SATEXPO_2026/",
+  "industry_catalog_blob": "ffc501c1948a5bc57eb208e5663d531ddb5626f7",
+  "industry_source_status": "PUBLIC_WORKING_RESEARCH_NOT_FULLY_VALIDATED",
+  "organization_records": 55,
+  "product_primary_source_linked": 40,
+  "identity_unresolved": 8,
+  "system_options": 8,
+  "private_contacts_included": false,
+  "detailed_dossier_translation": {"en": "EXISTING_SOURCE", "ru": "PENDING", "ar": "PENDING"},
+  "reader_pages": ["README.md", "START_HERE.md", "COLLABORATE.md", "RESEARCH_STATUS.md", "ATLAS/README.md", "ATLAS/ORGANIZATIONS/README.md", "ATLAS/CAPABILITIES/README.md", "ATLAS/RELATIONSHIPS/README.md", "ATLAS/SYSTEM_OPTIONS/README.md", "ATLAS/EXTERNAL_PROGRAMS/README.md", "ATLAS/REGIONS/UAE/README.md", "ATLAS/EVENTS/README.md", "ATLAS/DATA/README.md", "PILOTS/README.md"],
+  "verification_boundary": "Navigation/content checks are recorded per release PR; this manifest is not a vendor validation or proof of deployed systems."
+}
