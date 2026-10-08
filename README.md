@@ -28,4 +28,4 @@
 
 **حدود النسخة الحالية:** أُنشئ هذا الفرع من مستودع موجود سابقاً؛ بعض المستندات الموروثة لا تزال باللغة الإنجليزية. وجود الفرع لا يعني اكتمال ترجمة جميع البحوث القديمة.
 
-[حالة المزامنة](LANGUAGE_STATUS.md) · [سياسة اللغات الإنجليزية](https://github.com/loaderxxx/Cosmic-Programm/blob/work/chatgpt/20261008-trilingual-policy/LANGUAGE_POLICY.md)
+[حالة المزامنة](LANGUAGE_STATUS.md) · [سياسة اللغات الإنجليزية](https://github.com/loaderxxx/Cosmic-Programm/blob/main/LANGUAGE_POLICY.md)
