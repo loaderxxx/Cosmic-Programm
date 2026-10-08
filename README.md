@@ -1,31 +1,31 @@
-# COSMOSYNTH / Cosmic Programm — Independent Space Systems Research
+# COSMOSYNTH — الفرع العربي للأبحاث الفضائية
 
-**Welcome.** COSMOSYNTH is an independent, evidence-driven research initiative exploring space systems, national space programmes, enabling technologies, mission architecture, economics, governance, and practical research-to-engineering workflows.
+**الفرع:** `lang/ar` · **المرجع المعتمد:** [النسخة الإنجليزية في `main`](https://github.com/loaderxxx/Cosmic-Programm/tree/main) · **الحالة:** فرع لغوي قائم؛ تُراجع ترجمات الأرشيف وتُستكمل تدريجياً.
 
-### Select a language / Выберите язык / اختر اللغة
+[English — main](https://github.com/loaderxxx/Cosmic-Programm/tree/main) · [Русский — lang/ru](https://github.com/loaderxxx/Cosmic-Programm/tree/lang/ru) · **العربية — lang/ar**
 
-| English | Русский | العربية |
-|---|---|---|
-| **[English research portal](EN/README.md)** | **[Русский исследовательский портал](RU/README.md)** | **[البوابة البحثية العربية](AR/README.md)** |
+## الخطوة الأولى: البحث باللغات الثلاث
 
-## Featured programme: UAE Space Ecosystem
-We independently study the UAE Space Agency, Mohammed bin Rashid Space Centre, national missions, universities, industry and international partnerships as a connected space ecosystem.
+يبدأ كل بحث جديد في COSMOSYNTH **بالتوازي بالإنجليزية والروسية والعربية من البداية**. تمثل الإنجليزية في `main` المرجع الرئيسي للمعلومات والأدلة وأرقام المصادر والمتطلبات والقرارات الهندسية. ويحتوي هذا الفرع على الدراسة العربية الكاملة التي تحافظ على الحقائق والمقاييس والافتراضات والقيود، وليس على ملخّص مختصر يُكتب في نهاية العمل.
 
-**[Read in English](EN/RESEARCH/EXTERNAL_PROGRAMS/UAE_SPACE_PROGRAM/README.md) · [Читать по-русски](RU/RESEARCH/EXTERNAL_PROGRAMS/UAE_SPACE_PROGRAM/README.md) · [اقرأ بالعربية](AR/RESEARCH/EXTERNAL_PROGRAMS/UAE_SPACE_PROGRAM/README.md)**
+**الأولوية للإنجليزية.** تُراجَع أي معلومات إضافية من المصادر العربية وتُدمَج في سجل الأدلة المرجعي قبل اعتماد النتائج المشتركة. ولا تُوصف الترجمة بأنها مكتملة ما لم تنجح في مراجعة المعنى والمصادر؛ وتُعلَّم الأعمال غير المكتملة بالحالة `TRANSLATION_REVIEW` أو `PENDING`.
 
-## Research library
-- **SpaceX systems study:** [English](EN/RESEARCH/EXTERNAL_PROGRAMS/SPACEX/README.md) · [Русский](RU/RESEARCH/EXTERNAL_PROGRAMS/SPACEX/README.md)
-- **Space engineering and technology:** [technical research index](RESEARCH/GLOBAL_SPACE_PROGRAMS_INDEX.md) · [engineering knowledge map](RESEARCH/PUBLIC_TECHNICAL_KNOWLEDGE_MAP.md)
-- **Our research process:** [analysis pipeline](RESEARCH/ANALYSIS_PIPELINE_v1.0.md) · [project manifest](PROJECT_MANIFEST.md)
+## المواد العربية الموجودة
 
-## Our method
-**QUESTION → PRIMARY SOURCES → VERIFICATION → SYSTEM ANALYSIS → COMPARISON → HYPOTHESIS → ENGINEERING REQUIREMENTS → TEST → EVIDENCE.**
+- [البوابة البحثية العربية](AR/README.md)
+- [دراسة برنامج الإمارات الفضائي](AR/RESEARCH/EXTERNAL_PROGRAMS/UAE_SPACE_PROGRAM/README.md)
+- [دراسة منظومة SpaceX](AR/RESEARCH/EXTERNAL_PROGRAMS/SPACEX/README.md)
 
-We keep documented facts, source claims, interpretations, estimates, hypotheses and unresolved questions distinct. External programmes are independent research benchmarks—not implied endorsements.
+## سير العمل
 
-## Status and transparency
-**EXPLORATORY / SYSTEMS RESEARCH / INDEPENDENT.** COSMOSYNTH does not claim official affiliation, funding, commissioned missions or endorsement from the UAE Space Agency, MBRSC, SpaceX, NASA, ESA or other institutions.
+1. تخصيص معرّف موحّد للبحث وبدء ملفات EN وRU وAR في دورة العمل نفسها.
+2. جمع المصادر الرسمية بلغاتها الأصلية المناسبة، مع اسم الجهة والتاريخ والرابط.
+3. توحيد أرقام المصادر والحقائق والقيم ووحدات القياس ودرجات اليقين مع النسخة الإنجليزية.
+4. مراجعة المصطلحات التقنية وصحة العرض من اليمين إلى اليسار (RTL)، بما في ذلك المعادلات والأرقام والروابط.
+5. حفظ التعديلات عبر طلب مراجعة منفصل للفرع `lang/ar` مع توثيق إصدار الإنجليزية المرجعي.
 
-This public repository excludes private contacts, protected intellectual property, nonpublic strategy and credentials. See [Public / Private policy](PRIVATE_CORE_POLICY.md), [AI use policy](AI_USE_POLICY.md), [licensing](LICENSE.md).
+لا تُنشَر جهات الاتصال الخاصة أو المفاوضات أو المعلومات المحمية أو المواد الواردة في PRIVATE CORE. ودراسة جهة ما لا تعني وجود شراكة أو موافقة منها.
 
-**Translation status:** The language portals and UAE programme introductions are available in all three languages. Broader technical research is under translation; a link to an original-language document does not indicate a completed translation.
+**حدود النسخة الحالية:** أُنشئ هذا الفرع من مستودع موجود سابقاً؛ بعض المستندات الموروثة لا تزال باللغة الإنجليزية. وجود الفرع لا يعني اكتمال ترجمة جميع البحوث القديمة.
+
+[حالة المزامنة](LANGUAGE_STATUS.md) · [سياسة اللغات الإنجليزية](https://github.com/loaderxxx/Cosmic-Programm/blob/work/chatgpt/20261008-trilingual-policy/LANGUAGE_POLICY.md)
