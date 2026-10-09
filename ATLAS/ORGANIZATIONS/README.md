@@ -2,9 +2,9 @@
 
 [Atlas](../README.md) · [English](https://github.com/loaderxxx/Cosmic-Programm/blob/main/ATLAS/ORGANIZATIONS/README.md) · [Русский](https://github.com/loaderxxx/Cosmic-Programm/blob/lang/ru/ATLAS/ORGANIZATIONS/README.md) · [العربية](https://github.com/loaderxxx/Cosmic-Programm/blob/lang/ar/ATLAS/ORGANIZATIONS/README.md)
 
-**55 research records—not 55 verified suppliers or COSMOSYNTH partners.** This is a global reading entry to an existing, partial CABSAT/SATExpo-derived working catalogue. Organization names and original P/C IDs are preserved; the functional grouping below is a navigation aid, not a qualification ranking.
+**55 research records—not 55 verified suppliers or COSMOSYNTH partners.** This is a global reading entry to the published, partial CABSAT/SATExpo-derived catalogue. Organization names and original P/C IDs are preserved; the functional grouping below is a navigation aid, not a qualification ranking.
 
-Each name opens its **English source dossier at a fixed revision**, with separate capability, relationship, source and JSON files. Directory descriptions are available in EN/RU/AR; full dossier translation remains pending. Agencies and national institutions are covered separately in the [UAE](../REGIONS/UAE/README.md) and [programme](../EXTERNAL_PROGRAMS/README.md) sections and are not included in the 55-record count.
+Each name opens its **English source dossier at a fixed revision** for provenance, with separate capability, relationship, source and JSON files. **[Browse the integrated 55-dossier catalogue on main](../../EN/RESEARCH/INDUSTRY/CABSAT_SATEXPO_2026/README.md)**. The historical pinned revision is retained for reproducibility. Directory descriptions are available in EN/RU/AR; full dossier translation remains pending. Agencies and national institutions are covered separately in the [UAE](../REGIONS/UAE/README.md) and [programme](../EXTERNAL_PROGRAMS/README.md) sections and are not included in the 55-record count.
 
 **Evidence key:** P = primary product/organization source linked; E = event/profile only; L = preliminary source; O = organization information; U = unresolved identity. A P grade does not certify performance, attendance, legal identity or compatibility. Source snapshot: 8 October 2026. [Exact source catalogue](../DATA/CATALOG_SOURCE.json).
 
