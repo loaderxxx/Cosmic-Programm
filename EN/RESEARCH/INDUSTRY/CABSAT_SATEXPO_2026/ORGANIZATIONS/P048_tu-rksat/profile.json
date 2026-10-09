@@ -1,0 +1,37 @@
+{
+  "schema": "COSMOSYNTH_OPEN_INDUSTRY_PROFILE_V1",
+  "record": "P048",
+  "organization": "Türksat",
+  "checked_at": "2026-10-08",
+  "sector": "Satellite operator / Türkiye",
+  "event_scope": "SATEXPO_LINKED_OR_MENTIONED",
+  "event_participation_interpretation": "2026 exhibition presence is NOT independently confirmed; included for sector/market research only.",
+  "evidence_grade": "PRODUCT_PRIMARY_SOURCE",
+  "claims_from_primary": true,
+  "capability_claims": [
+    "Türksat 6A satellite services",
+    "Ground satellite capacity and teleport services",
+    "Space programme consultancy/technology transfer",
+    "2025 MoU with Gulfsat"
+  ],
+  "capability_classifications": [
+    "SATELLITE_OPERATOR"
+  ],
+  "related_documented_organizations": [
+    {
+      "record": "P014",
+      "kind": "SIGNED_MOU",
+      "status": "SOURCE_CLAIM",
+      "source": "https://www.gulfsat.com/news.html",
+      "date": "2025-05-14"
+    }
+  ],
+  "public_sources": [
+    "https://www.security.co.za/events/1156",
+    "https://www.turksat.com.tr/en/satellite/consulting-and-training-services/space-technologies-consultancy-services",
+    "https://www.turksat.com.tr/en/news/turksat-6a-makes-its-mark-cabsat"
+  ],
+  "private_contacts_included": false,
+  "affiliation_with_cosmosynth": "none established",
+  "exhibition_product_display_verified": false
+}

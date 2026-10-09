@@ -1,0 +1,27 @@
+{
+  "schema": "COSMOSYNTH_OPEN_INDUSTRY_PROFILE_V1",
+  "record": "P023",
+  "organization": "Telesat",
+  "checked_at": "2026-10-08",
+  "sector": "Satellite operator / LEO",
+  "event_scope": "SATEXPO_LINKED_OR_MENTIONED",
+  "event_participation_interpretation": "Brand/logo shown on SATExpo 2026 organizer site; corporate identity/booth details may need verification.",
+  "evidence_grade": "PRODUCT_PRIMARY_SOURCE",
+  "claims_from_primary": true,
+  "capability_claims": [
+    "Satellite operator services",
+    "Lightspeed LEO network under deployment",
+    "Ground gateway partnerships (Orange, 2026)"
+  ],
+  "capability_classifications": [
+    "SATELLITE_OPERATOR"
+  ],
+  "related_documented_organizations": [],
+  "public_sources": [
+    "https://www.satexpome.com/",
+    "https://www.globenewswire.com/news-release/2026/09/17/3363975/0/en/orange-and-telesat-inaugurate-europe-s-first-telesat-lightspeed-gateway-in-france.html"
+  ],
+  "private_contacts_included": false,
+  "affiliation_with_cosmosynth": "none established",
+  "exhibition_product_display_verified": false
+}

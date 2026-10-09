@@ -1,0 +1,28 @@
+{
+  "schema": "COSMOSYNTH_OPEN_INDUSTRY_PROFILE_V1",
+  "record": "P004",
+  "organization": "Atron Co.,Ltd",
+  "checked_at": "2026-10-08",
+  "sector": "RF / VSAT components",
+  "event_scope": "SATEXPO_LINKED_OR_MENTIONED",
+  "event_participation_interpretation": "Named in the SATExpo 2026 organizer exhibitor directory; booth and personal contacts not independently verified here.",
+  "evidence_grade": "PRODUCT_PRIMARY_SOURCE",
+  "claims_from_primary": true,
+  "capability_claims": [
+    "LNB low-noise blocks",
+    "LNA and BDC frequency conversion",
+    "RF bandpass filters",
+    "Satellite ground RF modules"
+  ],
+  "capability_classifications": [
+    "RF_HARDWARE"
+  ],
+  "related_documented_organizations": [],
+  "public_sources": [
+    "https://exhibitors.satexpome.com/satexpo-2026/Exhibitor",
+    "https://www.atrone.com/"
+  ],
+  "private_contacts_included": false,
+  "affiliation_with_cosmosynth": "none established",
+  "exhibition_product_display_verified": false
+}

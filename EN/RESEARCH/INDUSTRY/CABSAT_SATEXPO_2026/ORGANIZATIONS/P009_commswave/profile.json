@@ -1,0 +1,27 @@
+{
+  "schema": "COSMOSYNTH_OPEN_INDUSTRY_PROFILE_V1",
+  "record": "P009",
+  "organization": "CommsWave",
+  "checked_at": "2026-10-08",
+  "sector": "Rugged terminals",
+  "event_scope": "SATEXPO_LINKED_OR_MENTIONED",
+  "event_participation_interpretation": "Named in the SATExpo 2026 organizer exhibitor directory; booth and personal contacts not independently verified here.",
+  "evidence_grade": "EVENT_PROFILE_ONLY",
+  "claims_from_primary": false,
+  "capability_claims": [
+    "Portable satcom terminal category (event/source classification)",
+    "Mission-critical communications positioning (preliminary)"
+  ],
+  "capability_classifications": [
+    "TERMINAL_ANTENNA",
+    "NETWORK_INTEGRATION"
+  ],
+  "related_documented_organizations": [],
+  "public_sources": [
+    "https://exhibitors.satexpome.com/satexpo-2026/Exhibitor",
+    "https://exhibitors.satexpome.com/satexpo-2026/Exhibitor"
+  ],
+  "private_contacts_included": false,
+  "affiliation_with_cosmosynth": "none established",
+  "exhibition_product_display_verified": false
+}

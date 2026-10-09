@@ -1,0 +1,38 @@
+{
+  "schema": "COSMOSYNTH_OPEN_INDUSTRY_PROFILE_V1",
+  "record": "P045",
+  "organization": "Es'hailSat",
+  "checked_at": "2026-10-08",
+  "sector": "Satellite operator / Qatar",
+  "event_scope": "SATEXPO_LINKED_OR_MENTIONED",
+  "event_participation_interpretation": "Es'hailSat's October 2026 CABSAT participation is confirmed by the company and Qatar News Agency; booth/hall references require further reconciliation.",
+  "evidence_grade": "PRODUCT_PRIMARY_SOURCE",
+  "claims_from_primary": true,
+  "capability_claims": [
+    "Es’hail-1 and Es’hail-2 GEO fleet",
+    "Doha certified teleport and playout services",
+    "Ku/Ka satellite communications",
+    "Es’hail-3 programme publicly announced in 2026"
+  ],
+  "capability_classifications": [
+    "SATELLITE_OPERATOR"
+  ],
+  "related_documented_organizations": [
+    {
+      "record": "P014",
+      "kind": "ANNOUNCED_SERVICE_ON_SATELLITE",
+      "status": "SOURCE_CLAIM",
+      "source": "https://www.gulfsat.com/news.html",
+      "date": "2025-05-14"
+    }
+  ],
+  "public_sources": [
+    "https://www.rscc.ru/news/1463/",
+    "https://www.eshailsat.qa/satellites/",
+    "https://www.eshailsat.qa/media-center/",
+    "https://qna.org.qa/en/news/news-details?date=5%2F10%2F2026&id=eshailsat-showcases-sovereign-capabilities-at-cabsat-2026"
+  ],
+  "private_contacts_included": false,
+  "affiliation_with_cosmosynth": "none established",
+  "exhibition_product_display_verified": false
+}

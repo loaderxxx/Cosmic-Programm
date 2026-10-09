@@ -1,0 +1,29 @@
+{
+  "schema": "COSMOSYNTH_OPEN_INDUSTRY_PROFILE_V1",
+  "record": "P015",
+  "organization": "IEC Telecom LLC",
+  "checked_at": "2026-10-08",
+  "sector": "SATCOM integrator",
+  "event_scope": "SATEXPO_LINKED_OR_MENTIONED",
+  "event_participation_interpretation": "Brand/logo shown on SATExpo 2026 organizer site; corporate identity/booth details may need verification.",
+  "evidence_grade": "PRODUCT_PRIMARY_SOURCE",
+  "claims_from_primary": true,
+  "capability_claims": [
+    "Hybrid satellite/GSM connectivity",
+    "Remote mobile team communications",
+    "Field deployment and managed connectivity",
+    "Voyager Edge V solution"
+  ],
+  "capability_classifications": [
+    "TERMINAL_ANTENNA",
+    "NETWORK_INTEGRATION"
+  ],
+  "related_documented_organizations": [],
+  "public_sources": [
+    "https://www.satexpome.com/",
+    "https://iec-telecom.com/en/solution/voyager-edge-v/"
+  ],
+  "private_contacts_included": false,
+  "affiliation_with_cosmosynth": "none established",
+  "exhibition_product_display_verified": false
+}

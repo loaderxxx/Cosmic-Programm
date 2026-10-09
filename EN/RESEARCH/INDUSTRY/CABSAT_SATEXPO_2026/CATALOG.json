@@ -1,0 +1,504 @@
+{
+  "schema": "COSMOSYNTH_PUBLIC_INDUSTRY_ATLAS_V1",
+  "date": "2026-10-08",
+  "event": "CABSAT / SATExpo Dubai 2026",
+  "partial": true,
+  "distinct_profiles": 55,
+  "records": [
+    {
+      "id": "P001",
+      "name": "Antaris, Inc.",
+      "sector": "Mission software",
+      "path": "ORGANIZATIONS/P001_antaris-inc/README.md",
+      "source_grade": "PRODUCT_PRIMARY_SOURCE",
+      "identity_unverified": false,
+      "original_scope": "company"
+    },
+    {
+      "id": "P002",
+      "name": "APT Satellite (APSTAR)",
+      "sector": "GEO operator",
+      "path": "ORGANIZATIONS/P002_apt-satellite-apstar/README.md",
+      "source_grade": "PRODUCT_PRIMARY_SOURCE",
+      "identity_unverified": false,
+      "original_scope": "company"
+    },
+    {
+      "id": "P003",
+      "name": "AsiaSat",
+      "sector": "Operator / teleport",
+      "path": "ORGANIZATIONS/P003_asiasat/README.md",
+      "source_grade": "PRODUCT_PRIMARY_SOURCE",
+      "identity_unverified": false,
+      "original_scope": "company"
+    },
+    {
+      "id": "P004",
+      "name": "Atron Co.,Ltd",
+      "sector": "RF / VSAT components",
+      "path": "ORGANIZATIONS/P004_atron-co-ltd/README.md",
+      "source_grade": "PRODUCT_PRIMARY_SOURCE",
+      "identity_unverified": false,
+      "original_scope": "company"
+    },
+    {
+      "id": "P005",
+      "name": "AvL Technologies",
+      "sector": "Ground terminals / antennas",
+      "path": "ORGANIZATIONS/P005_avl-technologies/README.md",
+      "source_grade": "PRODUCT_PRIMARY_SOURCE",
+      "identity_unverified": false,
+      "original_scope": "company"
+    },
+    {
+      "id": "P006",
+      "name": "Calian",
+      "sector": "Space engineering / ground stations",
+      "path": "ORGANIZATIONS/P006_calian/README.md",
+      "source_grade": "PRODUCT_PRIMARY_SOURCE",
+      "identity_unverified": false,
+      "original_scope": "company"
+    },
+    {
+      "id": "P007",
+      "name": "Celestia TTI",
+      "sector": "RF / ground stations",
+      "path": "ORGANIZATIONS/P007_celestia-tti/README.md",
+      "source_grade": "PRODUCT_PRIMARY_SOURCE",
+      "identity_unverified": false,
+      "original_scope": "company"
+    },
+    {
+      "id": "P008",
+      "name": "China Satellite Communications (China Satcom)",
+      "sector": "Satellite operator",
+      "path": "ORGANIZATIONS/P008_china-satellite-communications-china-satcom/README.md",
+      "source_grade": "EVENT_PROFILE_ONLY",
+      "identity_unverified": false,
+      "original_scope": "company"
+    },
+    {
+      "id": "P009",
+      "name": "CommsWave",
+      "sector": "Rugged terminals",
+      "path": "ORGANIZATIONS/P009_commswave/README.md",
+      "source_grade": "EVENT_PROFILE_ONLY",
+      "identity_unverified": false,
+      "original_scope": "company"
+    },
+    {
+      "id": "P010",
+      "name": "Comtech Telecommunications",
+      "sector": "Ground satcom / networks",
+      "path": "ORGANIZATIONS/P010_comtech-telecommunications/README.md",
+      "source_grade": "PRODUCT_PRIMARY_SOURCE",
+      "identity_unverified": false,
+      "original_scope": "company"
+    },
+    {
+      "id": "P011",
+      "name": "DEV Systemtechnik GmbH",
+      "sector": "RF distribution",
+      "path": "ORGANIZATIONS/P011_dev-systemtechnik-gmbh/README.md",
+      "source_grade": "PRODUCT_PRIMARY_SOURCE",
+      "identity_unverified": false,
+      "original_scope": "company"
+    },
+    {
+      "id": "P012",
+      "name": "Eutelsat",
+      "sector": "GEO/LEO operator",
+      "path": "ORGANIZATIONS/P012_eutelsat/README.md",
+      "source_grade": "PRODUCT_PRIMARY_SOURCE",
+      "identity_unverified": false,
+      "original_scope": "company"
+    },
+    {
+      "id": "P013",
+      "name": "Filtronic",
+      "sector": "Space RF / microwave",
+      "path": "ORGANIZATIONS/P013_filtronic/README.md",
+      "source_grade": "PRODUCT_PRIMARY_SOURCE",
+      "identity_unverified": false,
+      "original_scope": "company"
+    },
+    {
+      "id": "P014",
+      "name": "GulfSat",
+      "sector": "Regional satcom",
+      "path": "ORGANIZATIONS/P014_gulfsat/README.md",
+      "source_grade": "PRODUCT_PRIMARY_SOURCE",
+      "identity_unverified": false,
+      "original_scope": "company"
+    },
+    {
+      "id": "P015",
+      "name": "IEC Telecom LLC",
+      "sector": "SATCOM integrator",
+      "path": "ORGANIZATIONS/P015_iec-telecom-llc/README.md",
+      "source_grade": "PRODUCT_PRIMARY_SOURCE",
+      "identity_unverified": false,
+      "original_scope": "company"
+    },
+    {
+      "id": "P016",
+      "name": "INTEGRASYS",
+      "sector": "Satellite network software",
+      "path": "ORGANIZATIONS/P016_integrasys/README.md",
+      "source_grade": "PRODUCT_PRIMARY_SOURCE",
+      "identity_unverified": false,
+      "original_scope": "company"
+    },
+    {
+      "id": "P017",
+      "name": "Peak Communications",
+      "sector": "RF amplifiers / converters",
+      "path": "ORGANIZATIONS/P017_peak-communications/README.md",
+      "source_grade": "PRODUCT_PRIMARY_SOURCE",
+      "identity_unverified": false,
+      "original_scope": "company"
+    },
+    {
+      "id": "P018",
+      "name": "Russian Satellite Communications Company (RSCC)",
+      "sector": "Satellite operator",
+      "path": "ORGANIZATIONS/P018_russian-satellite-communications-company-rscc/README.md",
+      "source_grade": "PRODUCT_PRIMARY_SOURCE",
+      "identity_unverified": false,
+      "original_scope": "company"
+    },
+    {
+      "id": "P019",
+      "name": "SatService GmbH",
+      "sector": "Ground station integrator",
+      "path": "ORGANIZATIONS/P019_satservice-gmbh/README.md",
+      "source_grade": "PRODUCT_PRIMARY_SOURCE",
+      "identity_unverified": false,
+      "original_scope": "company"
+    },
+    {
+      "id": "P020",
+      "name": "SES",
+      "sector": "Satellite operator",
+      "path": "ORGANIZATIONS/P020_ses/README.md",
+      "source_grade": "PRODUCT_PRIMARY_SOURCE",
+      "identity_unverified": false,
+      "original_scope": "company"
+    },
+    {
+      "id": "P021",
+      "name": "Space Norway",
+      "sector": "Space connectivity",
+      "path": "ORGANIZATIONS/P021_space-norway/README.md",
+      "source_grade": "PRODUCT_PRIMARY_SOURCE",
+      "identity_unverified": false,
+      "original_scope": "company"
+    },
+    {
+      "id": "P022",
+      "name": "ST Engineering iDirect",
+      "sector": "VSAT ground networks",
+      "path": "ORGANIZATIONS/P022_st-engineering-idirect/README.md",
+      "source_grade": "PRODUCT_PRIMARY_SOURCE",
+      "identity_unverified": false,
+      "original_scope": "company"
+    },
+    {
+      "id": "P023",
+      "name": "Telesat",
+      "sector": "Satellite operator / LEO",
+      "path": "ORGANIZATIONS/P023_telesat/README.md",
+      "source_grade": "PRODUCT_PRIMARY_SOURCE",
+      "identity_unverified": false,
+      "original_scope": "company"
+    },
+    {
+      "id": "P024",
+      "name": "Dening (logo label)",
+      "sector": "Unresolved company identity",
+      "path": "ORGANIZATIONS/P024_dening-logo-label/README.md",
+      "source_grade": "IDENTITY_UNKNOWN",
+      "identity_unverified": true,
+      "original_scope": "SCREENING"
+    },
+    {
+      "id": "P025",
+      "name": "ETI (logo label)",
+      "sector": "Unresolved company identity",
+      "path": "ORGANIZATIONS/P025_eti-logo-label/README.md",
+      "source_grade": "IDENTITY_UNKNOWN",
+      "identity_unverified": true,
+      "original_scope": "SCREENING"
+    },
+    {
+      "id": "P026",
+      "name": "Gecen (logo label)",
+      "sector": "RF components (unconfirmed)",
+      "path": "ORGANIZATIONS/P026_gecen-logo-label/README.md",
+      "source_grade": "IDENTITY_UNKNOWN",
+      "identity_unverified": true,
+      "original_scope": "SCREENING"
+    },
+    {
+      "id": "P027",
+      "name": "Lilliput (logo label)",
+      "sector": "AV display adjacent",
+      "path": "ORGANIZATIONS/P027_lilliput-logo-label/README.md",
+      "source_grade": "IDENTITY_UNKNOWN",
+      "identity_unverified": true,
+      "original_scope": "SCREENING"
+    },
+    {
+      "id": "P028",
+      "name": "ETL Systems",
+      "sector": "RF switching / monitoring",
+      "path": "ORGANIZATIONS/P028_etl-systems/README.md",
+      "source_grade": "PRODUCT_PRIMARY_SOURCE",
+      "identity_unverified": false,
+      "original_scope": "company"
+    },
+    {
+      "id": "P029",
+      "name": "SATEC",
+      "sector": "Phased-array terminals",
+      "path": "ORGANIZATIONS/P029_satec/README.md",
+      "source_grade": "PRODUCT_PRIMARY_SOURCE",
+      "identity_unverified": false,
+      "original_scope": "company"
+    },
+    {
+      "id": "P030",
+      "name": "ND SatCom",
+      "sector": "Ground networks / VSAT",
+      "path": "ORGANIZATIONS/P030_nd-satcom/README.md",
+      "source_grade": "PRODUCT_PRIMARY_SOURCE",
+      "identity_unverified": false,
+      "original_scope": "company"
+    },
+    {
+      "id": "P031",
+      "name": "StarWin",
+      "sector": "Satellite antennas",
+      "path": "ORGANIZATIONS/P031_starwin/README.md",
+      "source_grade": "PRODUCT_PRIMARY_SOURCE",
+      "identity_unverified": false,
+      "original_scope": "company"
+    },
+    {
+      "id": "P032",
+      "name": "KAIDA",
+      "sector": "Unverified technical profile",
+      "path": "ORGANIZATIONS/P032_kaida/README.md",
+      "source_grade": "IDENTITY_UNKNOWN",
+      "identity_unverified": true,
+      "original_scope": "SCREENING"
+    },
+    {
+      "id": "P033",
+      "name": "Geoscan",
+      "sector": "EO / UAV / smallsat screening",
+      "path": "ORGANIZATIONS/P033_geoscan/README.md",
+      "source_grade": "PRODUCT_PRIMARY_SOURCE",
+      "identity_unverified": false,
+      "original_scope": "company"
+    },
+    {
+      "id": "P034",
+      "name": "Guangdong Mikwave Communication Tech Ltd",
+      "sector": "RF / microwave",
+      "path": "ORGANIZATIONS/P034_guangdong-mikwave-communication-tech-ltd/README.md",
+      "source_grade": "PRODUCT_PRIMARY_SOURCE",
+      "identity_unverified": false,
+      "original_scope": "company"
+    },
+    {
+      "id": "P035",
+      "name": "SpaceBridge Inc.",
+      "sector": "VSAT network equipment",
+      "path": "ORGANIZATIONS/P035_spacebridge-inc/README.md",
+      "source_grade": "PRODUCT_PRIMARY_SOURCE",
+      "identity_unverified": false,
+      "original_scope": "company"
+    },
+    {
+      "id": "P036",
+      "name": "JTS (roster label)",
+      "sector": "Unresolved identity",
+      "path": "ORGANIZATIONS/P036_jts-roster-label/README.md",
+      "source_grade": "IDENTITY_UNKNOWN",
+      "identity_unverified": true,
+      "original_scope": "SCREENING"
+    },
+    {
+      "id": "P037",
+      "name": "World Teleport Association",
+      "sector": "Industry association",
+      "path": "ORGANIZATIONS/P037_world-teleport-association/README.md",
+      "source_grade": "PRODUCT_PRIMARY_SOURCE",
+      "identity_unverified": false,
+      "original_scope": "ASSOCIATION"
+    },
+    {
+      "id": "P038",
+      "name": "Coxsat Technology Co., Ltd",
+      "sector": "Satcom hardware (screening)",
+      "path": "ORGANIZATIONS/P038_coxsat-technology-co-ltd/README.md",
+      "source_grade": "PRODUCT_PRIMARY_SOURCE",
+      "identity_unverified": false,
+      "original_scope": "company"
+    },
+    {
+      "id": "P039",
+      "name": "Dexin Digital Technology Corp. Ltd",
+      "sector": "Digital broadcast / adjacent",
+      "path": "ORGANIZATIONS/P039_dexin-digital-technology-corp-ltd/README.md",
+      "source_grade": "PRELIMINARY_SOURCE",
+      "identity_unverified": false,
+      "original_scope": "company"
+    },
+    {
+      "id": "P040",
+      "name": "RF-Design",
+      "sector": "RF distribution",
+      "path": "ORGANIZATIONS/P040_rf-design/README.md",
+      "source_grade": "EVENT_PROFILE_ONLY",
+      "identity_unverified": false,
+      "original_scope": "company"
+    },
+    {
+      "id": "P041",
+      "name": "AI Dial Tone Trading LLC",
+      "sector": "Unverified company role",
+      "path": "ORGANIZATIONS/P041_ai-dial-tone-trading-llc/README.md",
+      "source_grade": "IDENTITY_UNKNOWN",
+      "identity_unverified": true,
+      "original_scope": "SCREENING"
+    },
+    {
+      "id": "P042",
+      "name": "Mena Nets FZE",
+      "sector": "Connectivity (unverified)",
+      "path": "ORGANIZATIONS/P042_mena-nets-fze/README.md",
+      "source_grade": "IDENTITY_UNKNOWN",
+      "identity_unverified": true,
+      "original_scope": "SCREENING"
+    },
+    {
+      "id": "P043",
+      "name": "Hughes",
+      "sector": "Satellite broadband / VSAT",
+      "path": "ORGANIZATIONS/P043_hughes/README.md",
+      "source_grade": "PRODUCT_PRIMARY_SOURCE",
+      "identity_unverified": false,
+      "original_scope": "company"
+    },
+    {
+      "id": "P044",
+      "name": "Space Communication Technologies (OmanSat)",
+      "sector": "National satcom / Oman",
+      "path": "ORGANIZATIONS/P044_space-communication-technologies-omansat/README.md",
+      "source_grade": "PRODUCT_PRIMARY_SOURCE",
+      "identity_unverified": false,
+      "original_scope": "company"
+    },
+    {
+      "id": "P045",
+      "name": "Es'hailSat",
+      "sector": "Satellite operator / Qatar",
+      "path": "ORGANIZATIONS/P045_es-hailsat/README.md",
+      "source_grade": "PRODUCT_PRIMARY_SOURCE",
+      "identity_unverified": false,
+      "original_scope": "company"
+    },
+    {
+      "id": "P046",
+      "name": "Intersputnik",
+      "sector": "Satcom organization",
+      "path": "ORGANIZATIONS/P046_intersputnik/README.md",
+      "source_grade": "ORGANIZATION_INFO",
+      "identity_unverified": false,
+      "original_scope": "ASSOCIATION"
+    },
+    {
+      "id": "P047",
+      "name": "Nilesat",
+      "sector": "Satellite operator / Egypt",
+      "path": "ORGANIZATIONS/P047_nilesat/README.md",
+      "source_grade": "PRODUCT_PRIMARY_SOURCE",
+      "identity_unverified": false,
+      "original_scope": "UNCONFIRMED"
+    },
+    {
+      "id": "P048",
+      "name": "Türksat",
+      "sector": "Satellite operator / Türkiye",
+      "path": "ORGANIZATIONS/P048_tu-rksat/README.md",
+      "source_grade": "PRODUCT_PRIMARY_SOURCE",
+      "identity_unverified": false,
+      "original_scope": "UNCONFIRMED"
+    },
+    {
+      "id": "P049",
+      "name": "Neo Space Group",
+      "sector": "Space services / Saudi Arabia",
+      "path": "ORGANIZATIONS/P049_neo-space-group/README.md",
+      "source_grade": "PRODUCT_PRIMARY_SOURCE",
+      "identity_unverified": false,
+      "original_scope": "UNCONFIRMED"
+    },
+    {
+      "id": "P050",
+      "name": "Azercosmos",
+      "sector": "EO / operator / Azerbaijan",
+      "path": "ORGANIZATIONS/P050_azercosmos/README.md",
+      "source_grade": "PRODUCT_PRIMARY_SOURCE",
+      "identity_unverified": false,
+      "original_scope": "UNCONFIRMED"
+    },
+    {
+      "id": "P051",
+      "name": "Kratos",
+      "sector": "Ground systems / cyber",
+      "path": "ORGANIZATIONS/P051_kratos/README.md",
+      "source_grade": "PRODUCT_PRIMARY_SOURCE",
+      "identity_unverified": false,
+      "original_scope": "UNCONFIRMED"
+    },
+    {
+      "id": "C001",
+      "name": "Amazon Web Services (AWS)",
+      "sector": "Cloud and Ground Station as a Service",
+      "path": "ORGANIZATIONS/C001_amazon-web-services-aws/README.md",
+      "source_grade": "PRODUCT_PRIMARY_SOURCE",
+      "identity_unverified": false,
+      "original_scope": "CABSAT_CROSSOVER"
+    },
+    {
+      "id": "C002",
+      "name": "Vislink",
+      "sector": "Satellite uplink and portable SATCOM",
+      "path": "ORGANIZATIONS/C002_vislink/README.md",
+      "source_grade": "PRODUCT_PRIMARY_SOURCE",
+      "identity_unverified": false,
+      "original_scope": "CABSAT_CROSSOVER"
+    },
+    {
+      "id": "C003",
+      "name": "PROMAX",
+      "sector": "Satellite signal measurement / VSAT",
+      "path": "ORGANIZATIONS/C003_promax/README.md",
+      "source_grade": "PRELIMINARY_SOURCE",
+      "identity_unverified": false,
+      "original_scope": "CABSAT_CROSSOVER"
+    },
+    {
+      "id": "C004",
+      "name": "ALDENA",
+      "sector": "Broadcast RF components, adjacent-only",
+      "path": "ORGANIZATIONS/C004_aldena/README.md",
+      "source_grade": "EVENT_PROFILE_ONLY",
+      "identity_unverified": false,
+      "original_scope": "CABSAT_CROSSOVER"
+    }
+  ]
+}

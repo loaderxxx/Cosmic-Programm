@@ -7,7 +7,7 @@
 
 **Understand the ecosystem. Connect capabilities. Define the next test.**
 
-[Start here](START_HERE.md) · [Explore the Atlas](ATLAS/README.md) · [Discuss a research question](COLLABORATE.md)
+[Start here](START_HERE.md) · **[Industry Atlas — 55 company research dossiers](EN/RESEARCH/INDUSTRY/CABSAT_SATEXPO_2026/README.md)** · [Explore the Atlas](ATLAS/README.md) · [Discuss a research question](COLLABORATE.md)
 
 </div>
 
@@ -25,7 +25,7 @@ Our current output is an inspectable research foundation: organization dossiers,
 
 | Start with a question | Open the relevant part of the Atlas |
 |---|---|
-| **Who does what in the space industry?** | [Organizations](ATLAS/ORGANIZATIONS/README.md) — 55 organization/brand records, their roles, evidence grades and individual dossiers. |
+| **Who does what in the space industry?** | [Organizations](ATLAS/ORGANIZATIONS/README.md) — 55 source-graded records, now available as [individual dossiers on main](EN/RESEARCH/INDUSTRY/CABSAT_SATEXPO_2026/README.md), with capabilities, relationships and sources. |
 | **Which capabilities does a system need?** | [Capabilities](ATLAS/CAPABILITIES/README.md) — mission software, ground systems, satellite connectivity, RF, data and engineering. |
 | **Who is connected, complementary or competing?** | [Relationships](ATLAS/RELATIONSHIPS/README.md) — dated industry evidence separated from vendor claims and our hypotheses. |
 | **How could capabilities form a useful system?** | [System options](ATLAS/SYSTEM_OPTIONS/README.md) — eight illustrative configurations, alternatives and interface questions. |

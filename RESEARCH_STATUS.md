@@ -8,7 +8,7 @@
 |---|---|---|
 | Public entry and Atlas navigation | Equivalent EN/RU/AR reader pages, agency/company/researcher routes and collaboration brief. | Editorial content; not independent validation of all underlying claims. |
 | Industry directory | 55 source-catalogue records with original IDs; individual working dossiers contain profile, capabilities, relationships, sources and JSON. | Partial sample; 40 primary-source-linked, seven other-source records and eight unresolved identities. Not 55 verified suppliers. |
-| Detailed industry research | Existing public working source at pinned commit `75066d88…`; linked without overwriting its branch. | English originals. Full RU/AR dossier translation and wider source review remain open. |
+| Detailed industry research | The 55 source-graded English dossier folders (275 files) and six supporting source/method files are integrated into public `main` on 9 October 2026; original working source at commit `75066d88…` is preserved for provenance. | English originals. Full RU/AR dossier translation and wider source review remain open. |
 | System combinations | Eight existing illustrations, explained in all three new reader editions. | Hypotheses and dated source reports, not tested joint products. |
 | Programme studies | UAE/SpaceX language materials and a broader historical research/technical corpus. | Some original-language documents remain untranslated; not live mission-status reporting. |
 | COSMOSYNTH missions | Mission A/B/C concepts, requirements and test frameworks. | No flight heritage, completed pilot, mission budget or technical readiness increase is established here. |
