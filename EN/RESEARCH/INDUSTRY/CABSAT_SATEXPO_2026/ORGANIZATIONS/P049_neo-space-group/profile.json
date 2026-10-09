@@ -1,0 +1,39 @@
+{
+  "schema": "COSMOSYNTH_OPEN_INDUSTRY_PROFILE_V1",
+  "record": "P049",
+  "organization": "Neo Space Group",
+  "checked_at": "2026-10-08",
+  "sector": "Space services / Saudi Arabia",
+  "event_scope": "SATEXPO_LINKED_OR_MENTIONED",
+  "event_participation_interpretation": "2026 exhibition presence is NOT independently confirmed; included for sector/market research only.",
+  "evidence_grade": "PRODUCT_PRIMARY_SOURCE",
+  "claims_from_primary": true,
+  "capability_claims": [
+    "Geospatial data and analytics",
+    "UP42 EO data marketplace",
+    "NSG Skywaves multi-orbit IFC",
+    "Documented 2024 SES connectivity partnership"
+  ],
+  "capability_classifications": [
+    "EARTH_OBSERVATION",
+    "NETWORK_INTEGRATION"
+  ],
+  "related_documented_organizations": [
+    {
+      "record": "P020",
+      "kind": "COMMERCIAL_PARTNERSHIP",
+      "status": "SOURCE_CLAIM",
+      "source": "https://neospacegroup.com/english/news/neo-space-group-partners-with-ses",
+      "date": "2024-05-29"
+    }
+  ],
+  "public_sources": [
+    "https://www.security.co.za/events/1156",
+    "https://neospacegroup.com/english/services/geospatial-services",
+    "https://neospacegroup.com/english/news/neo-space-group-partners-with-ses",
+    "https://neospacegroup.com/english/businesses/satellite-communications"
+  ],
+  "private_contacts_included": false,
+  "affiliation_with_cosmosynth": "none established",
+  "exhibition_product_display_verified": false
+}

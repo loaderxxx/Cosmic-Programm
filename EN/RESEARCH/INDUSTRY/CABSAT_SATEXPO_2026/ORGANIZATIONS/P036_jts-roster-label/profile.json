@@ -1,0 +1,20 @@
+{
+  "schema": "COSMOSYNTH_OPEN_INDUSTRY_PROFILE_V1",
+  "record": "P036",
+  "organization": "JTS (roster label)",
+  "checked_at": "2026-10-08",
+  "sector": "Unresolved identity",
+  "event_scope": "SATEXPO_LINKED_OR_MENTIONED",
+  "event_participation_interpretation": "Listed by a secondary 2026 event index or industry event report; organizer-level booth evidence not yet obtained.",
+  "evidence_grade": "IDENTITY_UNKNOWN",
+  "claims_from_primary": false,
+  "capability_claims": [],
+  "capability_classifications": [],
+  "related_documented_organizations": [],
+  "public_sources": [
+    "https://www.prgmtc.tech/event-scout/events/satexpo-middle-east-2026"
+  ],
+  "private_contacts_included": false,
+  "affiliation_with_cosmosynth": "none established",
+  "exhibition_product_display_verified": false
+}

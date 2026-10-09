@@ -1,0 +1,31 @@
+{
+  "schema": "COSMOSYNTH_OPEN_INDUSTRY_PROFILE_V1",
+  "record": "P001",
+  "organization": "Antaris, Inc.",
+  "checked_at": "2026-10-08",
+  "sector": "Mission software",
+  "event_scope": "SATEXPO_LINKED_OR_MENTIONED",
+  "event_participation_interpretation": "Named in the SATExpo 2026 organizer exhibitor directory; booth and personal contacts not independently verified here.",
+  "evidence_grade": "PRODUCT_PRIMARY_SOURCE",
+  "claims_from_primary": true,
+  "capability_claims": [
+    "TrueTwin mission digital twin",
+    "Flight-software-in-the-loop simulation",
+    "SatOS and Command Center mission operations",
+    "Scenario testing before flight"
+  ],
+  "capability_classifications": [
+    "MISSION_SIM",
+    "MISSION_C2",
+    "SYSTEMS_ENGINEERING"
+  ],
+  "related_documented_organizations": [],
+  "public_sources": [
+    "https://exhibitors.satexpome.com/satexpo-2026/Exhibitor",
+    "https://docs.antaris.space/truetwin-technology",
+    "https://www.antaris.space/command-center"
+  ],
+  "private_contacts_included": false,
+  "affiliation_with_cosmosynth": "none established",
+  "exhibition_product_display_verified": false
+}

@@ -1,0 +1,34 @@
+{
+  "schema": "COSMOSYNTH_OPEN_INDUSTRY_PROFILE_V1",
+  "record": "P008",
+  "organization": "China Satellite Communications (China Satcom)",
+  "checked_at": "2026-10-08",
+  "sector": "Satellite operator",
+  "event_scope": "SATEXPO_LINKED_OR_MENTIONED",
+  "event_participation_interpretation": "Named in the SATExpo 2026 organizer exhibitor directory; booth and personal contacts not independently verified here.",
+  "evidence_grade": "EVENT_PROFILE_ONLY",
+  "claims_from_primary": false,
+  "capability_claims": [
+    "Satellite communication services (event profile)",
+    "GEO satellite operation (event profile)"
+  ],
+  "capability_classifications": [
+    "SATELLITE_OPERATOR"
+  ],
+  "related_documented_organizations": [
+    {
+      "record": "P029",
+      "kind": "VENDOR_CUSTOMER_LIST",
+      "status": "SOURCE_CLAIM",
+      "source": "https://www.linksatec.com/node/112",
+      "date": "SOURCE_UNDATED"
+    }
+  ],
+  "public_sources": [
+    "https://exhibitors.satexpome.com/satexpo-2026/Exhibitor",
+    "https://exhibitors.satexpome.com/satexpo-2026/Exhibitor/ExbDetails/china-satellite-communications-co-ltd"
+  ],
+  "private_contacts_included": false,
+  "affiliation_with_cosmosynth": "none established",
+  "exhibition_product_display_verified": false
+}

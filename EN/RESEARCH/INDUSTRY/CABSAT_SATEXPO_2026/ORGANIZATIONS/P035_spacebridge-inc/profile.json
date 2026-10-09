@@ -1,0 +1,37 @@
+{
+  "schema": "COSMOSYNTH_OPEN_INDUSTRY_PROFILE_V1",
+  "record": "P035",
+  "organization": "SpaceBridge Inc.",
+  "checked_at": "2026-10-08",
+  "sector": "VSAT network equipment",
+  "event_scope": "SATEXPO_LINKED_OR_MENTIONED",
+  "event_participation_interpretation": "Listed by a secondary 2026 event index or industry event report; organizer-level booth evidence not yet obtained.",
+  "evidence_grade": "PRODUCT_PRIMARY_SOURCE",
+  "claims_from_primary": true,
+  "capability_claims": [
+    "ASAT II multi-service VSAT gateway",
+    "DVB-S2/S2X forward and DVB-RCS2 return",
+    "WaveSwitch adaptive waveform switching",
+    "Centralized NMS and terminal coordination"
+  ],
+  "capability_classifications": [
+    "VSAT_BASEBAND"
+  ],
+  "related_documented_organizations": [
+    {
+      "record": "P029",
+      "kind": "VENDOR_CUSTOMER_LIST",
+      "status": "SOURCE_CLAIM",
+      "source": "https://www.linksatec.com/node/112",
+      "date": "SOURCE_UNDATED"
+    }
+  ],
+  "public_sources": [
+    "https://www.prgmtc.tech/event-scout/events/satexpo-middle-east-2026",
+    "https://spacebridge.com/product/asat-ii-system/",
+    "https://spacebridge.com/waveswitch/"
+  ],
+  "private_contacts_included": false,
+  "affiliation_with_cosmosynth": "none established",
+  "exhibition_product_display_verified": false
+}
