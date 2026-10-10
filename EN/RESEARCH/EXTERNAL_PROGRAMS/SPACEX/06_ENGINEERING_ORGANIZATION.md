@@ -3,56 +3,99 @@
 Date: **2026-09-22**  
 Version: **v0.1**
 
-## Publicly described characteristics
+> Complete translation of `RU/RESEARCH/EXTERNAL_PROGRAMS/SPACEX/06_ENGINEERING_ORGANIZATION.md`; source blob `67c872f5663de1db2712feb8c73fb7a82c3c780d`; snapshot `16073db5465c9bf0827f952a229bcded44dbd983`. Translation date: 2026-10-08. The source's evidence boundaries remain in force. Independent human language review is pending.
 
-The Falcon User’s Guide describes:
+## 1. What the primary source says
+
+The Falcon User's Guide explicitly describes:
 - a flat corporate structure;
-- lean processes;
+- lean business processes;
 - fast decision-making;
+- a low-infrastructure product philosophy;
 - co-location of design, production and quality assurance;
 - a tight critical feedback loop.
 
-This is unusually useful public evidence because it describes an organizational mechanism, not merely hardware.
+This is an unusually valuable source because the company describes an organizational mechanism, not just hardware.
 
-## Working loop
+## 2. What can be extracted
 
-**ENGINEERING ↔ MANUFACTURING ↔ QUALITY ↔ TEST ↔ OPERATIONS**
+Working loop:
 
-A shorter loop can reduce the time needed to identify problems, change a design, produce the revision and test it.
+**ENGINEER**
+↔ **MANUFACTURING**
+↔ **QUALITY**
+↔ **TEST**
+↔ **OPERATIONS**
 
-## Lean does not mean “no governance”
+The shorter the delay between these functions, the faster it becomes possible to:
+- detect a problem;
+- locate its cause;
+- change the design;
+- produce a revision;
+- verify the revision.
+
+## 3. A flat organization does not mean an absence of governance
 
 A space system still requires:
 - configuration control;
 - verification;
-- quality;
 - safety;
-- records;
-- mission authorization;
-- customer requirements;
+- quality records;
+- launch approval;
+- customer integration;
 - regulatory compliance.
 
-The useful model is therefore:
+It is therefore more accurate to describe the model as:
 
-**fast engineering decisions + formal evidence**
+**a lean decision path + formal technical evidence.**
 
-## Living documentation
+This combination matters considerably more than any corporate form.
 
-SpaceX describes its Falcon User’s Guide as evolving with additional data and product improvements.
+## 4. Documentation as a living system
 
-For Cosmic Programm this suggests:
+SpaceX states that the Falcon User's Guide is continually updated as data accumulates and the design improves.
 
-**architecture documents should be living, versioned artifacts linked to evidence.**
+This means a document is not a “frozen standard”, but a versioned representation of the current system.
 
-## Evidence boundary
+For Cosmic Programm, this is especially useful:
 
-Public documentation cannot reconstruct the full internal engineering culture of SpaceX. It only exposes a documented slice.
+**Architecture documents should be living artifacts linked to evidence.**
 
-## Cosmic Programm transfer
+## 5. An important distinction
 
-**decision → evidence → test → result → change → version → next test**
+It is impossible to reconstruct SpaceX's entire internal engineering culture from one public User's Guide.
+
+It is only a documented slice.
+
+Claims about management should therefore remain limited to published evidence.
+
+## 6. What can transfer
+
+For Cosmic Programm:
+
+**DECISION**
+→ evidence
+→ test
+→ result
+→ change
+→ version
+→ next test.
+
+Also:
+
+**Design + manufacturing + verification** should share a common digital workflow when the scale of the project justifies it.
+
+## 7. Open questions
+
+- How is configuration and change control organized at SpaceX?
+- How quickly do critical design changes reach production?
+- Where are the formal approval gates?
+- How is failure review organized?
+- How are authority and accountability distributed?
 
 ## Source
 
-SpaceX Falcon User’s Guide 2025  
+SpaceX Falcon User's Guide 2025:
 https://www.spacex.com/assets/media/falcon-users-guide-2025-05-09.pdf
+
+[Russian source](../../../../RU/RESEARCH/EXTERNAL_PROGRAMS/SPACEX/06_ENGINEERING_ORGANIZATION.md) · [Arabic translation](../../../../AR/RESEARCH/EXTERNAL_PROGRAMS/SPACEX/06_ENGINEERING_ORGANIZATION.md)

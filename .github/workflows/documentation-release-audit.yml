@@ -1,0 +1,28 @@
+name: Documentation release audit
+on:
+  pull_request:
+    branches: [main, lang/ru, lang/ar]
+    paths:
+      - 'EN/PROGRAM/**'
+      - 'RU/PROGRAM/**'
+      - 'AR/PROGRAM/**'
+      - '**/RESEARCH/DATA/**'
+      - '**/RESEARCH/RELATIONSHIPS/**'
+      - '**/RESEARCH/EXTERNAL_PROGRAMS/SPACEX/**'
+      - 'QUALITY/CS-TRI-20261010/**'
+      - 'tools/audit_trilingual_release.py'
+      - '.github/workflows/documentation-release-audit.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  documentation-audit:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - name: Read-only structural and provenance checks
+        run: python3 tools/audit_trilingual_release.py --output release-audit.json

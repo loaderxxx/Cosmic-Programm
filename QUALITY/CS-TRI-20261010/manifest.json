@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0",
+  "research_id": "CS-TRI-20261010",
+  "locale": "EN",
+  "target_branch": "main",
+  "recovered_commit": "0f2b9d52852c7c92b598a46b27275e55c9631d31",
+  "original_baseline_commit": "16073db5465c9bf0827f952a229bcded44dbd983",
+  "canonical_english_revision": "SELF: read the exact merged commit containing this manifest",
+  "status": "TRANSLATION_REVIEW",
+  "independent_language_review": "NOT_PERFORMED",
+  "evidence_date_policy": "Historical dates and source-review limitations remain those of each document; publication is not fresh factual verification.",
+  "graph_directory": "RESEARCH/RELATIONSHIPS/UAE_SPACE_ECOSYSTEM",
+  "packs": [
+    {"id":"program", "source_root":"PROGRAM", "target_root":"EN/PROGRAM", "expected_count":35},
+    {"id":"technical_data", "source_root":"RESEARCH/DATA", "target_root":"EN/RESEARCH/DATA", "expected_count":31},
+    {"id":"spacex_core", "source_root":"RU/RESEARCH/EXTERNAL_PROGRAMS/SPACEX", "target_root":"EN/RESEARCH/EXTERNAL_PROGRAMS/SPACEX", "filename_pattern":"0[1-9]_.*\\.md", "expected_count":9},
+    {"id":"uae_cooperation", "source_root":"EN/RESEARCH/RELATIONSHIPS/UAE_SPACE_ECOSYSTEM", "target_root":"EN/RESEARCH/RELATIONSHIPS/UAE_SPACE_ECOSYSTEM", "expected_count":1}
+  ],
+  "not_in_completion_claim": ["55-company dossier translation", "extended SpaceX/AI readers and audio scripts", "all historical documentation indexes", "independent scientific and legal verification", "independent Arabic language review"],
+  "publication_boundary": "Only existing public-source research is recovered. No private repository, contact history, credentials or unpublished IP is imported."
+}
