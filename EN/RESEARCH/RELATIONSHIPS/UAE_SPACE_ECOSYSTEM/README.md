@@ -2,7 +2,7 @@
 
 **COSMOSYNTH · Independent public research · 8 October 2026 · v0.1**
 
-[English](README.md) · [Русский](../../../../RU/RESEARCH/RELATIONSHIPS/UAE_SPACE_ECOSYSTEM/README.md) · [العربية](../../../../AR/RESEARCH/RELATIONSHIPS/UAE_SPACE_ECOSYSTEM/README.md)
+[English](https://github.com/loaderxxx/Cosmic-Programm/blob/main/EN/RESEARCH/RELATIONSHIPS/UAE_SPACE_ECOSYSTEM/README.md) · [Русский](https://github.com/loaderxxx/Cosmic-Programm/blob/lang/ru/RU/RESEARCH/RELATIONSHIPS/UAE_SPACE_ECOSYSTEM/README.md) · [العربية](https://github.com/loaderxxx/Cosmic-Programm/blob/lang/ar/AR/RESEARCH/RELATIONSHIPS/UAE_SPACE_ECOSYSTEM/README.md)
 
 ## Decision supported
 
@@ -88,7 +88,7 @@ These are **proposed tests**, not funded pilots, accepted partnerships or comple
 
 ## 6. Completion boundary
 
-This release adds source-bounded relationships, complete EN/RU/AR analysis and concrete validation questions. It does **not** establish full national ecosystem coverage, private contacts, current contract prices, all corporate ownership chains, independent performance audits or complete translation of the entire historical repository. The unrelated 55-company CABSAT/SATExpo draft remains a separate, unmerged research surface; attendance and capability evidence must not be conflated.
+This release adds source-bounded relationships, complete EN/RU/AR analysis and concrete validation questions. It does **not** establish full national ecosystem coverage, private contacts, current contract prices, all corporate ownership chains, independent performance audits or complete translation of the entire historical repository. Publication update: the separate 55-company CABSAT/SATExpo English catalogue is now integrated into `main`; its detailed RU/AR translations are not included in this completion claim. Attendance and capability evidence must not be conflated. Research evidence remains dated to the original study; navigation/publication maintenance is not source revalidation.
 
 ### Sources
 
