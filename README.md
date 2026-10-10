@@ -7,7 +7,7 @@
 
 **Understand the ecosystem. Connect capabilities. Define the next test.**
 
-[Start here](START_HERE.md) · **[Industry Atlas — 55 company research dossiers](EN/RESEARCH/INDUSTRY/CABSAT_SATEXPO_2026/README.md)** · [Explore the Atlas](ATLAS/README.md) · [Discuss a research question](COLLABORATE.md)
+[Start here](START_HERE.md) · **[Engineering library & cooperation atlas](ENGINEERING_LIBRARY.md)** · **[Industry Atlas — 55 company research dossiers](EN/RESEARCH/INDUSTRY/CABSAT_SATEXPO_2026/README.md)** · [Explore the Atlas](ATLAS/README.md) · [Discuss a research question](COLLABORATE.md)
 
 </div>
 
@@ -31,6 +31,8 @@ Our current output is an inspectable research foundation: organization dossiers,
 | **How could capabilities form a useful system?** | [System options](ATLAS/SYSTEM_OPTIONS/README.md) — eight illustrative configurations, alternatives and interface questions. |
 | **What can we learn from existing space programmes?** | [External programmes](ATLAS/EXTERNAL_PROGRAMS/README.md) — UAE, SpaceX, NASA, ESA and other research tracks. |
 | **How does this connect to the UAE ecosystem?** | [UAE research entry](ATLAS/REGIONS/UAE/README.md) — separate institutional roles, industry capabilities and realistic research discussions. |
+
+**Engineering release · 10 October 2026:** [Open the trilingual engineering library and cooperation atlas](ENGINEERING_LIBRARY.md). The published package contains 76 corresponding research documents per language: 35 programme documents, 31 technical-data documents, nine core SpaceX chapters and one UAE cooperation study. Its graph separates 49 source-reported relationships from 10 cooperation hypotheses. EN/RU/AR passed automated structural checks; [source gaps and independent language-review limits remain explicit](QUALITY/CS-TRI-20261010/SOURCE_GAPS.md). This is not a claim that every historical document or company dossier is fully translated.
 
 **Live research page:** [UAE Space Pavilion · IAC 2026](https://cosmosynth.org/iac-2026). The website shows the 13 officially named actors, source-scoped relations and open questions. The [English GitHub dossier](ATLAS/REGIONS/UAE/IAC_2026_PAVILION/README.md) remains the traceable research reference.
 
