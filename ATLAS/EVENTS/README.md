@@ -6,6 +6,10 @@ The initial industry working set grew from CABSAT / SATExpo Dubai 2026 research.
 
 An event can help discover a company. It does not establish legal identity, current product capability, that a specific product was displayed, or a relationship with us. These dimensions retain separate evidence.
 
+## IAC 2026 — UAE Space Pavilion
+
+[Evidence map and pilot questions](../REGIONS/UAE/IAC_2026_PAVILION/README.md) capture **13 actors explicitly named** by the UAE Ministry of Foreign Affairs in Antalya, 5–9 October 2026, with first-party sources and scoped relationship claims. This is a distinct event sample, not part of the prior 55-record CABSAT/SATExpo count.
+
 ## Current source trail
 
 [Original catalogue and study](https://github.com/loaderxxx/Cosmic-Programm/blob/75066d88bbcc96eb63f6242df48cbcf5eac9fc67/EN/RESEARCH/INDUSTRY/CABSAT_SATEXPO_2026/README.md) · [Source methodology](https://github.com/loaderxxx/Cosmic-Programm/blob/75066d88bbcc96eb63f6242df48cbcf5eac9fc67/EN/RESEARCH/INDUSTRY/CABSAT_SATEXPO_2026/METHODOLOGY.md) · [Global organization entry](../ORGANIZATIONS/README.md).
