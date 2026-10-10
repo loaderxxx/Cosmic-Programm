@@ -17,6 +17,10 @@ The existing [UAE actor register](../../../EN/RESEARCH/EXTERNAL_PROGRAMS/UAE_SPA
 | A university or laboratory | [Source records](../../DATA/README.md) and a bounded test concept | Can a reproducible question, baseline and reviewer be agreed? |
 | A company or service provider | [Organization dossiers](../../ORGANIZATIONS/README.md) and [interface analysis](../../RELATIONSHIPS/README.md) | Which descriptions need correction, and what interface information can be discussed publicly? |
 
+## IAC 2026 — new source-linked study
+
+[UAE Space Pavilion evidence map](IAC_2026_PAVILION/README.md) covers 13 actors named by the UAE Ministry of Foreign Affairs for IAC 2026, their publicly described capabilities, contract/project/institutional statements and four testable hypotheses. The [English evidence dataset](IAC_2026_PAVILION/ECOSYSTEM_DATA.json) keeps sources and relationship boundaries traceable. This is a separate sample, not an expansion of the CABSAT 55-record count or a claim of agency affiliation.
+
 ## What we can show now
 
 An inspectable research library, an evidence-graded working industry catalogue, comparative capability analysis, eight conceptual system configurations and Mission A/B/C documents. These are evidence of research work, not evidence of flight heritage, customer validation or agency affiliation.
