@@ -1,0 +1,499 @@
+{
+  "research_id": "COSMOSYNTH-UAE-IAC2026-001",
+  "as_of": "2026-10-10",
+  "visibility": "PUBLIC — sanitised primary-source research only",
+  "canonical": "English main; associated Russian and Arabic studies on lang/ru, lang/ar",
+  "study_status": "SOURCE_REVIEW — source locations checked; independent supplier technical review not performed",
+  "event": {
+    "name": "77th International Astronautical Congress (IAC 2026)",
+    "dates": "2026-10-05/2026-10-09",
+    "location": "Antalya, Türkiye",
+    "roster_scope": "13 explicitly named in official MoFA post; post also says 'and others'; non-exhaustive",
+    "roster_source_ids": [
+      "S01",
+      "S17"
+    ]
+  },
+  "organizations": [
+    {
+      "id": "E01",
+      "name": "UAE Space Agency",
+      "type": "federal agency",
+      "source_named_roster": [
+        "S01",
+        "S17"
+      ],
+      "capability_statement": "Space Economic Zones and sector enablement",
+      "capability_evidence_label": "SOURCE CLAIM",
+      "capability_source_id": "S04",
+      "independent_technical_qualification": "NOT PERFORMED"
+    },
+    {
+      "id": "E02",
+      "name": "Mohammed Bin Rashid Space Centre (MBRSC)",
+      "type": "mission centre",
+      "source_named_roster": [
+        "S01",
+        "S17"
+      ],
+      "capability_statement": "Satellites, EO, exploration and ground services",
+      "capability_evidence_label": "SOURCE CLAIM",
+      "capability_source_id": "S06",
+      "independent_technical_qualification": "NOT PERFORMED"
+    },
+    {
+      "id": "E03",
+      "name": "Technology Innovation Institute (TII)",
+      "type": "research institute",
+      "source_named_roster": [
+        "S01",
+        "S17"
+      ],
+      "capability_statement": "Autonomous asteroid probe development",
+      "capability_evidence_label": "SOURCE CLAIM",
+      "capability_source_id": "S07",
+      "independent_technical_qualification": "NOT PERFORMED"
+    },
+    {
+      "id": "E04",
+      "name": "FADA (EDGE Group)",
+      "type": "satellite industry",
+      "source_named_roster": [
+        "S01",
+        "S17"
+      ],
+      "capability_statement": "Spacecraft/satellite platforms, payloads, AIT",
+      "capability_evidence_label": "SOURCE CLAIM",
+      "capability_source_id": "S05",
+      "independent_technical_qualification": "NOT PERFORMED"
+    },
+    {
+      "id": "E05",
+      "name": "National Space Science and Technology Center (NSSTC)",
+      "type": "university research centre",
+      "source_named_roster": [
+        "S01",
+        "S17"
+      ],
+      "capability_statement": "Satellite development, EO research, ground stations",
+      "capability_evidence_label": "SOURCE CLAIM",
+      "capability_source_id": "S08",
+      "independent_technical_qualification": "NOT PERFORMED"
+    },
+    {
+      "id": "E06",
+      "name": "Orbitworks",
+      "type": "satellite company",
+      "source_named_roster": [
+        "S01",
+        "S17"
+      ],
+      "capability_statement": "Satellite assembly/integration, AI-enabled EO constellation",
+      "capability_evidence_label": "SOURCE CLAIM",
+      "capability_source_id": "S09",
+      "independent_technical_qualification": "NOT PERFORMED"
+    },
+    {
+      "id": "E07",
+      "name": "Dubai Airshow",
+      "type": "industry event organiser",
+      "source_named_roster": [
+        "S01",
+        "S17"
+      ],
+      "capability_statement": "Space industry exhibitions, 2027 space programme",
+      "capability_evidence_label": "SOURCE CLAIM",
+      "capability_source_id": "S10",
+      "independent_technical_qualification": "NOT PERFORMED"
+    },
+    {
+      "id": "E08",
+      "name": "4 Earth Intelligence (4EI)",
+      "type": "geospatial analytics company",
+      "source_named_roster": [
+        "S01",
+        "S17"
+      ],
+      "capability_statement": "EO imagery and geospatial analytics",
+      "capability_evidence_label": "SOURCE CLAIM",
+      "capability_source_id": "S11",
+      "independent_technical_qualification": "NOT PERFORMED"
+    },
+    {
+      "id": "E09",
+      "name": "Stellaria",
+      "type": "geospatial intelligence company",
+      "source_named_roster": [
+        "S01",
+        "S17"
+      ],
+      "capability_statement": "Multi-source geospatial data intelligence (company description)",
+      "capability_evidence_label": "SOURCE CLAIM",
+      "capability_source_id": "S12",
+      "independent_technical_qualification": "NOT PERFORMED"
+    },
+    {
+      "id": "E10",
+      "name": "VASTARA",
+      "type": "manufacturing company",
+      "source_named_roster": [
+        "S01",
+        "S17"
+      ],
+      "capability_statement": "Precision additive manufacturing and design",
+      "capability_evidence_label": "SOURCE CLAIM",
+      "capability_source_id": "S13",
+      "independent_technical_qualification": "NOT PERFORMED"
+    },
+    {
+      "id": "E11",
+      "name": "HEX20",
+      "type": "small-satellite company",
+      "source_named_roster": [
+        "S01",
+        "S17"
+      ],
+      "capability_statement": "Platforms, subsystems, mission services, training",
+      "capability_evidence_label": "SOURCE CLAIM",
+      "capability_source_id": "S14",
+      "independent_technical_qualification": "NOT PERFORMED"
+    },
+    {
+      "id": "E12",
+      "name": "Falcon Robotics",
+      "type": "AI/edge computing company",
+      "source_named_roster": [
+        "S01",
+        "S17"
+      ],
+      "capability_statement": "Enterprise AI and edge computing",
+      "capability_evidence_label": "SOURCE CLAIM",
+      "capability_source_id": "S15",
+      "independent_technical_qualification": "NOT PERFORMED"
+    },
+    {
+      "id": "E13",
+      "name": "SpacePoint",
+      "type": "space education provider",
+      "source_named_roster": [
+        "S01",
+        "S17"
+      ],
+      "capability_statement": "Hands-on CubeSat and space engineering education",
+      "capability_evidence_label": "SOURCE CLAIM",
+      "capability_source_id": "S16",
+      "independent_technical_qualification": "NOT PERFORMED"
+    }
+  ],
+  "context_organizations": [
+    {
+      "id": "X01",
+      "name": "Khalifa University"
+    },
+    {
+      "id": "X02",
+      "name": "United Arab Emirates University (UAEU)"
+    },
+    {
+      "id": "X03",
+      "name": "Telecommunications Regulatory Authority (ICT Fund)"
+    }
+  ],
+  "relationships": [
+    {
+      "id": "R01",
+      "from": "E04",
+      "to": "E06",
+      "evidence_label": "SOURCE CLAIM",
+      "source_reported_relation": "contract announced for Sirb-1 AIT, 2026-05-07",
+      "source_id": "S03",
+      "scope": "Sirb-1 programme; announced by EDGE; scope-limited",
+      "cosmosynth_counterparty": false
+    },
+    {
+      "id": "R02",
+      "from": "E03",
+      "to": "E01",
+      "evidence_label": "SOURCE CLAIM",
+      "source_reported_relation": "TII-named development collaboration for EMA asteroid probe",
+      "source_id": "S07",
+      "scope": "2026 development; 2028 launch planned, not achieved",
+      "cosmosynth_counterparty": false
+    },
+    {
+      "id": "R03",
+      "from": "E03",
+      "to": "E11",
+      "evidence_label": "SOURCE CLAIM",
+      "source_reported_relation": "TII-named development collaboration for EMA asteroid probe",
+      "source_id": "S07",
+      "scope": "No independently qualified technical interface",
+      "cosmosynth_counterparty": false
+    },
+    {
+      "id": "R04",
+      "from": "E03",
+      "to": "E05",
+      "evidence_label": "SOURCE CLAIM",
+      "source_reported_relation": "TII-named development collaboration for EMA asteroid probe",
+      "source_id": "S07",
+      "scope": "No independently qualified technical interface",
+      "cosmosynth_counterparty": false
+    },
+    {
+      "id": "R05",
+      "from": "E03",
+      "to": "X01",
+      "evidence_label": "SOURCE CLAIM",
+      "source_reported_relation": "TII named Khalifa University among EMA probe collaborators",
+      "source_id": "S07",
+      "scope": "X01 not in the MoFA IAC roster subset",
+      "cosmosynth_counterparty": false
+    },
+    {
+      "id": "R06",
+      "from": "E05",
+      "to": "E01",
+      "evidence_label": "SOURCE CLAIM",
+      "source_reported_relation": "NSSTC lists UAE Space Agency among establishing institutions",
+      "source_id": "S08",
+      "scope": "Institutional history; not an IAC contract",
+      "cosmosynth_counterparty": false
+    },
+    {
+      "id": "R07",
+      "from": "E05",
+      "to": "X02",
+      "evidence_label": "SOURCE CLAIM",
+      "source_reported_relation": "NSSTC lists UAE University among establishing institutions",
+      "source_id": "S08",
+      "scope": "X02 outside 13 separately; NSSTC hosted at UAEU",
+      "cosmosynth_counterparty": false
+    },
+    {
+      "id": "R08",
+      "from": "E05",
+      "to": "X03",
+      "evidence_label": "SOURCE CLAIM",
+      "source_reported_relation": "NSSTC lists Telecommunications Regulatory Authority (ICT Fund) among establishing institutions",
+      "source_id": "S08",
+      "scope": "Institutional history; not new 2026 partnership",
+      "cosmosynth_counterparty": false
+    },
+    {
+      "id": "R09",
+      "from": "E07",
+      "to": "E01",
+      "evidence_label": "SOURCE CLAIM",
+      "source_reported_relation": "Dubai Airshow describes a 2027 space programme in partnership with UAE Space Agency",
+      "source_id": "S10",
+      "scope": "2027 Dubai Airshow; distinct from 2026 IAC",
+      "cosmosynth_counterparty": false
+    }
+  ],
+  "hypotheses": [
+    {
+      "id": "H01",
+      "title": "EO data-to-analytics mapping",
+      "evidence_label": "HYPOTHESIS",
+      "idea": "Public satellite data offerings and downstream analytics requirements (Orbitworks/MBRSC/NSSTC, 4EI/Stellaria)",
+      "unknown": "No data-sharing agreement, licence, API compatibility or agency demand is established"
+    },
+    {
+      "id": "H02",
+      "title": "Mission autonomy baseline",
+      "evidence_label": "HYPOTHESIS",
+      "idea": "Open offline reference scenario linked to TII/HEX20 autonomy questions",
+      "unknown": "No joint pilot, access to flight software or validated prototype is established"
+    },
+    {
+      "id": "H03",
+      "title": "Hands-on satellite engineering",
+      "evidence_label": "HYPOTHESIS",
+      "idea": "Public comparison of NSSTC engineering programmes and SpacePoint teaching offers",
+      "unknown": "No NSSTC–SpacePoint partnership, joint teaching or approved syllabus is established"
+    },
+    {
+      "id": "H04",
+      "title": "Manufacturing qualification screening",
+      "evidence_label": "HYPOTHESIS",
+      "idea": "Public research checklist for satellite-relevant additive manufacturing and VASTARA-described capabilities",
+      "unknown": "No flight qualification, procurement eligibility or verified component interface is established"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S01",
+      "publisher": "UAE Ministry of Foreign Affairs",
+      "scope": "Official pavilion roster",
+      "url": "https://www.mofa.gov.ae/en/Missions/Ankara/Media-hub/News/7-10-2026-ankara",
+      "first_party": true,
+      "reviewed_on": "2026-10-10"
+    },
+    {
+      "id": "S02",
+      "publisher": "International Astronautical Federation",
+      "scope": "77th IAC dates and Antalya venue",
+      "url": "https://www.iafastro.org/events/iac/international-astronautical-congress-2026/",
+      "first_party": true,
+      "reviewed_on": "2026-10-10"
+    },
+    {
+      "id": "S03",
+      "publisher": "EDGE Group",
+      "scope": "7 May 2026 FADA–Orbitworks Sirb-1 AIT contract announcement",
+      "url": "https://edgegroup.ae/news/edge-and-orbitworks-localise-satellite-integration-capabilities-through-uae-space-agencys-sirb",
+      "first_party": true,
+      "reviewed_on": "2026-10-10"
+    },
+    {
+      "id": "S04",
+      "publisher": "UAE Space Agency",
+      "scope": "Space Economic Zones programme",
+      "url": "https://space.gov.ae/en/projects-and-initiatives/space-economy/space-economic-zones",
+      "first_party": true,
+      "reviewed_on": "2026-10-10"
+    },
+    {
+      "id": "S05",
+      "publisher": "EDGE / FADA",
+      "scope": "Satellite platforms, payloads and assembly/testing",
+      "url": "https://edgegroup.ae/fada",
+      "first_party": true,
+      "reviewed_on": "2026-10-10"
+    },
+    {
+      "id": "S06",
+      "publisher": "MBRSC",
+      "scope": "Mission/satellite portfolio",
+      "url": "https://www.mbrsc.ae/missions-and-projects/",
+      "first_party": true,
+      "reviewed_on": "2026-10-10"
+    },
+    {
+      "id": "S07",
+      "publisher": "Technology Innovation Institute",
+      "scope": "1 October 2026 EMA autonomous probe and named collaborators",
+      "url": "https://www.tii.ae/news/technology-innovation-institute-completes-asteroid-landing-probe-landmark-emirates-mission",
+      "first_party": true,
+      "reviewed_on": "2026-10-10"
+    },
+    {
+      "id": "S08",
+      "publisher": "NSSTC / UAE University",
+      "scope": "Institutional foundation, EO, satellite and ground systems",
+      "url": "https://nsstc.uaeu.ac.ae/en/about/",
+      "first_party": true,
+      "reviewed_on": "2026-10-10"
+    },
+    {
+      "id": "S09",
+      "publisher": "Orbitworks",
+      "scope": "2 October 2026 Altair-1 release",
+      "url": "https://orbitworks.space/orbitworks-launches-altair-1-the-uaes-first-commercial-satellite/",
+      "first_party": true,
+      "reviewed_on": "2026-10-10"
+    },
+    {
+      "id": "S10",
+      "publisher": "Dubai Airshow",
+      "scope": "2027 Space programme with UAE Space Agency (different event)",
+      "url": "https://www.dubaiairshow.aero/visit/explore-features/show-features/space/",
+      "first_party": true,
+      "reviewed_on": "2026-10-10"
+    },
+    {
+      "id": "S11",
+      "publisher": "4 Earth Intelligence",
+      "scope": "Company geospatial EO analytics description",
+      "url": "https://www.4earthintelligence.com/about-us/",
+      "first_party": true,
+      "reviewed_on": "2026-10-10"
+    },
+    {
+      "id": "S12",
+      "publisher": "Stellaria",
+      "scope": "Company sovereign geospatial intelligence description",
+      "url": "https://stellaria.ai/",
+      "first_party": true,
+      "reviewed_on": "2026-10-10"
+    },
+    {
+      "id": "S13",
+      "publisher": "VASTARA",
+      "scope": "Company precision additive-manufacturing description",
+      "url": "https://www.vastaraae.com/about",
+      "first_party": true,
+      "reviewed_on": "2026-10-10"
+    },
+    {
+      "id": "S14",
+      "publisher": "HEX20",
+      "scope": "Company satellite platforms and services",
+      "url": "https://www.hex20.space/",
+      "first_party": true,
+      "reviewed_on": "2026-10-10"
+    },
+    {
+      "id": "S15",
+      "publisher": "Falcon Robotics",
+      "scope": "Company enterprise AI and edge computing",
+      "url": "https://falconrobotics.ae/about/",
+      "first_party": true,
+      "reviewed_on": "2026-10-10"
+    },
+    {
+      "id": "S16",
+      "publisher": "SpacePoint",
+      "scope": "Company satellite education programmes",
+      "url": "https://spacepoint.ae/",
+      "first_party": true,
+      "reviewed_on": "2026-10-10"
+    },
+    {
+      "id": "S17",
+      "publisher": "UAE Ministry of Foreign Affairs (Arabic)",
+      "scope": "Arabic-language roster confirmation",
+      "url": "https://www.mofa.gov.ae/ar-AE/Missions/Ankara/Media-hub/News/7-10-2026-ankara",
+      "first_party": true,
+      "reviewed_on": "2026-10-10"
+    }
+  ],
+  "atlas_crosswalk": {
+    "dataset": "CABSAT/SATExpo research snapshot, 55 records as of 2026-10-08",
+    "name_match_result": "No exact IAC entity names found in source catalogue on 2026-10-10; alias/identity reconciliation remains open",
+    "action": "Keep IAC IDs E01-E13 independent of CABSAT P/C IDs, do not add to old 55 count"
+  },
+  "pilot": {
+    "status": "HYPOTHESIS / NOT COMMISSIONED",
+    "question": "For one non-sensitive space-data use case, which actors, verifiable capabilities, documented links and unknown interfaces matter?",
+    "inputs_required": [
+      "question owner",
+      "public/licensed data scope",
+      "reviewer",
+      "baseline and acceptance criteria",
+      "rights to output"
+    ],
+    "outputs": [
+      "dated source register",
+      "actor capability matrix",
+      "source-scoped relation graph",
+      "open risks / unknown interfaces",
+      "reproducible review findings"
+    ],
+    "checks": [
+      "source for every material claim",
+      "no hypothetical partnership as fact",
+      "sample precision/completeness against a reviewer-defined baseline",
+      "usefulness and measured effort recorded"
+    ]
+  },
+  "boundaries": [
+    "Participants are not COSMOSYNTH partners",
+    "Some roster entries are government bodies and event organisers rather than commercial suppliers",
+    "Company capabilities and announcements are source claims, not independent audits",
+    "Future EMA and 2027 Dubai Airshow events are not completed IAC-2026 operations",
+    "Names of contacts, business cards, outreach messages, non-public strategies and personal data are excluded",
+    "MoFA English/Arabic display dates differ; exact press-posting time not established"
+  ]
+}
