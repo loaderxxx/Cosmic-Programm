@@ -8,6 +8,10 @@
 
 قد تساعد الفعالية في اكتشاف شركة، لكنها لا تثبت هويتها القانونية أو قدرتها التقنية الحالية أو عرض منتج بعينه أو علاقتها بنا. لهذه الأبعاد أدلة منفصلة.
 
+## IAC 2026 — جناح الإمارات للفضاء
+
+توثق [دراسة الجهات والعلاقات والفرضيات](../REGIONS/UAE/IAC_2026_PAVILION/README.md) 13 جهة سمّتها وزارة الخارجية الإماراتية ضمن جناح أنطاليا، 5–9 أكتوبر 2026، بمصادر أصلية وحدود معلنة. لا تضاف الأسماء تلقائياً إلى سجلات CABSAT/SATExpo الـ55.
+
 ## مسار المصادر الحالي
 
 [الدليل والدراسة الأصليان](https://github.com/loaderxxx/Cosmic-Programm/blob/75066d88bbcc96eb63f6242df48cbcf5eac9fc67/EN/RESEARCH/INDUSTRY/CABSAT_SATEXPO_2026/README.md) · [منهجية المصدر](https://github.com/loaderxxx/Cosmic-Programm/blob/75066d88bbcc96eb63f6242df48cbcf5eac9fc67/EN/RESEARCH/INDUSTRY/CABSAT_SATEXPO_2026/METHODOLOGY.md) · [المدخل العام للجهات](../ORGANIZATIONS/README.md).
