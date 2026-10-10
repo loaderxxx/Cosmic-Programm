@@ -1,0 +1,19 @@
+{
+  "schema_version":"1.0", "research_id":"CS-TRI-20261010", "locale":"AR", "target_branch":"lang/ar",
+  "recovered_commit":"0f2b9d52852c7c92b598a46b27275e55c9631d31",
+  "original_baseline_commit":"16073db5465c9bf0827f952a229bcded44dbd983",
+  "canonical_english_revision":"52f5ed6ab8295dc2b0b86fb127e7f280990b337c",
+  "status":"TRANSLATION_REVIEW", "independent_language_review":"NOT_PERFORMED",
+  "evidence_date_policy":"تُحفظ تواريخ الوثائق الأصلية وحدودها؛ نشر الترجمة ليس تحققاً جديداً من الوقائع.",
+  "graph_directory":"RESEARCH/RELATIONSHIPS/UAE_SPACE_ECOSYSTEM",
+  "packs":[
+    {"id":"program","source_root":"PROGRAM","target_root":"AR/PROGRAM","expected_count":35},
+    {"id":"technical_data","source_root":"RESEARCH/DATA","target_root":"AR/RESEARCH/DATA","expected_count":31},
+    {"id":"spacex_core","source_root":"RU/RESEARCH/EXTERNAL_PROGRAMS/SPACEX","target_root":"AR/RESEARCH/EXTERNAL_PROGRAMS/SPACEX","filename_pattern":"0[1-9]_.*\\.md","expected_count":9},
+    {"id":"uae_cooperation","source_root":"EN/RESEARCH/RELATIONSHIPS/UAE_SPACE_ECOSYSTEM","target_root":"AR/RESEARCH/RELATIONSHIPS/UAE_SPACE_ECOSYSTEM","expected_count":1}
+  ],
+  "not_in_completion_claim":["ترجمة الملفات التفصيلية للشركات الخمس والخمسين","الدراسات المطولة لـSpaceX والذكاء الاصطناعي والنصوص الصوتية","جميع فهارس الوثائق التاريخية","المراجعة العلمية واللغوية المستقلة"],
+  "compatibility_redirects":["EN/RESEARCH/RELATIONSHIPS/UAE_SPACE_ECOSYSTEM/README.md","RU/RESEARCH/RELATIONSHIPS/UAE_SPACE_ECOSYSTEM/README.md"],
+  "compatibility_note":"Redirect pages are navigation only, not counted as translated research. Actual English and Russian editions remain in main and lang/ru.",
+  "publication_boundary":"استُعيد البحث العلني السابق فقط؛ لم تُنقل جهات اتصال خاصة أو مفاوضات أو أسرار أو ملكية فكرية محمية."
+}
