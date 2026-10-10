@@ -65,3 +65,11 @@ Our own [Mission A/B/C concepts and pilot entry](PILOTS/README.md) connect this 
 **Independent and evidence-led.** A named organization is not automatically our partner. Private contacts, conversations, negotiations and protected research are excluded. [Public/private boundary](PRIVATE_CORE_POLICY.md) · [Language policy](LANGUAGE_POLICY.md) · [Licence](LICENSE.md).
 
 **Languages:** this entry and its reader-facing Atlas sections are maintained in English, Russian and Arabic. Detailed industry dossiers are currently English source documents; the historical technical corpus is not fully translated. Every language edition links to the same evidence and discloses these limits.
+
+## Contact / Контакты
+
+For project inquiries and technology collaboration: **[vladimir.uzbek.ai@gmail.com](mailto:vladimir.uzbek.ai@gmail.com)**.
+
+По вопросам проектов и сотрудничества: **[vladimir.uzbek.ai@gmail.com](mailto:vladimir.uzbek.ai@gmail.com)**.
+
+[Personal technology portfolio](https://personal-portfolio-web-production-1e48.up.railway.app/) · [All public GitHub projects](https://github.com/loaderxxx?tab=repositories&type=public).
