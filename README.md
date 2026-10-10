@@ -32,6 +32,8 @@ Our current output is an inspectable research foundation: organization dossiers,
 | **What can we learn from existing space programmes?** | [External programmes](ATLAS/EXTERNAL_PROGRAMS/README.md) — UAE, SpaceX, NASA, ESA and other research tracks. |
 | **How does this connect to the UAE ecosystem?** | [UAE research entry](ATLAS/REGIONS/UAE/README.md) — separate institutional roles, industry capabilities and realistic research discussions. |
 
+**New research · 10 October 2026:** [UAE Space Pavilion at IAC 2026 — source-graded ecosystem map](ATLAS/REGIONS/UAE/IAC_2026_PAVILION/README.md): 13 officially named actors, 17 primary links, scoped industry relationships and a proposed public-data pilot. This is not an exhaustive event census or an agency partnership.
+
 **Research snapshot · 8 October 2026:** 55 records in the working industry catalogue; 40 carry a primary product/organization source link; eight system configurations are research hypotheses. These are coverage indicators, not a complete exhibitor census, verified suppliers or signed partnerships. [Coverage and limitations](RESEARCH_STATUS.md).
 
 ## From research to a testable system
