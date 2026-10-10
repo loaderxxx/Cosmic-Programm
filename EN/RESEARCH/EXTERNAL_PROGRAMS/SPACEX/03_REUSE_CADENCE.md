@@ -3,78 +3,109 @@
 Date: **2026-09-22**  
 Version: **v0.1**
 
-## Unit of analysis
+> Complete translation of `RU/RESEARCH/EXTERNAL_PROGRAMS/SPACEX/03_REUSE_CADENCE.md`; source blob `b0bf8831dff24d5a1aec5d525356c091cac4cadd`; snapshot `16073db5465c9bf0827f952a229bcded44dbd983`. Translation date: 2026-10-08. Maturity and schedule statements remain dated source claims, not a new flight-status audit. Independent human language review is pending.
+
+## 1. Unit of analysis
 
 Not:
 
-**“a reusable rocket.”**
+**“a reusable rocket”**
 
-But:
+but:
 
-**“a reusable transport system with repeatable operations.”**
+**“a reusable transportation system with a repeatable operation.”**
 
-Value emerges when hardware can:
-1. fly again;
+Value arises when hardware can:
+1. fly repeatedly;
 2. return;
 3. be inspected;
-4. be repaired when required;
-5. be integrated;
-6. be tested;
-7. fly again at an acceptable cost and risk.
+4. be repaired when necessary;
+5. be integrated again;
+6. perform the next mission at acceptable cost and risk.
 
-## Why cadence matters
+## 2. Why cadence matters more than a reuse record
 
-A single booster with many flights does not by itself prove industrial-scale reuse.
+One booster that flies many times does not yet create an industrial system.
 
-Scale requires:
+What is needed:
 - fleet size;
 - flight rate;
-- processing;
+- processing capacity;
 - launch infrastructure;
 - maintenance;
 - spare inventory;
 - personnel;
-- range access;
-- demand.
+- range availability;
+- mission demand.
 
-Useful metrics:
+Therefore, KPIs for further analysis are:
 
-**repeatable missions / unit / time**
+**usable missions / unit / time**
 
-and:
+and
 
-**useful capability delivered / lifecycle cost**
+**useful payload / total lifecycle cost.**
 
-## Falcon as evidence
+## 3. Falcon as an evidence base
 
-Falcon has a long history of operational reuse, which is strong evidence for the existence of a reusable launch service architecture.
+The Falcon User's Guide describes launch operations, mission integration, verification and facilities as a standard service architecture.
 
-## Starship is a separate maturity question
+This points to the industrialization of the launch service.
 
-Starship HLS has additional integrated dependencies, including cryogenic propellant transfer and turnaround requirements.
+## 4. Starship represents a separate maturity level
 
-Therefore Falcon evidence should not be transferred directly to Starship.
+NASA OIG notes that Starship HLS faces delays and integrated technologies that have not yet been demonstrated, including cryogenic propellant transfer.
 
-## Turnaround
+Consequently, Falcon 9's operational maturity cannot be transferred directly to Starship.
 
-NASA OIG identifies launch-pad turnover as a material requirement/risk for HLS, illustrating that cadence is a property of infrastructure, hardware and process together.
+## 5. Turnaround as a system bottleneck
 
-## Learning throughput
+For HLS, NASA OIG identifies a requirement for launch-pad turnover of 12–24 days and notes the risk that this has not yet been demonstrated.
 
-A useful research heuristic:
+This is a particularly important point for Cosmic Programm:
+
+**Cadence is a property of infrastructure + hardware + process, not just the vehicle.**
+
+## 6. Engineering loop
+
+High cadence generates more than revenue.
+
+It produces:
+- more flight data;
+- more anomaly data;
+- more maintenance data;
+- more process data;
+- more statistical confidence.
+
+However, higher cadence without appropriate instrumentation may simply accelerate the production of errors.
+
+Therefore:
 
 **CADENCE × MEASUREMENT QUALITY = LEARNING THROUGHPUT**
 
-This is a Cosmic Programm analytical formula, not a SpaceX-published metric.
+This is our analytical formula, not a published SpaceX formula.
 
-## Cosmic Programm transfer
+## 7. Transfer to the space programme
 
-Prefer repeated demonstrations over a single heroic prototype whenever the research question permits it.
+Instead of immediately attempting to build a large lunar system, we should seek capabilities that can be repeated.
+
+For example:
+- a repeatable autonomous ground experiment;
+- a repeatable robotics task;
+- a repeatable communications test;
+- a repeatable power cycle;
+- a repeatable orbital-service experiment.
+
+The goal is:
+
+**a series of iterations rather than one “heroic” prototype.**
 
 ## Open questions
 
-- Real turnaround times by booster class;
-- refurbishment burden;
-- lifecycle cost by reuse class;
-- failure/recovery economics;
-- cadence dependence on internal demand.
+- Actual turnaround times across the booster fleet.
+- Average refurbishment burden.
+- Cost per flight by reuse class.
+- Failure and recovery economics.
+- The extent to which cadence depends on Starlink.
+
+[Russian source](../../../../RU/RESEARCH/EXTERNAL_PROGRAMS/SPACEX/03_REUSE_CADENCE.md) · [Arabic translation](../../../../AR/RESEARCH/EXTERNAL_PROGRAMS/SPACEX/03_REUSE_CADENCE.md)
